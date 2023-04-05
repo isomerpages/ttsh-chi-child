@@ -1,7 +1,7 @@
 logo: /images/chi logo full.png
 links:
-  - title: About CHILD
-    collection: example-folder
+  - title: About Child
+    collection: about-child
   - title: CHILD Collection
     resource_room: true
   - title: Contact Us
