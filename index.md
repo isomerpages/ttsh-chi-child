@@ -2,7 +2,7 @@
 layout: homepage
 title: CHI Learning & Development System (CHILD)
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/chi logo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
