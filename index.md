@@ -16,11 +16,9 @@ sections:
         title: Search our CHILD collection
         options:
           - title: Care & Process Redesign
-            url: ""
+            url: https://staging.d33f4rx9vjypzg.amplifyapp.com/child-collection/care-and-process-redesign/
           - title: Workforce Transformation
-            url: ""
-          - title: Applied Research
-            url: ""
+            url: https://staging.d33f4rx9vjypzg.amplifyapp.com/child-collection/workforce-transformation/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
