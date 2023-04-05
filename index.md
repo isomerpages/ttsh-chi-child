@@ -26,4 +26,5 @@ sections:
       button: Find out more
       image: /images/chi innovation cycle.png
       url: https://staging.d33f4rx9vjypzg.amplifyapp.com/example-folder/folder-page/
+      alt: CHI Innovation Cycle
 ---
