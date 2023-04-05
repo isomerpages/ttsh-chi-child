@@ -2,5 +2,5 @@ collections:
   about-child:
     output: true
     order:
-      - Disclaimer.md
       - About CHILD.md
+      - Disclaimer.md
