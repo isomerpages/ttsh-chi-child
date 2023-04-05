@@ -4,24 +4,21 @@ title: CHI Learning & Development System (CHILD)
 description: Brief site description here
 image: /images/chi logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      dropdown:
+        title: Search our CHILD collection
+        options:
+          - title: Care & Process Redesign
+            url: ""
+          - title: Workforce Transformation
+            url: ""
+          - title: Applied Research
+            url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
