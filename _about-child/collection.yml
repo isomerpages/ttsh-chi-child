@@ -2,6 +2,6 @@ collections:
   about-child:
     output: true
     order:
+      - About CHILD.md
       - Editor's Pick.md
       - Problem Statements.md
-      - About CHILD.md
