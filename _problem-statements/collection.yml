@@ -1,4 +1,5 @@
 collections:
   problem-statements:
     output: true
-    order: []
+    order:
+      - Problem Statements.md
