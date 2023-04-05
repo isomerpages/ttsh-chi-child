@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d33f4rx9vjypzg.amplifyapp.com
 prod: https://master.d33f4rx9vjypzg.amplifyapp.com
 resources_name: child-collection
-shareicon: ""
+shareicon: /images/chi logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
