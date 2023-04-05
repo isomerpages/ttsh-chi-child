@@ -1,6 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: CHILD Collection
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/
