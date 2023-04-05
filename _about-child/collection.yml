@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  about-child:
     output: true
     order:
       - About CHILD.md
