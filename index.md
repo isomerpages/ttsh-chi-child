@@ -7,8 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Share - Learn - Do
+      subtitle: Our mission is to engage like-minded institutions and agencies to
+        co-learn and co-create new healthcare innovations and new ways of
+        learning.
       background: /images/hero-banner.png
       dropdown:
         title: Search our CHILD collection
