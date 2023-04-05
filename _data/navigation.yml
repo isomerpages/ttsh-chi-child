@@ -6,7 +6,5 @@ links:
     collection: editor-pick
   - title: CHILD Collection
     resource_room: true
-  - title: Problem Statement
-    collection: problem-statements
   - title: Contact Us
     url: /contact-us/
