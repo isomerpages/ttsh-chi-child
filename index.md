@@ -21,4 +21,10 @@ sections:
             url: ""
           - title: Applied Research
             url: ""
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
