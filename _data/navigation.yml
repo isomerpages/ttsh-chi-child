@@ -6,3 +6,5 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
+  - title: Editor's Pick
+    collection: editor-pick
