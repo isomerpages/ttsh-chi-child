@@ -1,5 +1,0 @@
-collections:
-  problem-statements:
-    output: true
-    order:
-      - Problem Statements.md
