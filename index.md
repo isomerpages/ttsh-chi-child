@@ -11,7 +11,7 @@ sections:
       subtitle: Our mission is to engage like-minded institutions and agencies to
         co-learn and co-create new healthcare innovations and new ways of
         learning.
-      background: /images/children.png
+      background: /images/children_2.png
       dropdown:
         title: Search our CHILD collection
         options:
