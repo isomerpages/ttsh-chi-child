@@ -18,4 +18,4 @@ description: ""
 5. All IP matters arising from the projects shared on CHILD are the properties of the respective Institutions. CHI is not responsible for any IP that may arise from collaborations borne out of CHILD. Any further IP arising from collaborations between the Institutions or its employees or any other person shall be managed by the respective parties.
 
 
-6. Should you use any of the content shared on this site, please credit or cite source of content, such that due acknowledgement of effort can be given to the content owner/ institution.
+6. Should you use any of the content shared on this site, please credit or cite source of content, such that due acknowledgement of effort can be given to the content owner/ institution.*
