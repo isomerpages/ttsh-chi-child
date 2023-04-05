@@ -2,11 +2,11 @@ logo: /images/chi logo full.png
 links:
   - title: About Child
     collection: about-child
-  - title: CHILD Collection
-    resource_room: true
   - title: Editor's Pick
     collection: editor-pick
-  - title: Contact Us
-    url: /contact-us/
+  - title: CHILD Collection
+    resource_room: true
   - title: Problem Statement
     collection: problem-statements
+  - title: Contact Us
+    url: /contact-us/
