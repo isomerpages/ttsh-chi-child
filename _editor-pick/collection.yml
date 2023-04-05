@@ -1,4 +1,5 @@
 collections:
   editor-pick:
     output: true
-    order: []
+    order:
+      - Editor's Pick.md
