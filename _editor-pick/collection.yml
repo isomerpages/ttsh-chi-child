@@ -2,4 +2,5 @@ collections:
   editor-pick:
     output: true
     order:
+      - "Curator's Pick #2.md"
       - Editor's Pick.md
