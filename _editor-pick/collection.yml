@@ -2,5 +2,6 @@ collections:
   editor-pick:
     output: true
     order:
+      - Previous Seasonal Highlights.md
       - Editor's Pick.md
       - "Curator's Pick #2.md"
