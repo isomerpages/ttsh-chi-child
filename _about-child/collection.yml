@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - What is CHILD.md
-      - Disclaimer.md
+      - FAQs.md
