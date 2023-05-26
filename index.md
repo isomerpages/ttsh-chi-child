@@ -15,6 +15,10 @@ sections:
       dropdown:
         title: Search our CHILD collection
         options:
+          - title: Applied Research
+            url: ""
+          - title: Care Continuum
+            url: ""
           - title: Care & Process Redesign
             url: https://staging.d33f4rx9vjypzg.amplifyapp.com/child-collection/care-and-process-redesign/
           - title: Workforce Transformation
