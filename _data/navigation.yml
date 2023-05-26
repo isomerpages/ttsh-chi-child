@@ -1,10 +1,10 @@
 logo: /images/chi logo full.png
 links:
-  - title: About Child
-    collection: about-child
   - title: Share
     collection: share
-  - title: CHILD Collection
+  - title: LEARN
     resource_room: true
+  - title: About Child
+    collection: about-child
   - title: Contact Us
     url: /contact-us/
