@@ -30,7 +30,7 @@ sections:
         projects from our archives:"
       button: Find out more
       image: /images/chi innovation cycle.png
-      url: https://staging.d33f4rx9vjypzg.amplifyapp.com/example-folder/folder-page/
+      url: https://staging.d33f4rx9vjypzg.amplifyapp.com/editor-pick/permalink/
       alt: CHI Innovation Cycle
   - resources:
       title: What's Trending Now
