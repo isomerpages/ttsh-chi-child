@@ -1,5 +1,5 @@
 collections:
-  share2:
+  about-child:
     output: true
     order:
       - About CHILD.md
