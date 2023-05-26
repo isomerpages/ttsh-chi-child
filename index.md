@@ -20,11 +20,27 @@ sections:
           - title: Workforce Transformation
             url: https://staging.d33f4rx9vjypzg.amplifyapp.com/child-collection/workforce-transformation/
   - infopic:
-      title: CHILD
-      description: Welcome to the preview of what the CHI Learning & Development
-        (CHILD) System can offer you!
+      title: Editor's Pick
+      description: "Browse the TOP PICKS from our collection! Don't know where to
+        start? The CHILD team has curated some outstanding best practice
+        projects from our archives:"
       button: Find out more
       image: /images/chi innovation cycle.png
       url: https://staging.d33f4rx9vjypzg.amplifyapp.com/example-folder/folder-page/
       alt: CHI Innovation Cycle
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
