@@ -32,6 +32,9 @@ sections:
       image: /images/chi innovation cycle.png
       url: https://staging.d33f4rx9vjypzg.amplifyapp.com/example-folder/folder-page/
       alt: CHI Innovation Cycle
+  - resources:
+      title: What's Trending Now
+      button: More in CHILD's Collection
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
@@ -43,8 +46,4 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
