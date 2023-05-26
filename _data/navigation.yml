@@ -2,8 +2,8 @@ logo: /images/chi logo full.png
 links:
   - title: About Us
     collection: about-child
-  - title: Editor's Pick
-    collection: editor-pick
+  - title: Share
+    collection: share
   - title: CHILD Collection
     resource_room: true
   - title: Contact Us
