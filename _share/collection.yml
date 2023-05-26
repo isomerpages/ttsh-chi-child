@@ -2,6 +2,6 @@ collections:
   share:
     output: true
     order:
-      - Share.md
+      - Submit Your Project.md
       - "Curator's Pick #2.md"
       - Previous Seasonal Highlights.md
