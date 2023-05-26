@@ -4,7 +4,9 @@ links:
     collection: share
   - title: LEARN
     resource_room: true
-  - title: About Child
+  - title: DO
+    collection: do-connect
+  - title: About CHILD
     collection: about-child
   - title: Contact Us
     url: /contact-us/
