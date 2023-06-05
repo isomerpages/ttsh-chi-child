@@ -46,4 +46,5 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/search_gif.gif
 ---
