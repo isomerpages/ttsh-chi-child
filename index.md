@@ -1,7 +1,9 @@
 ---
 layout: homepage
 title: CHI Learning & Development System (CHILD)
-description: Brief site description here
+description: CHILD aims to be an open resource to anyone in the world to access
+  and contribute, and we envision for all players in health ecosystem to
+  Share-Learn-Do.
 image: /images/chi logo.png
 permalink: /
 notification: ""
