@@ -1,4 +1,5 @@
 collections:
   do-connect:
     output: true
-    order: []
+    order:
+      - CONNECT & DO.md
