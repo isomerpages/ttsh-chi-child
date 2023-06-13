@@ -50,10 +50,13 @@ sections:
       title: What's Trending Now
       button: More in CHILD's Collection
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Search Now
+      subtitle: They share, you learn, we do
+      description: "We've scoured the country far and wide to gather the wildest,
+        boldest, and downright mind-boggling healthcare innovations you've ever
+        seen. "
+      button: Make CHILd your first step to visit
       alt: Image alt text
       image: /images/search_gif.gif
+      url: https://staging.d33f4rx9vjypzg.amplifyapp.com/learn-child-collection/
 ---
