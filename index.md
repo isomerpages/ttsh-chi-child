@@ -49,11 +49,6 @@ sections:
   - resources:
       title: What's Trending Now
       button: More in CHILD's Collection
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
