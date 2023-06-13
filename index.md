@@ -50,13 +50,13 @@ sections:
       title: What's Trending Now
       button: More in CHILD's Collection
   - infopic:
-      title: Search Now
+      title: Akan Datang
       subtitle: They share, you learn, we do
-      description: "We've scoured the country far and wide to gather the wildest,
+      description: We've scoured the country far and wide to gather the wildest,
         boldest, and downright mind-boggling healthcare innovations you've ever
-        seen. "
-      button: Make CHILd your first step to visit
+        seen.
+      button: Make CHILD Your 1st Step
       alt: Image alt text
-      image: /images/search_gif.gif
-      url: https://staging.d33f4rx9vjypzg.amplifyapp.com/learn-child-collection/
+      image: /images/child_youtube_qr-code.png
+      url: https://staging.d33f4rx9vjypzg.amplifyapp.com/do-connect/permalink/
 ---
