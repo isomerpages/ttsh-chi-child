@@ -23,15 +23,15 @@ sections:
             url: ""
           - title: Care & Process Redesign
             url: https://staging.d33f4rx9vjypzg.amplifyapp.com/child-collection/care-and-process-redesign/
+          - title: Automation, IT & Robotics
+            url: ""
           - title: Workforce Transformation
             url: https://staging.d33f4rx9vjypzg.amplifyapp.com/child-collection/workforce-transformation/
-          - title: Text 5
+          - title: National HIP Medals
             url: ""
-          - title: Text 6
+          - title: Organisational Leadership
             url: ""
-          - title: Text 7
-            url: ""
-          - title: Text 8
+          - title: Toolkits
             url: ""
           - title: Text 9
             url: ""
