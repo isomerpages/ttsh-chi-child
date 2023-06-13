@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Submit Your Project.md
-      - "Curator's Pick #2.md"
+      - Pick of the Month.md
       - Previous Seasonal Highlights.md
