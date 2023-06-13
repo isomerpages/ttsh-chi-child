@@ -1,5 +1,5 @@
 collections:
-  do-connect:
+  do:
     output: true
     order:
       - CONNECT & DO.md
