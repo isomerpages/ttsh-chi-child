@@ -51,5 +51,3 @@ We serve up weekly dose of tips and tales on healthcare innovation from across S
 
 
 For more on how you can break free from institutional barriers and collaborate across boundaries, email us at  CHILD@CHI.SG
-
-
