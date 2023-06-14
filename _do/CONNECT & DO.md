@@ -9,24 +9,47 @@ Hit that follow button on our social media to **get connected** with like-minded
 
 We serve up weekly dose of tips and tales on healthcare innovation from across Singapore and beyond.
 
+<style>
+* {
+  box-sizing: border-box;
+}
 
-<div>
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+
+
+
+
 <div class="row">
-<div class="col"> 
-<img alt="1st" src="/images/linkedin_child%20qr-code.png">
-		<div style="text-align:center;" class="header"></div>
+ <div class="column">
+    <img style="width:100%" alt="Snow" src="/images/linkedin_child%20qr-code.png">
+  </div>
+  <div class="column">
+    <img style="width:100%" alt="Forest" src="/images/facebook_child%20qr-code.png">
+  </div>
+</div>
 
 
-</div>
-	<div class="col"> 
-<img alt="2nd person" src="/images/facebook_child%20qr-code.png">
-	<div style="text-align:center;" class="header"><b>
- </b></div>
-		
-</div>
-		
-<div>
+
+
+
+
+
+
+
+
 For more on how you can break free from institutional barriers and collaborate across boundaries, email us at  CHILD@CHI.SG
-</div>
 
-</div></div>
+
