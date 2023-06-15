@@ -33,10 +33,6 @@ sections:
             url: ""
           - title: Toolkits
             url: ""
-          - title: Text 9
-            url: ""
-          - title: Text 10
-            url: ""
   - infopic:
       title: Editor's Pick
       description: "Browse the TOP PICKS from our collection! Don't know where to
