@@ -3,18 +3,18 @@ url: https://www.child.chi.sg
 favicon: /images/chi logo.png
 colors:
   primary-color: "#a6192e"
-  secondary-color: "#75787b"
+  secondary-color: "#a6192e"
   media-colors:
     - title: media-color-one
-      color: "#f5a623"
+      color: "#a76f5e"
     - title: media-color-two
-      color: "#a5b452"
+      color: "#bb372e"
     - title: media-color-three
-      color: "#4e8098"
+      color: "#bc8885"
     - title: media-color-four
-      color: "#607196"
+      color: "#9b9b9b"
     - title: media-color-five
-      color: "#f1ab86"
+      color: "#94795d"
 description: CHILD aims to be an open resource to anyone in the world to access
   and contribute, and we envision for all players in health ecosystem to
   Share-Learn-Do.
