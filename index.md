@@ -12,7 +12,7 @@ sections:
       title: Share - Learn - Do
       subtitle: "Looking for inspiration for your project? Sift through our growing
         collection of innovation projects from Singapore & beyond: they Share,
-        you Learn and we Do! "
+        you Learn and we Do!"
       background: /images/masthead_child3.jpg
       dropdown:
         title: Search our CHILD collection
@@ -40,7 +40,7 @@ sections:
         projects from our archives:"
       button: Find out more
       image: /images/chi innovation cycle.png
-      url: https://staging.d33f4rx9vjypzg.amplifyapp.com/editor-pick/permalink/
+      url: https://staging.d33f4rx9vjypzg.amplifyapp.com/share/pickofthemonth/
       alt: CHI Innovation Cycle
   - resources:
       title: What's Trending Now
