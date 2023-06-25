@@ -3,8 +3,8 @@ title: Submit Your Project
 permalink: /share/submityourproject/
 description: ""
 ---
-![Sample Curator's Choice #1 ](/images/chi%20innovation%20cycle.png)
 
-Sample Curator's Choice #1
 
-If you wanna know more, click HERE
+Contributed by innovators and improvement enthusiasts across the healthcare sector, CHILD is open to anyone *(e.g. local and international healthcare institutions, industry players, academia and the public)* keen to share, learn and collaborate. 
+
+If you like to play a part in co-creating CHILD, we invite you to submit a contribution of your work here at CHILD@CHI.SG 
