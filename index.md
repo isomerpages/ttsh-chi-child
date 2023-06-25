@@ -10,9 +10,9 @@ notification: ""
 sections:
   - hero:
       title: Share - Learn - Do
-      subtitle: Our mission is to engage like-minded institutions and agencies to
-        co-learn and co-create new healthcare innovations and new ways of
-        learning.
+      subtitle: "Looking for inspiration for your project? Sift through our growing
+        collection of innovation projects from Singapore & beyond: they Share,
+        you Learn and we Do! "
       background: /images/masthead_child3.jpg
       dropdown:
         title: Search our CHILD collection
@@ -51,7 +51,7 @@ sections:
       description: While we're working hard to put together a robust knowledge
         management (KM) platform for you, we want you to have a taste of the
         knowledge you can find or share
-      button: "Make CHILD Your 1st Step "
+      button: Make CHILD Your 1st Step
       alt: Image alt text
       image: /images/child_youtube_qr-code.png
       url: https://staging.d33f4rx9vjypzg.amplifyapp.com/do-connect/permalink/
