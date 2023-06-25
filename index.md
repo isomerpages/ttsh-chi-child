@@ -46,12 +46,12 @@ sections:
       title: What's Trending Now
       button: More in CHILD's Collection
   - infopic:
-      title: Akan Datang
-      subtitle: They share, you learn, we do
-      description: We've scoured the country far and wide to gather the wildest,
-        boldest, and downright mind-boggling healthcare innovations you've ever
-        seen.
-      button: Make CHILD Your 1st Step
+      title: Akan Datang in 2024
+      subtitle: Preview of CHILD
+      description: While we're working hard to put together a robust knowledge
+        management (KM) platform for you, we want you to have a taste of the
+        knowledge you can find or share
+      button: "Make CHILD Your 1st Step "
       alt: Image alt text
       image: /images/child_youtube_qr-code.png
       url: https://staging.d33f4rx9vjypzg.amplifyapp.com/do-connect/permalink/
