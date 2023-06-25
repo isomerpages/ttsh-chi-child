@@ -2,4 +2,4 @@ collections:
   do:
     output: true
     order:
-      - CONNECT & DO.md
+      - CONNECT & COLLABORATE.md
