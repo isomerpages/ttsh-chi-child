@@ -54,5 +54,5 @@ sections:
       button: Make CHILD Your 1st Step
       alt: Image alt text
       image: /images/child_youtube_qr-code.png
-      url: https://staging.d33f4rx9vjypzg.amplifyapp.com/do-connect/permalink/
+      url: https://staging.d33f4rx9vjypzg.amplifyapp.com/learn-child-collection/
 ---
