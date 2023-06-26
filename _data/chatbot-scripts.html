@@ -1,27 +1,38 @@
-<div
-    id="webchat"
-    app-id="gt-ask-gobiz"
-    app-name="Ask GoBiz"
-    app-color="#037e8a"
-    app-foreground-color1="white"
-    app-background-color2="white"
-    app-foreground-color-2="#2e2e2e"
-    app-canvas-background-color="#dcdcdc"
-    app-button-border-color="#b3d8dc"
-    app-quick-reply-button-background-color="#fafdfd"
-    app-font-family="hknova-regular"
-    app-base-font-size="14"
-    app-auto-launch="false"
-    app-quick-launch-event="welcome"
-    app-bot-response-trigger-event="false"
-    app-icon="https://www.gobusiness.gov.sg/images/VICA-avatar-210px.png" 
-    app-subtitle="Chat with us"
-    role="region"
-    aria-label="chatbot"
-></div>
-<script
-    type="text/javascript" 
-    src="https://webchat.vica.gov.sg/static/js/chat.js" 
-    referrerpolicy="origin"
-></script>
-<script src="https://unpkg.com/@gobusinessgovsg/generateloginbutton@1.0.0/index.js" defer></script>
+<html>
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="theme-color" content="#000000" />
+    <link
+      href="https://webchat.vica.gov.sg/static/css/chat.css" referrerpolicy="origin" rel="stylesheet"
+    />
+    
+    <style type="text/css">
+      #webchat 
+
+      ul {
+      list-style: disc; !important;
+      }    
+    </style> 
+  </head>
+  
+  <script
+      type="text/javascript"
+      src="https://webchat.vica.gov.sg/static/js/chat.js"
+      referrerpolicy="origin">
+    </script>
+  
+  <div id="webchat" app-id="gt-ask-gayle" app-name="AskGayle" app-color="#B41E8E"
+      app-icon="https://www.tech.gov.sg/images/AskGayle-gif.gif" app-subtitle="" app-welcome-message="Chat with Gayle!"
+      app-base-font-size="16" app-position-right="40" app-position-bottom="40" app-enable-auto-complete="true"
+      app-enable-recommendations="false" app-auto-launch="false"
+      app-bot-response-trigger-event="false" app-quick-launch-event="welcome" app-foreground-color1="#F5F5F5"
+      app-foreground-color-2="#4D4D4F" app-background-color2="#F5F5F5" app-canvas-background-color="#E3E3E3"
+      app-button-border-color="#B41E8E" app-quick-reply-button-background-color="#F5F5F5"
+      app-auto-complete-background-color="#E5CFE0" app-auto-complete-foreground-color="#4D4D4F"
+      app-auto-complete-hover-color="#E2ABD4" app-auto-complete-divider-color="#B41E8E"
+      app-recommendations-background-color="#E5CFE0" app-recommendations-foreground-color="#4D4D4F"
+      app-recommendations-hover-color="#E2ABD4" app-launcher-animation-iteration="0" app-orchestrator-timeout="8000"
+      app-font-family="Lato">
+  </div>
+</html>
