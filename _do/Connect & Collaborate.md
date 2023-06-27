@@ -7,7 +7,7 @@ Tired of playing solo in your innovation bubble?
 
 Hit that follow button on our social media to <strong>get connected</strong> with like-minded innovators!
 
-We serve up a weekly dose of tips and tales on healthcare innovation from across Singapore and beyond.
+We serve up a weekly dose of tips and tales on healthcare innovation from across Singapore and beyond.dsad
 
 <style>
   {
