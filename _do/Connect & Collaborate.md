@@ -10,7 +10,7 @@ Hit that follow button on our social media to **get connected** with like-minded
 We serve up weekly dose of tips and tales on healthcare innovation from across Singapore and beyond.
 
 <style>
-* {
+ {
   box-sizing: border-box;
 }
 
@@ -20,7 +20,6 @@ We serve up weekly dose of tips and tales on healthcare innovation from across S
   padding: 5px;
 }
 
-/* Clearfix (clear floats) */
 .row::after {
   content: "";
   clear: both;
