@@ -105,7 +105,7 @@ Brought to you by xxx....
 	<input id="title2" type="checkbox"><label for="title2"><h4>5 Ways to Rally a Community in a Pandemic</h4>*by <b>Centre for Healthcare Innovation</b></label>
 	<div class="accordion-content">
 	<div class="para">Brought to you by xxx.... 
-		<img src="/images/maliki%20osman_pmo.png">
+		<img style="width:75%;height:75%;" src="/images/maliki%20osman_pmo.png">
 		<a href="​&quot;https://shorturl.at/efkVZ&quot;">https://shorturl.at/efkVZ</a>
 </div>
 	</div>
