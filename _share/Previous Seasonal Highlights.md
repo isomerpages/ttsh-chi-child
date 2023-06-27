@@ -3,8 +3,6 @@ title: Previous Seasonal Highlights
 permalink: /share/previousseasonalhighlights/
 description: ""
 ---
-
-
 <style>
 .button {
   background-color: white;
@@ -25,10 +23,6 @@ description: ""
   overflow: hidden;
 }
 
-img {
-  width: 150px;
-  height: 180px;
-}
 
 .active,
 .button:hover {
@@ -117,9 +111,3 @@ Brought to you by xxx....
 	</div>
 		</div>
 		</div>
-
-
-
-
-
-
