@@ -34,10 +34,10 @@ We serve up weekly dose of tips and tales on healthcare innovation from across S
 
 <div class="row">
  <div class="column">
-    <img style="width:350px;height:350px" alt="Snow" src="/images/linkedin_child%20qr-code.png">
+    <img style="width:50%" alt="Snow" src="/images/linkedin_child%20qr-code.png">
   </div>
   <div class="column">
-    <img style="width:350px;height:350px" alt="Forest" src="/images/facebook_child%20qr-code.png">
+    <img style="width:50%" alt="Forest" src="/images/facebook_child%20qr-code.png">
   </div>
 </div>
 
