@@ -7,8 +7,7 @@ Tired of playing solo in your innovation bubble?
 
 Hit that follow button on our social media to <strong>get connected</strong> with like-minded innovators!
 
-We serve up a weekly dose of tips and tales on healthcare innovation from across Singapore and beyond.dsad
-
+We serve up a weekly dose of tips and tales on healthcare innovation from across Singapore and beyond.
 <style>
   {
     box-sizing: border-box;
@@ -29,10 +28,10 @@ We serve up a weekly dose of tips and tales on healthcare innovation from across
 
 <div class="row">
   <div class="column">
-    <img style="width:65%" alt="Snow" src="/images/linkedin_child%20qr-code.png">
+   <a href="https://www.linkedin.com/showcase/chi-learning-&amp;-development-system/"> <img style="width:65%" alt="Snow" src="/images/linkedin_child%20qr-code.png"></a>
   </div>
   <div class="column">
-    <img style="width:65%" alt="Forest" src="/images/facebook_child%20qr-code.png">
+    <a href="https://m.facebook.com/CHILDKM"><img style="width:65%" alt="Forest" src="/images/facebook_child%20qr-code.png"></a>
   </div>
 </div>
 
