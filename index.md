@@ -53,6 +53,6 @@ sections:
         knowledge you can find or share
       button: Make CHILD Your 1st Step
       alt: Image alt text
-      image: /images/child_youtube_qr-code (2).png
+      image: /images/qr code.png
       url: https://staging.d33f4rx9vjypzg.amplifyapp.com/learn-child-collection/
 ---
