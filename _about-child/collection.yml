@@ -2,5 +2,6 @@ collections:
   about-child:
     output: true
     order:
+      - Disclaimer.md
       - What is CHILD.md
       - FAQs.md
