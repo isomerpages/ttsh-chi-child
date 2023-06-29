@@ -39,7 +39,7 @@ sections:
         start? The CHILD team has curated some outstanding best practice
         projects from our archives:"
       button: Find out more
-      image: /images/chi innovation cycle.png
+      image: /images/editor's pick.png
       url: https://staging.d33f4rx9vjypzg.amplifyapp.com/share/pickofthemonth/
       alt: CHI Innovation Cycle
   - resources:
