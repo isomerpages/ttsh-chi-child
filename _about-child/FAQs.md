@@ -97,9 +97,10 @@ input:checked + label + .accordion-content {
 
 
 <div>
-	<input id="title1" type="checkbox"><label for="title1">Endorsement</label>
+	<input id="title1" type="checkbox"><label for="title1">Hosting of 3rd Party Content</label>
 	<div class="accordion-content">
-	<div class="para">CHI does not endorse any content submitted by any content provider, or any opinion, recommendation, or advice expressed therein, and CHI expressly disclaims any and all liability in connection with such content.
+	<div class="para">CHI/ CHILD provides a platform and merely **hosts content** submitted by Content Providers, allowing users of CHILD to tap on the knowledge and insights of the wider healthcare community.
+		
 </div>
 	</div>
 	<input id="title2" type="checkbox"><label for="title2">Submissions</label>
