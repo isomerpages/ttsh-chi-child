@@ -3,7 +3,7 @@ title: FAQs
 permalink: /about-child/faqs/
 description: ""
 ---
-#### **Frequently Asked Questions (FAQs)** <br>
+### **Frequently Asked Questions (FAQs)** <br>
 
 <br>
 
