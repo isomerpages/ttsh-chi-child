@@ -121,7 +121,7 @@ By submitting content to CHI, the content provider acknowledges that it does not
 All content hosted on this site are voluntary submissions by content providers.
 
 The content provider grants CHI and users of CHILD a non-exclusive, non-transferable, worldwide and royalty-free licence to:
-* Host, access, use, copy, modify, adapt, translate the content;
+* Host, access, use, copy, modify, share, adapt, translate the content;
 
 * Distribute, store, display the content in all media formats and channels.
 </div>
