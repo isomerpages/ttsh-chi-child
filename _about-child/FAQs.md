@@ -99,32 +99,47 @@ input:checked + label + .accordion-content {
 <div>
 	<input id="title1" type="checkbox"><label for="title1">Hosting of 3rd Party Content</label>
 	<div class="accordion-content">
-	<div class="para">CHI/ CHILD provides a platform and merely **hosts content** submitted by Content Providers, allowing users of CHILD to tap on the knowledge and insights of the wider healthcare community.
+	<div class="para">CHI/ CHILD provides a platform and merely hosts content submitted by Content Providers, allowing users of CHILD to tap on the knowledge and insights of the wider healthcare community.
+		
+<br> CHI does not endorse nor guarantee the truth, falsity or originality of any content submitted by any content provider, or any opinion, recommendation, or advice expressed therein, and CHI expressly disclaims any connection with such content.
+
+CHI reserves the right to remove any content without prior notice if properly notified that the content infringes on another Party’s intellectual property rights.
 		
 </div>
 	</div>
-	<input id="title2" type="checkbox"><label for="title2">Submissions</label>
+	<input id="title2" type="checkbox"><label for="title2">Confidentiality</label>
 	<div class="accordion-content">
-	<div class="para">All content hosted on this site are voluntary submissions by content providers. By submitting content to CHI, the content provider acknowledges that it does not contain any sensitive or confidential information such as patients details, detailed financial data and etc.; and that the submitter has ensured his/ her Institution has deemed it suitable for public visibility.&nbsp;
+	<div class="para">   
+
+By submitting content to CHI, the content provider acknowledges that it does not contain any sensitive or confidential information, such as patient details, detailed financial data and etc.; and that the submitter has obtained the necessary approvals from his/her institution, and that his/her institution has deemed it suitable for public visibility.;
 </div>
 	</div>
-	<input id="title3" type="checkbox"><label for="title3">Accessibility</label>
+	<input id="title3" type="checkbox"><label for="title3">Uploading &amp; Sharing of Content</label>
 	<div class="accordion-content">
-	<div class="para">The content provider grants CHI and users of CHILD a non-exclusive, transferable, worldwide license to: access, view and modify the content; store the content and any modified content; share and distribute the content.
+	<div class="para">   
+
+All content hosted on this site are voluntary submissions by content providers.
+
+The content provider grants CHI and users of CHILD a non-exclusive, non-transferable, worldwide, royalty-free licence to:
+* Host, access, use, copy, modify, adapt, translate the content;
+
+* Distribute, store, display the content in all media formats and channels.
 </div>
 	</div>
-<input id="title4" type="checkbox"><label for="title4">Removal of Rights</label>
+<input id="title4" type="checkbox"><label for="title4">IP Rights</label>
 	<div class="accordion-content">
-	<div class="para">CHI reserves the right to remove any content without prior notice if properly notified that the content infringes on another Party's Intellectual Property (IP) rights.
+	<div class="para"> All IP arising from the projects shared on CHILD are the properties of the respective Content Providers.
+
+<br> CHI is not responsible for any IP that may arise from collaborations borne out of CHILD. Any further IP arising from collaborations between the Institutions or its employees or any other person shall be managed by the respective parties.
 </div></div>
 <div>
-	<input id="title5" type="checkbox"><label for="title5">Intellectual Property</label>
+	<input id="title5" type="checkbox"><label for="title5">Limited of Use (for Toolkits)</label>
 	<div class="accordion-content">
-	<div class="para">All IP matters arising from the projects shared on CHILD are the properties of the respective Institutions. CHI is not responsible for any IP that may arise from collaborations borne out of CHILD. Any further IP arising from collaborations between the Institutions or its employees or any other person shall be managed by the respective parties.
+	<div class="para"> © Copyright 2019 National Healthcare Group, Singapore. All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any way, for or by any means electronic or mechanical, including photocopying, recording or otherwise, without the prior permission of the National Healthcare Group.
 </div>
 	</div>
 <div>
-	<input id="title6" type="checkbox"><label for="title6">Citation</label>
+	<input id="title6" type="checkbox"><label for="title6">General House Rule</label>
 	<div class="accordion-content">
 	<div class="para">Should you use any of the content shared on this site, please credit or cite source of content, such that due acknowledgement of effort can be given to the content owner/ institution.
 </div>
