@@ -18,7 +18,7 @@ If you like to play a part in co-creating CHILD, we invite you to submit a contr
 	* Think like a reader when creating your keywords: Think about terms you would use to search about the topic of your project
 	* Try to focus on the ‘theme’ of your write-up and sum it up in 1 to 3 words. Keywords should be closely related to the topic and suggests what the topic is about 
 	* Keywords should indicate the specificity of the project and should not be too broad
-* Don’t have to include prepositions or articles such as “of”, “a” and “the”.
+	* Don’t have to include prepositions or articles such as “of”, “a” and “the”.
 * You may want to proofread your submission with someone who has no knowledge about your project. This can help ensure that your write-up is easily understandable by other professions.
 
 Enjoy the process!
