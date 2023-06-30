@@ -7,7 +7,7 @@ Contributed by innovators and improvement enthusiasts across the healthcare sect
 
 If you like to play a part in co-creating CHILD, we invite you to submit a contribution of your work here at (mailto: CHILD@CHI.SG)
 
-### Need help with your submission? Check out some tips below: 
+#### **Need help with your submission? Check out the tips below**
 
 * Please write clearly and concisely. Use words or terms that are easily understandable by all professions.
 * There is no word limit. However, we encourage short and simple write-ups (ideally not more than **1,500 words**) for ease of reading and understanding. 
