@@ -11,6 +11,8 @@ Created based on the '**Share, Learn, and Do**' model, CHILD serves as an open r
   
 Sponsored by MOH, managed by CHI and supported by all public healthcare clusters and community institutions, CHILD is open to anyone (e.g. local and international healthcare institutions, industry players, academia and the public) keen to share, learn and collaborate. 
 
+The development of CHILD is well guided by our esteemed Knowledge Management Steering Committee (KMSC) - see below.
+
 We welcome you to explore this snippet of CHILD and experience how it can enable your search for knowledge across walls and&nbsp;borders.&nbsp;  
 
 <h2>Our Knowledge Management Steering Committee</h2>
