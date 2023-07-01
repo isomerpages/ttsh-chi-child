@@ -16,5 +16,5 @@ contacts:
       - phone: ""
       - email: CHILD@chi.sg
       - other: (cc CHILD@ttsh.com.sg)
-    title: Submit a Project
+    title: For queries, email us at
 ---
