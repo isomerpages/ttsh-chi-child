@@ -13,7 +13,7 @@ Sponsored by MOH, managed by CHI and supported by all public healthcare clusters
 
 We welcome you to explore this snippet of CHILD and experience how it can enable your search for knowledge across walls and&nbsp;borders.&nbsp;  
 
-<h2>Our Council</h2>
+<h2>Our Knowledge Management Steering Committee</h2>
 
 <h4>Co-Chairperson</h4>
 
