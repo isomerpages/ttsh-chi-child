@@ -3,7 +3,8 @@ title: Previous Seasonal Highlights
 permalink: /share/previousseasonalhighlights/
 description: ""
 ---
-ccccc
+
+![](/images/ngemr_photo.png)
 <style>
 .button {
   background-color: white;
@@ -95,17 +96,20 @@ th, td {
 <div class="container">
 
 <div>
-	<input id="title1" type="checkbox"><label for="title1">	<h4>5 Things We Learnt About Leadership &amp; Innovation</h4>*by <b>Centre for Healthcare Innovation</b>   </label>
+	<input id="title1" type="checkbox"><label for="title1">	<h4>Implementing the Next Generation Electronic Medical Record for  
+National Healthcare Group Polyclinics</h4>*by <b>Centre for Healthcare Innovation</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
-Brought to you by xxx.... 
-<img src="/images/lcp_sfa.png">
-<a href="​https://shorturl.at/gHKU6">https://shorturl.at/gHKU6</a>
+"NGEMR records the entire patient journey from the point of admission to discharge, taking in both medical and administrative data. This allows for a seamless patient experience, increased collaboration between healthcare professionals, and stronger patient empowerment and participation."
+		
+<br> CHILD is proud to feature the story of the National Healthcare Group Polyclinics' NGEMR journey. Let's take a deeper dive to learn from the team who has embarked on this nation-wide Change Management initiative:&nbsp;[https://bit.ly/3o7VP6B](https://bit.ly/3o7VP6B)_
+
+_\[This article was first published in HealthTech Connect by IHiS.\]_
 </div>
 	</div>
-<br>
-	hh<br>jkjkjkjk<br><br>
-	<input id="title2" type="checkbox"><label for="title2"><h4>5 Ways to Rally a Community in a Pandemic</h4>*by <b>Centre for Healthcare Innovation</b></label>
+<br> ![](/images/ngemr_photo.png)
+	<br>![](/images/proms%20n%20prems.jpg)<br><br>
+	<input id="title2" type="checkbox"><label for="title2"><h4>Use of Video Consultation Skyrockets in Public Healthcare</h4>*by <b>Centre for Healthcare Innovation</b></label>
 	<div class="accordion-content">
 	<div class="para">Brought to you by xxx.... 
 		<img style="width:75%;height:75%;" src="/images/maliki%20osman_pmo.png">
