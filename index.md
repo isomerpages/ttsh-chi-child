@@ -19,20 +19,20 @@ sections:
         options:
           - title: Applied Research
             url: ""
+          - title: Automation, IT & Robotics
+            url: ""
           - title: Care Continuum
             url: ""
           - title: Care & Process Redesign
             url: https://staging.d33f4rx9vjypzg.amplifyapp.com/child-collection/care-and-process-redesign/
-          - title: Automation, IT & Robotics
-            url: ""
-          - title: Workforce Transformation
-            url: https://staging.d33f4rx9vjypzg.amplifyapp.com/child-collection/workforce-transformation/
           - title: National HIP Medals
             url: ""
           - title: Organisational Leadership
             url: ""
           - title: Toolkits
             url: ""
+          - title: Workforce Transformation
+            url: https://staging.d33f4rx9vjypzg.amplifyapp.com/child-collection/workforce-transformation/
   - infopic:
       title: Editor's Pick
       description: "Browse the TOP PICKS from our collection! Don't know where to
