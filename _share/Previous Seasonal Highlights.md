@@ -3,7 +3,6 @@ title: Previous Seasonal Highlights
 permalink: /share/previousseasonalhighlights/
 description: ""
 ---
-
 ![](/images/ngemr_photo.png)
 <style>
 .button {
@@ -96,8 +95,8 @@ th, td {
 <div class="container">
 
 <div>
-	<input id="title1" type="checkbox"><label for="title1">	<h4>Implementing the Next Generation Electronic Medical Record for  
-National Healthcare Group Polyclinics</h4>*by <b>Centre for Healthcare Innovation</b>   </label>
+	<input type="checkbox" id="title1"><label for="title1">	<h5>Implementing the Next Generation Electronic Medical Record for  
+National Healthcare Group Polyclinics</h5>*by <b>Centre for Healthcare Innovation</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 "NGEMR records the entire patient journey from the point of admission to discharge, taking in both medical and administrative data. This allows for a seamless patient experience, increased collaboration between healthcare professionals, and stronger patient empowerment and participation."
@@ -107,13 +106,15 @@ National Healthcare Group Polyclinics</h4>*by <b>Centre for Healthcare Innovatio
 _\[This article was first published in HealthTech Connect by IHiS.\]_
 </div>
 	</div>
-<br> ![](/images/ngemr_photo.png)
-	<br>![](/images/proms%20n%20prems.jpg)<br><br>
-	<input id="title2" type="checkbox"><label for="title2"><h4>Use of Video Consultation Skyrockets in Public Healthcare</h4>*by <b>Centre for Healthcare Innovation</b></label>
+<br><img src="/images/proms%20n%20prems.jpg"><br>
+	<input type="checkbox" id="title2"><label for="title2"><h5>Improving Patient Care with the Electronic Patient Reported Outcome Measures (PROMs) and&nbsp;Patient Reported&nbsp;Experience Measures (PREMs) Programme</h5>*by <b>Centre for Healthcare Innovation</b></label>
 	<div class="accordion-content">
-	<div class="para">Brought to you by xxx.... 
-		<img style="width:75%;height:75%;" src="/images/maliki%20osman_pmo.png">
-		<a href="​&quot;https://shorturl.at/efkVZ&quot;">https://shorturl.at/efkVZ</a>
+	<div class="para">As healthcare institutions globally place greater emphasis on delivering patient-centred care, IHiS has partnered with The Clinician in rolling out ZEDOC, a digital health platform that enables healthcare providers across&nbsp;Singapore public healthcare to digitally capture PROMs and PREMs.
+
+<br> With this electronic solution being the first in Singapore public healthcare, catch up on how ZEDOC is being used in the Singapore General Hospital, KK Women's and Children's Hospital, Sengkang General Hospital as well as future use cases from Khoo Teck Puat Hospital, the National University Health System and the Ministry of Health (Singapore):&nbsp;[https://bit.ly/3OBCHbY](https://bit.ly/3OBCHbY)_
+<br> <br>
+_\[This article was first published in HealthTech Connect by IHiS.\]_
+
 </div>
 	</div>
 		</div>
