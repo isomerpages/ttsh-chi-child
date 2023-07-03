@@ -3,7 +3,7 @@ title: Accordion Guide
 permalink: /permalink/
 description: ""
 ---
-**./REQUIRED CODE./**
+<!--REQUIRED CODE must copy for accordion to work. the "design of the accordion box and content is in this code as well. if wanna edit/change the accordion design can use this website https://www.w3schools.com/w3css/w3css_accordions.asp./\-->
 <style>
 .button {
   background-color: white;
@@ -92,30 +92,33 @@ input:checked + label + .accordion-content {
 }
 
 </style>
-**./END OF REQUIRED CODE./**
+<!--END OF REQUIRED CODE.\-->
 
 
-&gt;ENTIRE ACCORDION CODE&lt;
+<!--ENTIRE ACCORDION CODE-->
 
 <div class="container">
-&gt;ONE BOX&lt;
+<!--ONE BOX. Must match the <label> code with the id code -->
 <div>
 	<input id="title1" type="checkbox"><label for="title1">	Healthcare Management Associate Programme (HMAP)   </label>
 	<div class="accordion-content">
 	<div class="para">HMAP started in 2009, aimed at grooming graduates with outstanding leadership qualities for a challenging and fulfilling career ahead in the National Healthcare Group (NHG). HMAP represents a collaborative effort with other healthcare institutions within the NHG, cultivating the growth of a collective programme to expand the range of learning and network building opportunities. 
 </div>
-	</div>
-&gt;ONE BOX END&lt;
-	<input id="title2" type="checkbox"><label for="title2">Management Executive Programme (MEP) </label>
+</div>
+<!--ONE BOX END-->
+<!--2ND BOX-->
+<input id="title2" type="checkbox"><label for="title2">Management Executive Programme (MEP) </label>
 	<div class="accordion-content">
 	<div class="para">MEP started in 2012, aimed at building capabilities of high performing executives to take on managerial roles.  
 </div>
-	</div>
-		</div>
-	<input id="title3" type="checkbox"><label for="title3">Management Fellowship Programme (MFP)</label>
+</div>
+<!--2ND BOX END-->
+<!--3RD BOX-->
+<input id="title3" type="checkbox"><label for="title3">Management Fellowship Programme (MFP)</label>
 	<div class="accordion-content">
 	<div class="para">MFP started in 2009, aimed to develop and nurture high performing managers and clinicians to take on future healthcare leadership roles.  
 </div>
 	</div>
-
+<!--3RD BOX END-->
 </div>
+<!--ACCORDION END--></div>
