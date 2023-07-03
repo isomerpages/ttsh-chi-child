@@ -103,7 +103,7 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 		
 <br> CHILD is proud to feature the story of the National Healthcare Group Polyclinics' NGEMR journey. Let's take a deeper dive to learn from the team who has embarked on this nation-wide Change Management initiative:&nbsp;
 <a href="https://bit.ly/3o7VP6B">https://bit.ly/3o7VP6B</a>.
-
+<br>
 <em>
 	[This article was first published in HealthTech Connect by IHiS.]</em>
 </div>
