@@ -40,7 +40,7 @@ The development of CHILD is well guided by our esteemed Knowledge Management Ste
 
 We welcome you to explore this snippet of CHILD and experience how it can enable your search for knowledge across walls and&nbsp;borders.&nbsp;  
 
-	</div>	
+</div>	
 	
 	
 <h2>Our Knowledge Management Steering Committee</h2>
