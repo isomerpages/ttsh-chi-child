@@ -95,8 +95,8 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title1"><label for="title1">	<h5>Implementing the Next Generation Electronic Medical Record for  
-National Healthcare Group Polyclinics</h5>*by <b>Centre for Healthcare Innovation</b>   </label>
+	<input type="checkbox" id="title1"><label for="title1">	<b>Implementing the Next Generation Electronic Medical Record for  
+National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innovation</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 "NGEMR records the entire patient journey from the point of admission to discharge, taking in both medical and administrative data. This allows for a seamless patient experience, increased collaboration between healthcare professionals, and stronger patient empowerment and participation."
@@ -107,7 +107,7 @@ _\[This article was first published in HealthTech Connect by IHiS.\]_
 </div>
 	</div>
 <br><img src="/images/proms%20n%20prems.jpg"><br>
-	<input type="checkbox" id="title2"><label for="title2"><h5>Improving Patient Care with the Electronic Patient Reported Outcome Measures (PROMs) and&nbsp;Patient Reported&nbsp;Experience Measures (PREMs) Programme</h5>*by <b>Centre for Healthcare Innovation</b></label>
+	<input type="checkbox" id="title2"><label for="title2"><b>Improving Patient Care with the Electronic Patient Reported Outcome Measures (PROMs) and&nbsp;Patient Reported&nbsp;Experience Measures (PREMs) Programme</b><br>by <b>Centre for Healthcare Innovation</b></label>
 	<div class="accordion-content">
 	<div class="para">As healthcare institutions globally place greater emphasis on delivering patient-centred care, IHiS has partnered with The Clinician in rolling out ZEDOC, a digital health platform that enables healthcare providers across&nbsp;Singapore public healthcare to digitally capture PROMs and PREMs.
 
