@@ -19,6 +19,7 @@ If you like to play a part in co-creating CHILD, we invite you to submit a contr
   outline: none;
   font-size: 1.25em;
   transition: 0.4s;
+	text-align: center;
 }
 
 .active, .button:hover {
