@@ -35,4 +35,4 @@ We serve up a weekly dose of tips and tales on healthcare innovation from across
   </div>
 </div>
 
-For more on how you can break free from institutional barriers and collaborate across boundaries, email us at CHILD@CHI.SG
+For more on how you can break free from institutional barriers and collaborate across boundaries, email us at <a href="mailto:CHILD@CHI.SG">CHILD@CHI.SG</a>
