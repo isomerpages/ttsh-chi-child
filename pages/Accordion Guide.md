@@ -3,7 +3,6 @@ title: Accordion Guide
 permalink: /permalink/
 description: ""
 ---
-
 **./REQUIRED CODE./**
 <style>
 .button {
@@ -93,6 +92,8 @@ input:checked + label + .accordion-content {
 }
 
 </style>
+**./END OF REQUIRED CODE./**
+
 
 &gt;ENTIRE ACCORDION CODE&lt;
 
@@ -118,8 +119,3 @@ input:checked + label + .accordion-content {
 	</div>
 
 </div>
-
-
-
-
-
