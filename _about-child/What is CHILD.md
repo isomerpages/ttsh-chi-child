@@ -50,11 +50,11 @@ We welcome you to explore this snippet of CHILD and experience how it can enable
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/hon-tym-wong-758b1a13"><img alt="andrew1" src="/images/chi%20logo.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/hon-tym-wong-758b1a13"><img alt="andrew1" src="/images/Committee/prof%20wong-01.png"></a></td>
 <td><strong>A/Prof Wong Hon Tym</strong><br>Co-Chairperson<br><b>Knowledge Management Steering Committee</b><br>Clinical Director<br><b>Centre for Healthcare Innovation</b><br><a href="" target="_blank"><small></small></a><br>
 </td></tr>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/cher-heng-tan-8b965216"><img alt="andrew1" src="/images/chi%20logo.png"></a></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/cher-heng-tan-8b965216"><img alt="andrew1" src="/images/Committee/prof%20tan%20ch-01.png"></a></td>
 <td><strong>A/Prof Tan Cher Heng</strong><br>Co-Chairperson<br><b>Knowledge Management Steering Committee</b><br>Executive Director<br><b>Centre for Healthcare Innovation</b><br><a href="https://www.linkedin.com/in/cher-heng-tan-8b965216" target="_blank"><small></small></a><br>
 </td></tr>
 </tbody>
@@ -106,11 +106,11 @@ We welcome you to explore this snippet of CHILD and experience how it can enable
 <td><br><strong>Sr Lee Leng Noey</strong><br>Associate Director<br><b>Centre for Asian Nursing Studies(CANS)</b><br><a href="https://www.linkedin.com/in/junaidbajwa" target="_blank"><small></small></a><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><a href="https://www.linkedin.com/in/junaidbajwa"><img alt="andrew1" src="/images/chi%20logo.png"></a></td>
-<td><br><strong>Prof Jonathon Gray</strong><br>Director, Improvement &amp; Innovation<br><b>Cardiff &amp; Vale University Health Board</b><br><a href="https://www.linkedin.com/in/junaidbajwa" target="_blank"><small></small></a><br></td>
+<td style="width: 150px;"><a href="https://www.linkedin.com/in/dr-jonathon/"><img alt="andrew1" src="/images/Committee/prof%20jonathon%20gray-01.png"></a></td>
+<td><br><strong>Prof Jonathon Gray</strong><br>Director, Improvement &amp; Innovation<br><b>Cardiff &amp; Vale University Health Board</b><br><a href="https://www.linkedin.com/in/dr-jonathon/" target="_blank"><small></small></a><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><a href="nil"><img src="/images/chi%20logo.png"></a></td>
+<td style="width: 150px;"><a href="nil"><img src="/images/Committee/prof%20cherdchai-01.png"></a></td>
 <td><br><strong>A/Prof Cherdchai Nopmaneejumruslers</strong><br>Vice Director<br><b>Siriraj Hospital</b><br><a href="nil" target="_blank"><small></small></a><br></td>
 </tr>
 
