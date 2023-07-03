@@ -29,9 +29,9 @@ description: ""
 <div style="text-align: center;">
 <a href="https://youtu.be/-_j56iZxDIg"><img src="/images/thumbnail%20w%20play%20button.png" style="width:584px; height:328.8px;" alt="CHI"></a><br>    </div>
 
-CHILD is a **central knowledge management (KM) repository** for healthcare institutions, industry players and academia to **accelerate** the **sharing, exchange and co-creation of knowledge and emerging ideas.**
+CHILD is a <b>central knowledge management (KM) repository</b> for healthcare institutions, industry players and academia to <b>accelerate</b> the <b>sharing, exchange and co-creation of knowledge and emerging ideas.</b>
   
-Created based on the '**Share, Learn, and Do**' model, CHILD serves as an open repository for healthcare innovation, improvement and productivity project reports, best practices and learning experiences.  
+Created based on the '<b>Share, Learn, and Do</b>' model, CHILD serves as an open repository for healthcare innovation, improvement and productivity project reports, best practices and learning experiences.  
   
 Sponsored by MOH, managed by CHI and supported by all public healthcare clusters and community institutions, CHILD is open to anyone (e.g. local and international healthcare institutions, industry players, academia and the public) keen to share, learn and collaborate. 
 
