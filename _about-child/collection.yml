@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - What is CHILD/.keep
-      - What is CHILD.md
       - FAQs.md
