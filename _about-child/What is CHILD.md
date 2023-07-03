@@ -3,7 +3,31 @@ title: What is CHILD
 permalink: /aboutchild/whatischild/
 description: ""
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-_j56iZxDIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div class="row">
+<div class="col"> 
+<img alt="1st person" style="width:170px; height:200px;" src="/images/picture1.gif"><br>
+		<div class="header" style="background-color:grey;color:white;text-align:center;height:110.49px;width:251.56px;padding:20px"><b>“Arrowed by Boss to lead a Hand Hygiene improvement project?” 
+ </b></div>
+
+
+</div>
+	<div class="col"> 
+<img alt="2nd person" style="width:170px; height:200px;" src="/images/picture2.gif"><br>
+	<div class="header" style="background-color:grey;color:white;text-align:center;height:110.49px;width:251.56px;padding:20px"><b>"Struggling to drive adoptive and scale your healthcare innovation?”
+ </b></div>
+	
+<br>
+
+</div>
+	<div class="col"> 
+<img alt="3rd" style="width:170px; height:200px;" src="/images/picture3.gif"><br>
+	<div class="header" style="background-color:grey;color:white;text-align:center;height:110.49px;width:251.56px;padding:20px"><b>“Want to SAVE TIME and AVOID COSTLY MISTAKES in your innovation journey?”
+</b></div>
+</div></div><div>
+
+
+<div style="text-align: center;">
+<a href="https://youtu.be/-_j56iZxDIg"><img src="/images/thumbnail%20w%20play%20button.png" style="width:584px; height:328.8px;" alt="CHI"></a><br>    </div>
 
 CHILD is a **central knowledge management (KM) repository** for healthcare institutions, industry players and academia to **accelerate** the **sharing, exchange and co-creation of knowledge and emerging ideas.**
   
@@ -87,4 +111,4 @@ We welcome you to explore this snippet of CHILD and experience how it can enable
 </tr>
 
 </tbody>
-</table>
+</table></div>
