@@ -101,9 +101,11 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 	<div class="para">
 "NGEMR records the entire patient journey from the point of admission to discharge, taking in both medical and administrative data. This allows for a seamless patient experience, increased collaboration between healthcare professionals, and stronger patient empowerment and participation."
 		
-<br> CHILD is proud to feature the story of the National Healthcare Group Polyclinics' NGEMR journey. Let's take a deeper dive to learn from the team who has embarked on this nation-wide Change Management initiative:&nbsp;[https://bit.ly/3o7VP6B](https://bit.ly/3o7VP6B)_
+<br> CHILD is proud to feature the story of the National Healthcare Group Polyclinics' NGEMR journey. Let's take a deeper dive to learn from the team who has embarked on this nation-wide Change Management initiative:&nbsp;
+<a href="https://bit.ly/3o7VP6B">https://bit.ly/3o7VP6B</a>.
 
-_\[This article was first published in HealthTech Connect by IHiS.\]_
+<em>
+	[This article was first published in HealthTech Connect by IHiS.]</em>
 </div>
 	</div>
 <br><img src="/images/proms%20n%20prems.jpg"><br>
@@ -111,9 +113,10 @@ _\[This article was first published in HealthTech Connect by IHiS.\]_
 	<div class="accordion-content">
 	<div class="para">As healthcare institutions globally place greater emphasis on delivering patient-centred care, IHiS has partnered with The Clinician in rolling out ZEDOC, a digital health platform that enables healthcare providers across&nbsp;Singapore public healthcare to digitally capture PROMs and PREMs.
 
-<br> With this electronic solution being the first in Singapore public healthcare, catch up on how ZEDOC is being used in the Singapore General Hospital, KK Women's and Children's Hospital, Sengkang General Hospital as well as future use cases from Khoo Teck Puat Hospital, the National University Health System and the Ministry of Health (Singapore):&nbsp;[https://bit.ly/3OBCHbY](https://bit.ly/3OBCHbY)_
+<br> With this electronic solution being the first in Singapore public healthcare, catch up on how ZEDOC is being used in the Singapore General Hospital, KK Women's and Children's Hospital, Sengkang General Hospital as well as future use cases from Khoo Teck Puat Hospital, the National University Health System and the Ministry of Health (Singapore):&nbsp;
+<a href="https://bit.ly/3OBCHbY">https://bit.ly/3OBCHbY</a>.
 <br> <br>
-_\[This article was first published in HealthTech Connect by IHiS.\]_
+		<em>[This article was first published in HealthTech Connect by IHiS.]</em>
 
 </div>
 	</div>
