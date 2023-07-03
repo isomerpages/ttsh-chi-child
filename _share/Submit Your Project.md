@@ -15,7 +15,6 @@ If you like to play a part in co-creating CHILD, we invite you to submit a contr
   padding: 15px;
   width: 100%;
   border: none;
-  text-align: left;
   outline: none;
   font-size: 1.25em;
   transition: 0.4s;
