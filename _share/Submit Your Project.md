@@ -34,24 +34,13 @@ If you like to play a part in co-creating CHILD, we invite you to submit a contr
   overflow: hidden;
 }
 
-/* Remove the unnecessary CSS rules below */
-
-/* target="_blank" - This rule seems to be incomplete and can be removed */
 a[target="_blank"]:after {
   content: none;
   margin: 0 3px 0 5px;
 }
 
-/* The following rules are invalid and can be removed */
-target="_blank {
-    display: inline-block;
-    font-family: "none";
-    content: "none";
-    padding-left: none;
-    font-weight: none;
-}
-
 </style>
+
 
 
 
