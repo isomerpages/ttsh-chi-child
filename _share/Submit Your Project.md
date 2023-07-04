@@ -31,6 +31,13 @@ If you like to play a part in co-creating CHILD, we invite you to submit a contr
   background-color: white;
   overflow: hidden;
 }
+	
+a[target="_blank"]:after {
+    padding-left: 0.25rem;
+    font-weight: 400;
+}
+
+	
 </style>
 
 
