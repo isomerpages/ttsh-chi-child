@@ -36,16 +36,18 @@ If you like to play a part in co-creating CHILD, we invite you to submit a contr
 
 
 
-<a target="_blank" href="https://form.gov.sg/649979f07e18e300125c61b2"><button class="button button1">Submit Your Work</button></a>
+<a href="https://form.gov.sg/649979f07e18e300125c61b2" target="_blank"><button class="button button1">Submit Your Work</button></a>
 
 <form action="https://form.gov.sg/649979f07e18e300125c61b2">
-    <input value="Submit Your Work" class="button button1" type="button">
+    <input type="button" class="button button1" value="Submit Your Work">
 </form>
+<button class="button button1" target="_blank">Submit your Work
+</button>
 
 
 #### **Need help with your submission? Check out the tips below**
 
-* Download the <a download="" href="/files/child_taxonomy%20tagging%20playbook_wef%20fy23.pdf">Taxonomy Tagging Playbook</a> to help with your project categorisation. 
+* Download the <a href="/files/child_taxonomy%20tagging%20playbook_wef%20fy23.pdf" download="">Taxonomy Tagging Playbook</a> to help with your project categorisation. 
 * Do write clearly and concisely. Use words or terms that are easily understandable by all professions.
 * There is no word limit. However, we encourage short and simple write-ups (ideally not more than **1,500 words**) for ease of reading and understanding. 
 * In the spirit of co-learning and knowledge sharing, we encourage you to share insights and tips on both your successes and challenges to help others who may be interested to embark on a similar project under **Lessons Learnt**.
