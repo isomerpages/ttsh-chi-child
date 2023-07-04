@@ -13,7 +13,7 @@ If you like to play a part in co-creating CHILD, we invite you to submit a contr
   color: #444;
   cursor: pointer;
   padding: 20px;
-  width: 90%;
+  width: 80%;
   border: none;
   outline: none;
   font-size: 1.5em;
@@ -46,10 +46,6 @@ a[target="_blank"]:after
 </style>
 
 
-
-
-<a href="https://form.gov.sg/649979f07e18e300125c61b2" target="_blank"><button class="button button1">Submit Your Work</button></a>
-fafsd
 <button class="button button1"><a target="_blank" href="https://form.gov.sg/649979f07e18e300125c61b2">Click here to submit Your project</a></button>
 
 #### **Need help with your submission? Check out the tips below**
