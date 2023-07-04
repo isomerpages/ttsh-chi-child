@@ -12,11 +12,11 @@ If you like to play a part in co-creating CHILD, we invite you to submit a contr
   background-color: #eee;
   color: #444;
   cursor: pointer;
-  padding: 15px;
-  width: 100%;
+  padding: 20px;
+  width: 90%;
   border: none;
   outline: none;
-  font-size: 1.25em;
+  font-size: 1.5em;
   transition: 0.4s;
 	text-align: center;
 }
