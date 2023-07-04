@@ -18,11 +18,13 @@ If you like to play a part in co-creating CHILD, we invite you to submit a contr
   outline: none;
   font-size: 1.5em;
   transition: 0.4s;
-	text-align: center;
+  text-align: center;
+  margin: 0 auto; /* Add this line to center align the button */
 }
 
-.active, .button:hover {
-  background-color: #ccc; 
+.active,
+.button:hover {
+  background-color: #ccc;
 }
 
 .panel {
@@ -31,19 +33,26 @@ If you like to play a part in co-creating CHILD, we invite you to submit a contr
   background-color: white;
   overflow: hidden;
 }
-	
-target="_blank
+
+/* Remove the unnecessary CSS rules below */
+
+/* target="_blank" - This rule seems to be incomplete and can be removed */
+a[target="_blank"]:after {
+  content: none;
+  margin: 0 3px 0 5px;
+}
+
+/* The following rules are invalid and can be removed */
+target="_blank {
     display: inline-block;
-    font-family: "none;
+    font-family: "none";
     content: "none";
     padding-left: none;
     font-weight: none;
 }
-a[target="_blank"]:after
-  content: none
-  margin: 0 3px 0 5px
-	
+
 </style>
+
 
 
 <button class="button button1"><a target="_blank" href="https://form.gov.sg/649979f07e18e300125c61b2">Click here to submit Your project</a></button>
