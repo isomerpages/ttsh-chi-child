@@ -32,6 +32,13 @@ If you like to play a part in co-creating CHILD, we invite you to submit a contr
   overflow: hidden;
 }
 	
+target="_blank
+    display: inline-block;
+    font-family: "none;
+    content: "none";
+    padding-left: none;
+    font-weight: none;
+}
 a[target="_blank"]:after {
     display: inline-block;
     font-family: "none;
@@ -39,7 +46,6 @@ a[target="_blank"]:after {
     padding-left: none;
     font-weight: none;
 }
-
 	
 </style>
 
