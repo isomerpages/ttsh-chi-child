@@ -39,7 +39,7 @@ If you like to play a part in co-creating CHILD, we invite you to submit a contr
 <a href="https://form.gov.sg/649979f07e18e300125c61b2" target="_blank"><button class="button button1">Submit Your Work</button></a>
 
 
-<a class="button button1" href="https://form.gov.sg/649979f07e18e300125c61b2">Submit Your Work</a>
+<a class="button button1" target="_blank" href="https://form.gov.sg/649979f07e18e300125c61b2">Submit Your Work</a>
 
 
 
