@@ -39,13 +39,9 @@ target="_blank
     padding-left: none;
     font-weight: none;
 }
-a[target="_blank"]:after {
-    display: inline-block;
-    font-family: "none;
-    content: "none";
-    padding-left: none;
-    font-weight: none;
-}
+a[target="_blank"]:after
+  content: none
+  margin: 0 3px 0 5px
 	
 </style>
 
@@ -53,7 +49,7 @@ a[target="_blank"]:after {
 
 
 <a href="https://form.gov.sg/649979f07e18e300125c61b2" target="_blank"><button class="button button1">Submit Your Work</button></a>
-dsad
+fafsd
 <button class="button button1"><a target="_blank" href="https://form.gov.sg/649979f07e18e300125c61b2">Submit Your Work</a></button>
 
 #### **Need help with your submission? Check out the tips below**
