@@ -34,9 +34,9 @@ If you like to play a part in co-creating CHILD, we invite you to submit a contr
 </style>
 
 
-  <button class="button button1"><input type="button" value="Submit Your Work"></button>
 
-<a href="https://form.gov.sg/649979f07e18e300125c61b2"><button class="button button1">Submit Your Work</button></a>
+
+<a href="https://form.gov.sg/649979f07e18e300125c61b2"><button target="_blank" class="button button1">Submit Your Work</button></a>
 
 #### **Need help with your submission? Check out the tips below**
 
