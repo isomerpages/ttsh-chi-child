@@ -12,11 +12,11 @@ If you like to play a part in co-creating CHILD, we invite you to submit a contr
   background-color: #eee;
   color: #444;
   cursor: pointer;
-  padding: 20px;
-  width: 80%;
+  padding: 15px;
+  width: 100%;
   border: none;
   outline: none;
-  font-size: 1.5em;
+  font-size: 1.25em;
   transition: 0.4s;
   text-align: center;
   margin: 0 auto; /* Add this line to center align the button */
@@ -42,9 +42,7 @@ a[target="_blank"]:after {
 </style>
 <a target="_blank" href="https://form.gov.sg/649979f07e18e300125c61b2"><button class="button button1">Click here to submit Your project</button></a>
 
-faf
 
-<button class="button button1"><a target="_blank" href="https://form.gov.sg/649979f07e18e300125c61b2">Click here to submit Your project</a></button>
 
 #### **Need help with your submission? Check out the tips below**
 
