@@ -2,11 +2,30 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
+<h2>We Respect and Keep Your Data Safe</h2>
+The Personal Data Protection Act (PDPA) protects your personal data while enabling organisations to use your data reasonably to serve you.
 
-### **Government Agency Privacy Statement**
+We, as a public healthcare institution, respect and keep your data safe by:
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+<li>limiting access to only doctors and healthcare personnel who are involved in your care, and the supporting internal processes,</li>
+<li>conducting regular checks to ensure only authorised persons have accessed your data, and</li>
+<li>removing details that identify you when using your data for internal purposes as far as possible.</li>
+ 
+<h2>Serving You as a Public Healthcare Institution</h2>
+When you seek care at other healthcare providers, we will share relevant data with them through trusted information systems like the National Electronic Health Record (NEHR) system.<br>
+We may use your personal data to invite you to participate in suitable care programmes, or shortlist you for participation in relevant research studies.<br>
+As a public healthcare institution, we share relevant data and participate in national and multi-agency efforts to:<br>
+<li>review healthcare policies and requirements,</li>
+<li>review programmes that ensure patient safety and improve the quality of healthcare services,</li>
+<li>conduct disease surveillance to address public health concerns, and</li>
+<li>train future generations of healthcare professionals.</li>
+ 
+Please be assured that if your personal data is collected, used or disclosed for these purposes, we will protect it as required under the PDPA and other relevant legislation such as the Private Hospitals and Medical Clinics Act.
+<br>Please refer to our <a href="https://corp.nhg.com.sg/Documents/NHG%20Personal%20Data%20Protection%20Policy.pdf">NHG Personal Data Protection Policy</a> for further information on our data protection commitment.
+<br>If you have any concern, query or complaint about our personal data protection policies and practices, please contact:<br>
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
-
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+Quality Service Manager<br>
+11 Jalan Tan Tock Seng<br>
+Singapore 308433<br>
+Email : qsm@ttsh.com.sg<br>
+Telephone: Telephone: 6357 3078<br>
