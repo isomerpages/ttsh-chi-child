@@ -51,7 +51,7 @@ third_nav_title: What is CHILD
 <td><br><strong>A/Prof Thomas Chee </strong><br>Clinical Director, Clinical &amp; Patient Engagement Office<br>Office of Quality &amp; Clinical Governance <br><b>Tan Tock Seng Hospital</b><br><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/chi%20logo.png"></td>
+<td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
 <td><br><strong>Heidi Rafman</strong><br>Chief Quality and Productivity Division<br><b>Agency for Integrated Care</b><br><br></td>
 </tr>
 <tr>
