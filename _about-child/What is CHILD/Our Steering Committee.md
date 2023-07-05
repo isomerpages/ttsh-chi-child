@@ -4,8 +4,6 @@ permalink: /about-child/what-is-child/our-steering-committee/
 description: ""
 third_nav_title: What is CHILD
 ---
-
-
 <h2>Our Knowledge Management Steering Committee</h2>
 
 <h4>Co-Chairperson</h4>
