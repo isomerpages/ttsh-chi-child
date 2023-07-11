@@ -1,0 +1,7 @@
+collections:
+  share:
+    output: true
+    order:
+      - Submit Your Project.md
+      - Pick of the Month.md
+      - Previous Seasonal Highlights.md

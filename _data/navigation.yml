@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/child logo_with brushstroke.png
 links:
+  - title: SHARE
+    collection: share
+  - title: LEARN
+    resource_room: true
+  - title: DO
+    collection: do
+  - title: About CHILD
+    collection: about-child
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
