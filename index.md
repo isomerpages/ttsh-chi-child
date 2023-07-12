@@ -39,7 +39,7 @@ sections:
         outstanding best practice projects from our archives:"
       button: Find out more
       image: /images/editorpick.png
-      url: https://staging.d33f4rx9vjypzg.amplifyapp.com/share/pickofthemonth/
+      url: https://child.chi.sg/share/pickofthemonth/
       alt: CHI Innovation Cycle
   - resources:
       title: What's Trending Now

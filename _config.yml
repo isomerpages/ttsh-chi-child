@@ -57,6 +57,6 @@ resources_name: child-collection
 shareicon: /images/chi logo.png
 is_government: false
 facebook-pixel: ""
-google_analytics: ""
+google_analytics: "UA-148069505-1"
 linkedin-insights: ""
 google_analytics_ga4: ""
