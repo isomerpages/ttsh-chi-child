@@ -1,4 +1,5 @@
 collections:
   chat:
     output: true
-    order: []
+    order:
+      - Test Streamlit.md
