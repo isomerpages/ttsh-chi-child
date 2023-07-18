@@ -2,4 +2,4 @@ collections:
   chat:
     output: true
     order:
-      - Test Streamlit.md
+      - Chat with Us!.md
