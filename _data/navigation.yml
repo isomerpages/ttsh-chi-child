@@ -11,8 +11,4 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: Chat
-    collection: chat
-  - title: Chat
     url: https://child-projects.streamlit.app
-  - title: Menu Title
-    url: /permalink
