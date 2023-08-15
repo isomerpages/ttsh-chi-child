@@ -24,7 +24,7 @@ sections:
           - title: Care Continuum
             url: ""
           - title: Care & Process Redesign
-            url: https://staging.d33f4rx9vjypzg.amplifyapp.com/child-collection/care-and-process-redesign/
+            url: https://child.chi.sg/child-collection/care-and-process-redesign/
           - title: National HIP Medals
             url: ""
           - title: Organisational Leadership
