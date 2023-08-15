@@ -21,10 +21,10 @@ sections:
             url: https://child.chi.sg/child-collection/applied-research/
           - title: Automation, IT & Robotics
             url: https://child.chi.sg/child-collection/automation-it-and-robotics/
-          - title: Care Continuum
-            url: ""
           - title: Care & Process Redesign
             url: https://child.chi.sg/child-collection/care-and-process-redesign/
+          - title: Care Continuum
+            url: ""
           - title: National HIP Medals
             url: ""
           - title: Organisational Leadership
