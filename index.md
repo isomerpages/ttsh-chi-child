@@ -18,13 +18,13 @@ sections:
         title: Search our CHILD collection
         options:
           - title: Applied Research
-            url: ""
+            url: https://child.chi.sg/child-collection/applied-research/
           - title: Automation, IT & Robotics
-            url: ""
-          - title: Care Continuum
-            url: ""
+            url: https://child.chi.sg/child-collection/automation-it-and-robotics/
           - title: Care & Process Redesign
-            url: https://staging.d33f4rx9vjypzg.amplifyapp.com/child-collection/care-and-process-redesign/
+            url: https://child.chi.sg/child-collection/care-and-process-redesign/
+          - title: Care Continuum
+            url: https://child.chi.sg/child-collection/care-continuum/
           - title: National HIP Medals
             url: ""
           - title: Organisational Leadership
