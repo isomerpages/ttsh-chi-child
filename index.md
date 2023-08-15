@@ -32,7 +32,7 @@ sections:
           - title: Toolkits
             url: https://child.chi.sg/child-collection/toolkits/
           - title: Workforce Transformation
-            url: https://staging.d33f4rx9vjypzg.amplifyapp.com/child-collection/workforce-transformation/
+            url: https://child.chi.sg/child-collection/workforce-transformation/
   - infopic:
       title: Editor's Pick
       description: "Don't know where to start? The CHILD team has curated some
