@@ -31,6 +31,8 @@ sections:
             url: https://child.chi.sg/child-collection/organisational-leadership/
           - title: Toolkits
             url: https://child.chi.sg/child-collection/toolkits/
+          - title: Training and Education
+            url: https://child.chi.sg/child-collection/training-and-education/
           - title: Workforce Transformation
             url: https://child.chi.sg/child-collection/workforce-transformation/
   - infopic:
