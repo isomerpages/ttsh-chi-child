@@ -20,7 +20,7 @@ sections:
           - title: Applied Research
             url: https://child.chi.sg/child-collection/applied-research/
           - title: Automation, IT & Robotics
-            url: ""
+            url: https://child.chi.sg/child-collection/automation-it-and-robotics/
           - title: Care Continuum
             url: ""
           - title: Care & Process Redesign
