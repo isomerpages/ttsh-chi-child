@@ -26,13 +26,15 @@ sections:
           - title: Care Continuum
             url: https://child.chi.sg/child-collection/care-continuum/
           - title: National HIP Medals
-            url: ""
+            url: https://child.chi.sg/child-collection/national-hip-medal/
           - title: Organisational Leadership
-            url: ""
+            url: https://child.chi.sg/child-collection/organisational-leadership/
           - title: Toolkits
-            url: ""
+            url: https://child.chi.sg/child-collection/toolkits/
+          - title: Training and Education
+            url: https://child.chi.sg/child-collection/training-and-education/
           - title: Workforce Transformation
-            url: https://staging.d33f4rx9vjypzg.amplifyapp.com/child-collection/workforce-transformation/
+            url: https://child.chi.sg/child-collection/workforce-transformation/
   - infopic:
       title: Editor's Pick
       description: "Don't know where to start? The CHILD team has curated some
