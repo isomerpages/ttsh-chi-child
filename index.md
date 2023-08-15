@@ -18,7 +18,7 @@ sections:
         title: Search our CHILD collection
         options:
           - title: Applied Research
-            url: ""
+            url: https://child.chi.sg/child-collection/applied-research/
           - title: Automation, IT & Robotics
             url: ""
           - title: Care Continuum
