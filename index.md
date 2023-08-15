@@ -26,7 +26,7 @@ sections:
           - title: Care Continuum
             url: https://child.chi.sg/child-collection/care-continuum/
           - title: National HIP Medals
-            url: ""
+            url: https://child.chi.sg/child-collection/national-hip-medal/
           - title: Organisational Leadership
             url: ""
           - title: Toolkits
