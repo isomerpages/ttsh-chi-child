@@ -101,9 +101,8 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 	<div class="para">
 "NGEMR records the entire patient journey from the point of admission to discharge, taking in both medical and administrative data. This allows for a seamless patient experience, increased collaboration between healthcare professionals, and stronger patient empowerment and participation."
 		
-<br> CHILD is proud to feature the story of the National Healthcare Group Polyclinics' NGEMR journey. Let's take a deeper dive to learn from the team who has embarked on this nation-wide Change Management initiative:&nbsp;
-<a href="https://bit.ly/3o7VP6B">https://bit.ly/3o7VP6B</a>.
-<br><br>
+<br> CHILD is proud to feature the story of the National Healthcare Group Polyclinics' NGEMR journey. Let's take a deeper dive to learn from the team who has embarked on this nation-wide Change Management initiative on
+<a rel="noopene noreferrer" target="_blank" href="https://child.chi.sg/files/%5BC%5D%20418_NHGP%20_IHiS%20Health%20Tech%202021_Implementing%20the%20Next%20Generation%20EMR%20for%20NHGP.pdf">CHILD's Collection</a>.<p></p>
 <em>
 	[This article was first published in HealthTech Connect by IHiS.]</em>
 </div>
