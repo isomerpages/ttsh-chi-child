@@ -2,6 +2,7 @@ collections:
   share:
     output: true
     order:
+      - Hacks for the Everyday Innovator & Researcher.md
       - Submit Your Project.md
       - Pick of the Month.md
       - Previous Seasonal Highlights.md
