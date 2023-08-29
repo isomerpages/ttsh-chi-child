@@ -112,10 +112,8 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 	<div class="accordion-content">
 	<div class="para">As healthcare institutions globally place greater emphasis on delivering patient-centred care, IHiS has partnered with The Clinician in rolling out ZEDOC, a digital health platform that enables healthcare providers across&nbsp;Singapore public healthcare to digitally capture PROMs and PREMs.
 
-<br> With this electronic solution being the first in Singapore public healthcare, catch up on how ZEDOC is being used in the Singapore General Hospital, KK Women's and Children's Hospital, Sengkang General Hospital as well as future use cases from Khoo Teck Puat Hospital, the National University Health System and the Ministry of Health (Singapore):&nbsp;
-<a href="https://bit.ly/3OBCHbY">https://bit.ly/3OBCHbY</a>.
-<br> <br>
-		<em>[This article was first published in HealthTech Connect by IHiS.]</em>
+<br> With this electronic solution being the first in Singapore public healthcare, catch up on how ZEDOC is being used in the Singapore General Hospital, KK Women's and Children's Hospital, Sengkang General Hospital as well as future use cases from Khoo Teck Puat Hospital, the National University Health System and the Ministry of Health (Singapore) on <a rel="noopene noreferrer" target="_blank" href="https://child.chi.sg/files/%5BC%5D%20662_SingHealth_IHiS%20Health%20Tech%202021_Improving%20Patient%20Care%20with%20the%20Electronic%20PROM%20N%20PREM.pdf">CHILD's Collection</a>.<p></p> 
+<em>[This article was first published in HealthTech Connect by IHiS.]</em>
 
 </div>
 	</div>
