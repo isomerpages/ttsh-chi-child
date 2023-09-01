@@ -4,7 +4,7 @@ permalink: /share/permalink/
 description: ""
 ---
 #### **Putting the 'Trust' Back in Research: The Power of Trusted Third Parties**
-
+![]()
 In the world of data, engaging a **Trusted Third Party** can give your research a boost in credibility while compliance in data privacy, de-identification and anonymisation is ensured. We show you the <a rel="noopene noreferrer" target="_blank" href="https://for.sg/child-chi-sg-child-collection-ttsh-crio-6">What - When - Who</a> surrounding TTP and how to find them.
 
 <em>[Content provided by TTSH Clinical Research &amp; Innovation Office]</em>
