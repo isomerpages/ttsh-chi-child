@@ -3,6 +3,12 @@ title: Hacks for the Everyday Innovator & Researcher
 permalink: /share/permalink/
 description: ""
 ---
+#### **Putting the 'Trust' Back in Research: The Power of Trusted Third Parties**
+
+In the world of data, engaging a **Trusted Third Party** can give your research a boost in credibility while compliance in data privacy, de-identification and anonymisation is ensured. We show you the <a rel="noopene noreferrer" target="_blank" href="https://for.sg/child-chi-sg-child-collection-ttsh-crio-6">What - When - Who</a> surrounding TTP and how to find them.
+
+<em>[Content provided by TTSH Clinical Research &amp; Innovation Office]</em>
+
 #### **To IRB or Not**
 ![](/images/to%20irb%20or%20not.jpg)
 In our latest **‘Hacks designed for the everyday Innovator and Researcher’** series, allow our&nbsp;Tan Tock Seng Hospital colleagues from the Clinical Research &amp; Innovation Office (CRIO) to <a rel="noopene noreferrer" target="_blank" href="https://for.sg/child-chi-sg-child-collection-ttsh-crio-5">debunk some of the myths</a> on whether a review by the Institutional Review Board (IRB) is required for your research/ project.
