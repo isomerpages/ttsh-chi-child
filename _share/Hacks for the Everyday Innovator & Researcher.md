@@ -3,8 +3,14 @@ title: Hacks for the Everyday Innovator & Researcher
 permalink: /share/permalink/
 description: ""
 ---
-#### **Make Or Break Your Study?**
-![](/images/want%20to%20maintain%20your%20study%20quality.jpg)
+#### **To IRB or Not**
+![](/images/to%20irb%20or%20not.jpg)
+In our latest **‘Hacks designed for the everyday Innovator and Researcher’** series, allow our&nbsp;Tan Tock Seng Hospital colleagues from the Clinical Research &amp; Innovation Office (CRIO) to <a rel="noopene noreferrer" target="_blank" href="https://for.sg/child-chi-sg-child-collection-ttsh-crio-5">debunk some of the myths</a> on whether a review by the Institutional Review Board (IRB) is required for your research/ project.
+
+<em>[Content provided by TTSH Clinical Research &amp; Innovation Office]</em>
+
+#### **What Makes Or Breaks Your Study?**
+![](/images/want%20to%20maintain%20your%20study%20quality.jpg) 
 Believe it or not: having a Site Initiation Visit, SIV (in short), can **only make** and certainly **not break** your study.  
   
 To learn more about the truth and purpose of a SIV, we present to you more <a rel="noopene noreferrer" target="_blank" href="https://for.sg/child-chi-sg-child-collection-ttsh-crio-4">tips &amp; techniques</a> from our colleagues at Tan Tock Seng Hospital, Clinical Research &amp; Innovation Office.
