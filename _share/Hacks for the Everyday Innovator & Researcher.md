@@ -3,16 +3,13 @@ title: Hacks for the Everyday Innovator & Researcher
 permalink: /share/permalink/
 description: ""
 ---
-#### **OneNUHS Mobile Application - A Digital Front Door to NUHS Service Transformation**
+#### **"I can't seem to hit my recruitment rate!**
 
-![](/images/screenshot%202023-06-25%20104125.png)
+![](/images/i%20cant%20seem%20to%20hit%20my%20recruitment%20rate.jpg)
 
-Recognised as one of the top four most popular healthcare and fitness app in Singapore&nbsp;*(source: Similarweb)*, we present to you **the making of the OneNUHS mobile app** - a Digital Front Door to a slew of services aim at transforming and improving both patient and provider's experience.
+In the first of the series of **'Hacks for the Everyday Innovator &amp; Researcher'**, we are shining the light on a fairly common problem faced by many in the research and innovation community.  
+  
+Look no further as here are some key strategies to overcome your subject recruitment and retention woes:
+<a target="_blank" href="https://for.sg/child-chi-sg-child-collection-ttsh-crio-1"></a>
 
-Hear from the team who&nbsp;brought to you the **first public healthcare cluster teleconsultation service via a mobile app**; and how they exceeded the delivery of&nbsp;two Minimum Viable Product (MVP) in 12 months:&nbsp;
-<a target="_blank" href="https://bit.ly/3nZrkzS"></a>
-
-<a target="_blank" href="https://form.gov.sg/649979f07e18e300125c61b2"><button class="button button1">Click Here to Submit Your Project</button></a>
-
-
-<em>[This article was first published in HealthTech Connect by IHiS.]</em>
+<em>[Content provided by TTSH Clinical Research &amp; Innovation Office]</em>
