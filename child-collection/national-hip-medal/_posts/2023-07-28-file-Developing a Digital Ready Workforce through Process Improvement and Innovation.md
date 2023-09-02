@@ -1,6 +1,6 @@
 ---
 title: Developing a Digital Ready Workforce through Process Improvement and Innovation
-date: 2023-07-01
+date: 2023-07-28
 layout: file
 description: ""
 image: ""

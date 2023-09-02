@@ -1,5 +1,5 @@
 ---
-title: ubject Recruitment and Retention in Clinical Research
+title: Subject Recruitment and Retention in Clinical Research
 date: 2021-12-01
 layout: file
 description: ""

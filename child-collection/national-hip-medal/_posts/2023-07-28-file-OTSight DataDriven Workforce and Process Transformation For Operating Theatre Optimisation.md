@@ -1,7 +1,7 @@
 ---
 title: OTSight DataDriven Workforce and Process Transformation For Operating
   Theatre Optimisation
-date: 2023-07-01
+date: 2023-07-28
 layout: file
 description: ""
 image: ""
