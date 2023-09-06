@@ -3,6 +3,12 @@ title: Hacks for the Everyday Innovator & Researcher
 permalink: /share/permalink/
 description: ""
 ---
+#### **Where to Stash Your Research Data**
+![](/images/research%20data%20storage.png)
+When it comes to safeguarding your research data, knowing the data storage options available will help protect and preserve your valuable findings.
+
+We have for you an overview of the various <a rel="noopene noreferrer" target="_blank" href="https://for.sg/child-chi-sg-child-collection-ttsh-crio-7">Data Storage "Vaults" </a>, conveniently compiled for you by TTSH Clinical Research &amp; Innovation Office. 
+
 #### **Putting the 'Trust' Back in Research: The Power of Trusted Third Parties**
 ![](/images/august%202023.png)
 In the world of data, engaging a **Trusted Third Party** can give your research a boost in credibility while compliance in data privacy, de-identification and anonymisation is ensured. We show you the <a rel="noopene noreferrer" target="_blank" href="https://for.sg/child-chi-sg-child-collection-ttsh-crio-6">What - When - Who</a> surrounding TTP and how to find them.
