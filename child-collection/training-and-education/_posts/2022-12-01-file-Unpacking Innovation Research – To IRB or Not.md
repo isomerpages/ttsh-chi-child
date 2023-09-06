@@ -4,5 +4,5 @@ date: 2022-12-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_5_TTSH_CRIO_To IRB or Not.pdf
+file_url: /files/CRIO Newsletter/C_5_TTSH_CRIO_To IRB or Not.pdf
 ---
