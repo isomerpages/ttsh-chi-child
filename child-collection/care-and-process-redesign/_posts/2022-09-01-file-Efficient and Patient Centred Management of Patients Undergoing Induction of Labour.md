@@ -5,6 +5,6 @@ date: 2022-09-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_99_KKH_Efficient and Patient-Centered Management of Patients
+file_url: /files/circulars/C_99_KKH_Efficient and Patient-Centered Management of Patients
   Undergoing Induction of Labour.pdf
 ---

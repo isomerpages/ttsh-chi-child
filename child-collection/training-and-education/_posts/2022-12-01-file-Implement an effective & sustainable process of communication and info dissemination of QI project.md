@@ -5,6 +5,6 @@ date: 2022-12-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_702_SGH_SHM 2022_Implement an effective & sustainable process
+file_url: /files/circulars/C_702_SGH_SHM 2022_Implement an effective & sustainable process
   of communication and information dissemination of QI projects.pdf
 ---

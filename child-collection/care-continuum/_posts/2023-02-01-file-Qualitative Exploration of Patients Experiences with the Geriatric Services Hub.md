@@ -4,6 +4,6 @@ date: 2023-02-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_50_GERI_SHBC 2022_Qualitative exploration of patients'
+file_url: /files/circulars/C_50_GERI_SHBC 2022_Qualitative exploration of patients'
   experiences with the GSH.pdf
 ---

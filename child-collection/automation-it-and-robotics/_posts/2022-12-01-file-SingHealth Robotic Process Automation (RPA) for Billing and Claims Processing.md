@@ -4,6 +4,6 @@ date: 2022-12-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_722_SingHealth_SHM 2022_SingHealth RPA for Billing and Claims
+file_url: /files/circulars/C_722_SingHealth_SHM 2022_SingHealth RPA for Billing and Claims
   Processing .pdf
 ---

@@ -5,6 +5,6 @@ date: 2023-05-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_303_NTFGH_QM 2022_Clinicians’ Acceptance and Perspectives On
+file_url: /files/circulars/C_303_NTFGH_QM 2022_Clinicians’ Acceptance and Perspectives On
   Antimicrobial Stewardship Interventions.pdf
 ---

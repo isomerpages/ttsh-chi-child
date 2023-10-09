@@ -5,6 +5,6 @@ date: 2023-02-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_455_IMH_SHBC 2022_Exploring the role of trust in COVID-19
+file_url: /files/circulars/C_455_IMH_SHBC 2022_Exploring the role of trust in COVID-19
   information from different sources in Singapore.pdf
 ---

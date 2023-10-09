@@ -4,6 +4,6 @@ date: 2022-02-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C397_TTSH_SHBC 2021_Pivoting to Telepractice during COVID-19,
+file_url: /files/circulars/C397_TTSH_SHBC 2021_Pivoting to Telepractice during COVID-19,
   The Clinicians Perspective.pdf
 ---

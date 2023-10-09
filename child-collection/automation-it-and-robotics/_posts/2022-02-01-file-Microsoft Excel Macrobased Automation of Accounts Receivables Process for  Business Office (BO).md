@@ -5,6 +5,6 @@ date: 2022-02-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C535_CGH_SHM 2021_Microsoft Excel Macro-based Automation of
+file_url: /files/circulars/C535_CGH_SHM 2021_Microsoft Excel Macro-based Automation of
   Accounts Receivables.pdf
 ---

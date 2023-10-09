@@ -4,5 +4,5 @@ date: 2022-05-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C170_NTFGH_QM 2021_No Show Management_Reduction in Radiology DNA.pdf
+file_url: /files/circulars/C170_NTFGH_QM 2021_No Show Management_Reduction in Radiology DNA.pdf
 ---

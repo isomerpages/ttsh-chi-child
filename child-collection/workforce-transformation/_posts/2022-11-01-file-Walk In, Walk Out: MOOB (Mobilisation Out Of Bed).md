@@ -4,5 +4,5 @@ date: 2022-11-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_424_WH_NHIP 2022_Walk In,Walk Out_MOOB (Mobilisation Out Of Bed).pdf
+file_url: /files/circulars/C_424_WH_NHIP 2022_Walk In,Walk Out_MOOB (Mobilisation Out Of Bed).pdf
 ---

@@ -5,6 +5,6 @@ date: 2023-01-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_737_SGH_SHM 2022_Upcycling Hospital Linen that are No Longer
+file_url: /files/circulars/C_737_SGH_SHM 2022_Upcycling Hospital Linen that are No Longer
   Had its Useful Lifespan.pdf
 ---

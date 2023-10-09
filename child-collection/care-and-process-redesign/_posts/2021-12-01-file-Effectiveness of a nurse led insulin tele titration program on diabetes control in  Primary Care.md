@@ -5,6 +5,6 @@ date: 2021-12-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C110_NUP_SHM 2021_Effectiveness of a nurse-led insulin
+file_url: /files/circulars/C110_NUP_SHM 2021_Effectiveness of a nurse-led insulin
   tele-titration program.pdf
 ---

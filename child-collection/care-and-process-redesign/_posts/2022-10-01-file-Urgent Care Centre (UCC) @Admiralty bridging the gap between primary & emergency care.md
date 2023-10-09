@@ -5,5 +5,5 @@ date: 2022-10-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_435_WH_NHIP 2022_Urgent Care Centre (UCC) @Admiralty.pdf
+file_url: /files/circulars/C_435_WH_NHIP 2022_Urgent Care Centre (UCC) @Admiralty.pdf
 ---

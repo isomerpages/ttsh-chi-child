@@ -5,5 +5,5 @@ date: 2023-02-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_756_SKH_SHM 2022_Effective Disinfecting Of Protective Devices Used.pdf
+file_url: /files/circulars/C_756_SKH_SHM 2022_Effective Disinfecting Of Protective Devices Used.pdf
 ---

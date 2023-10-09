@@ -5,5 +5,5 @@ date: 2022-10-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_670_JCH_NHIP 2022_Reducing Time Taken for Applicat .pdf
+file_url: /files/circulars/C_670_JCH_NHIP 2022_Reducing Time Taken for Applicat .pdf
 ---

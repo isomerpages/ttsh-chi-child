@@ -5,6 +5,6 @@ date: 2023-05-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_466_NSC_SHBC 2022_Visualising cancer in 3D Tissue Imaging for
+file_url: /files/circulars/C_466_NSC_SHBC 2022_Visualising cancer in 3D Tissue Imaging for
   management of cutaneous basal cell carcinoma.pdf
 ---

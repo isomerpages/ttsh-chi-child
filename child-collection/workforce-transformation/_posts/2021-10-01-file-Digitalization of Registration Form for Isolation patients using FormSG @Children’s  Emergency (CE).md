@@ -5,6 +5,6 @@ date: 2021-10-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C476_KKH_SHM 2021_Digitalization of Registration Form for
+file_url: /files/circulars/C476_KKH_SHM 2021_Digitalization of Registration Form for
   Isolation patients.pdf
 ---

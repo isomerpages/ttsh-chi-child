@@ -5,5 +5,5 @@ date: 2022-04-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C629_KKH_SHM2021_Towards Sustainability Development - KKH ISO 45001.pdf
+file_url: /files/circulars/C629_KKH_SHM2021_Towards Sustainability Development - KKH ISO 45001.pdf
 ---

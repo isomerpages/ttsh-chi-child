@@ -5,6 +5,6 @@ date: 2022-04-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C636_​NDCS_SHM2021_Oral Health Awareness Among Nurses and a
+file_url: /files/circulars/C636_​NDCS_SHM2021_Oral Health Awareness Among Nurses and a
   Comprehensive Oral Care Regime.pdf
 ---

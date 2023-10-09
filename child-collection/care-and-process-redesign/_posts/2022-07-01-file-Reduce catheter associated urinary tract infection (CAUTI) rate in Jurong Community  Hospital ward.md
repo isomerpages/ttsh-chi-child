@@ -5,5 +5,5 @@ date: 2022-07-01
 layout: file
 description: ""
 image: ""
-file_url: /files/c_210_jch_qm 2021_reduce cauti rate in jch wards.pdf
+file_url: /files/circulars/c_210_jch_qm 2021_reduce cauti rate in jch wards.pdf
 ---

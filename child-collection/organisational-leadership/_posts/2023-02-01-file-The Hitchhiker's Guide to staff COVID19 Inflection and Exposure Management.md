@@ -4,6 +4,6 @@ date: 2023-02-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_762_SKH_SHM 2022_The Hitchhiker's Guide to Staff COVID-19
+file_url: /files/circulars/C_762_SKH_SHM 2022_The Hitchhiker's Guide to Staff COVID-19
   Infection and Exposure Management.pdf
 ---
