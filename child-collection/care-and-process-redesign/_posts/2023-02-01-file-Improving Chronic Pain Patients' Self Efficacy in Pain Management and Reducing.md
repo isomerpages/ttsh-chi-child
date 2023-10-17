@@ -4,6 +4,6 @@ date: 2023-02-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_750_SGH_SHM 2022_Improving chronic pain patients selfefficacy
+file_url: /files/circulars/C_750_SGH_SHM 2022_Improving chronic pain patients selfefficacy
   in pain management and reducing emergency.pdf
 ---

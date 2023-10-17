@@ -5,5 +5,5 @@ date: 2022-01-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C519_SHHQ _SHM 2021_Evolution of CRC Training course.pdf
+file_url: /files/circulars/C519_SHHQ _SHM 2021_Evolution of CRC Training course.pdf
 ---

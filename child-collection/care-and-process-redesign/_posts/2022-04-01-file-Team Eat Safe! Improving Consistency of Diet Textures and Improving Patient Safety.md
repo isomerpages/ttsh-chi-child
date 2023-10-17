@@ -5,6 +5,6 @@ date: 2022-04-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C624_SKH_SHM2021_Improving Consistency of Diet Textures and
+file_url: /files/circulars/C624_SKH_SHM2021_Improving Consistency of Diet Textures and
   Improving Patient Safety.pdf
 ---

@@ -4,6 +4,6 @@ date: 2022-04-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C128_NTFGH_QM 2019_Improving Prone Ventilation Methods And
+file_url: /files/circulars/C128_NTFGH_QM 2019_Improving Prone Ventilation Methods And
   Nursing Practices In The Icu.pdf
 ---

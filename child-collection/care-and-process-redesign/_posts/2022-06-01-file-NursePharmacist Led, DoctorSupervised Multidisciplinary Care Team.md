@@ -4,6 +4,6 @@ date: 2022-06-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C161_NTFGH_QM 2021_NursePharmacist-Led, Doctor-Supervised,
+file_url: /files/circulars/C161_NTFGH_QM 2021_NursePharmacist-Led, Doctor-Supervised,
   Multidisciplinary Care Team.pdf
 ---

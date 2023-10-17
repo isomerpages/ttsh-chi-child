@@ -5,6 +5,6 @@ date: 2022-07-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_229_NTFGH_QM 2020_Isolation Nurses Creation Infection Control
+file_url: /files/circulars/C_229_NTFGH_QM 2020_Isolation Nurses Creation Infection Control
   Awareness.pdf
 ---

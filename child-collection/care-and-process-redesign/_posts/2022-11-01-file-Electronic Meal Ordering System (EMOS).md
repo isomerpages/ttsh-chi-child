@@ -4,5 +4,5 @@ date: 2022-11-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_41_AMK THKH_NHIP 2022_Electronic Meal Ordering System (EMOS).pdf
+file_url: /files/circulars/C_41_AMK THKH_NHIP 2022_Electronic Meal Ordering System (EMOS).pdf
 ---

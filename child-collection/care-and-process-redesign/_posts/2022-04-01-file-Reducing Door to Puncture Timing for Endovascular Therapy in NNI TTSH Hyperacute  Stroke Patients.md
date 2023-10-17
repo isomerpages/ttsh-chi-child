@@ -5,6 +5,6 @@ date: 2022-04-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C630_NNI_SHM2021_Reducing Door to Puncture timing for
+file_url: /files/circulars/C630_NNI_SHM2021_Reducing Door to Puncture timing for
   Endovascular therapy.pdf
 ---

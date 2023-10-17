@@ -5,5 +5,5 @@ date: 2022-05-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C266_SGH_Improving work efficiency Revamping ward statistics sys.pdf
+file_url: /files/circulars/C266_SGH_Improving work efficiency Revamping ward statistics sys.pdf
 ---

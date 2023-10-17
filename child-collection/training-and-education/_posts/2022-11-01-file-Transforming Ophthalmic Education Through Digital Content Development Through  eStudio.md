@@ -5,6 +5,6 @@ date: 2022-11-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_693_SNEC_NHIP 2022_Transformation of Ophthalmic Education
+file_url: /files/circulars/C_693_SNEC_NHIP 2022_Transformation of Ophthalmic Education
   into Dgital Content through e-studio.pdf
 ---

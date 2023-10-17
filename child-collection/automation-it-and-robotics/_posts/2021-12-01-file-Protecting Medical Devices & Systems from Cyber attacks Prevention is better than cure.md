@@ -5,6 +5,6 @@ date: 2021-12-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C507_SingHealth _SHM 2021_Protecting Medical Devices n Systems
+file_url: /files/circulars/C507_SingHealth _SHM 2021_Protecting Medical Devices n Systems
   from Cyber-attacks.pdf
 ---

@@ -4,6 +4,6 @@ date: 2022-04-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C654_SGH_SHM2021_SIA-SGH Collab - Deployment of Cabin Crew as
+file_url: /files/circulars/C654_SGH_SHM2021_SIA-SGH Collab - Deployment of Cabin Crew as
   Care Ambassadors.pdf
 ---

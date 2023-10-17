@@ -4,5 +4,5 @@ date: 2023-02-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_760_SHHQ_SHM 2022_Enterprise Risk Management 101 e-Module.pdf
+file_url: /files/circulars/C_760_SHHQ_SHM 2022_Enterprise Risk Management 101 e-Module.pdf
 ---

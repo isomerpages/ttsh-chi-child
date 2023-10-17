@@ -5,6 +5,6 @@ date: 2021-11-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C480_KKH_SHM 2021_Touch 2 Order - In-Patient Meal Ordering
+file_url: /files/circulars/C480_KKH_SHM 2021_Touch 2 Order - In-Patient Meal Ordering
   System staff.pdf
 ---

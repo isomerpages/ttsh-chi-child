@@ -5,5 +5,5 @@ date: 2022-02-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C544_SCH_SHM 2021_Reducing turnaround time to final bill generation.pdf
+file_url: /files/circulars/C544_SCH_SHM 2021_Reducing turnaround time to final bill generation.pdf
 ---

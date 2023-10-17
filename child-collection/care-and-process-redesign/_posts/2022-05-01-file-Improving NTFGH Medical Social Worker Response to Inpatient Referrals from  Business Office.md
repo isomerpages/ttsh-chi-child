@@ -5,6 +5,6 @@ date: 2022-05-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C203_NTFGH-JCH_QM 2021_Improving NTFGH MSW Response to
+file_url: /files/circulars/C203_NTFGH-JCH_QM 2021_Improving NTFGH MSW Response to
   Inpatient Referrals from Business Office.pdf
 ---

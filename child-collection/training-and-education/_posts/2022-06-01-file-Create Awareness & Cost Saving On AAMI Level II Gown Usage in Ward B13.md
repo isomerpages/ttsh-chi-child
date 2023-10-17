@@ -4,6 +4,6 @@ date: 2022-06-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C165_NTFGH_QM 2021_Create Awareness n Cost Saving On AAMI Level
+file_url: /files/circulars/C165_NTFGH_QM 2021_Create Awareness n Cost Saving On AAMI Level
   II Gown Usage.pdf
 ---

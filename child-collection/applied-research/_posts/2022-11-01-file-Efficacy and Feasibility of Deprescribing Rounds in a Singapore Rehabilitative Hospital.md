@@ -5,6 +5,6 @@ date: 2022-11-01
 layout: file
 description: ""
 image: ""
-file_url: /files/C_694_BVH_CCRG 2021_Efficacy and Feasibility of De-prescribing
+file_url: /files/circulars/C_694_BVH_CCRG 2021_Efficacy and Feasibility of De-prescribing
   Rounds in a Singapore Rehabilitative Hospital.pdf
 ---
