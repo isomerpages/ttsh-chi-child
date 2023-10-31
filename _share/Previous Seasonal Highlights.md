@@ -98,7 +98,7 @@ th, td {
 	<input type="checkbox" id="title1"><label for="title1">	<b>Virtual Reality competency training and assessment tool for processing of prescriptions and medication orders</b> <br>by <b>Singapore General Hospital &amp; Serious Games Association</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
-Where can learning meet fun? Pharmacy staff and trainees at the Singapore General Hospital can now undergo a **high-fidelity VR Pharmacy Dispensing simulation training programme!** Jointly developed and implemented by the Department of Pharmacy of Singapore General Hospital &amp; Serious Games Association, Project VRx&nbsp;allows users to be trained to process the prescriptions and medication orders safely and accurately.
+Where can learning meet fun? Pharmacy staff and trainees at the Singapore General Hospital can now undergo a high-fidelity VR Pharmacy Dispensing simulation training programme! Jointly developed and implemented by the Department of Pharmacy of Singapore General Hospital &amp; Serious Games Association, Project VRx&nbsp;allows users to be trained to process the prescriptions and medication orders safely and accurately.
 		
 <br> <a rel="noopene noreferrer" target="_blank" href="https://child.chi.sg/files/449_SGH,%20SGA_SAHC%202021_VR%20competency%20training%20and%20assessment%20tool-combine.pdf">This project</a> was conferred the Merit Award (Poster Presentation) Innovation &amp; Digital Strategies category at this year’s Singapore Allied Health Conference (SAHC).
 <p></p>
@@ -108,7 +108,7 @@ Where can learning meet fun? Pharmacy staff and trainees at the Singapore Genera
 <br><img src="/images/screenshot%202023-06-25%20104125.png"><br>
 	<input type="checkbox" id="title2"><label for="title2"><b>OneNUHS Mobile Application - A Digital Front Door to NUHS Service Transformation</b><br>by <b>National University Health System</b></label>
 	<div class="accordion-content">
-	<div class="para">Recognised as one of the top four most popular healthcare and fitness app in Singapore *(source: Similarweb)*, we present to you&nbsp;the making of the OneNUHS mobile app&nbsp;- a Digital Front Door to a slew of services aim at transforming and improving both patient and provider’s experience.
+	<div class="para">Recognised as one of the top four most popular healthcare and fitness app in Singapore (source: Similarweb), we present to you&nbsp;the making of the OneNUHS mobile app&nbsp;- a Digital Front Door to a slew of services aim at transforming and improving both patient and provider’s experience.
 
 <br> Hear from the team who&nbsp;brought to you the&nbsp;**first public healthcare cluster teleconsultation service via a mobile app**; and how they exceeded the delivery of&nbsp;two Minimum Viable Product (MVP) in 12 months here on <a rel="noopene noreferrer" target="_blank" href="https://child.chi.sg/files/circulars/C220_NUHS_IHiS%20Health%20Tech%202021_One%20NUHS%20mobile%20application.pdf">CHILD's Collection</a>.<p></p> 
 <em>[This article was first published in HealthTech Connect by IHiS.]</em>
