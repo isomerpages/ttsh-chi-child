@@ -3,12 +3,12 @@ title: Pick of the Month
 permalink: /share/pickofthemonth/
 description: ""
 ---
-#### **OneNUHS Mobile Application - A Digital Front Door to NUHS Service Transformation**
+#### **Here's how you can redefine compassion in design &amp; make spaces timeless expression of care**
 
-![](/images/screenshot%202023-06-25%20104125.png)
+![](/images/nypelderly%20&amp;%20dementia.png)
 
-Recognised as one of the top four most popular healthcare and fitness app in Singapore&nbsp;*(source: Similarweb)*, we present to you **the making of the OneNUHS mobile app** - a Digital Front Door to a slew of services aim at transforming and improving both patient and provider's experience.
+Dive into the world of inclusive design with <a rel="noopene noreferrer" target="_blank" href="[](/files/Sep%202023%20to%20Nov%202023/c%2025_nyp_guidebook_elderly-%20and%20dementia-inclusive%20environment.pdf))">this Guidebook: Designing an Elderly-Friendly and Dementia-Inclusive Environment</a>, presented by Dementia Singapore (formerly ADA) in collaboration with Nanyang Polytechnic! 
 
-Hear from the team who&nbsp;brought to you the **first public healthcare cluster teleconsultation service via a mobile app**; and how they exceeded the delivery of&nbsp;two Minimum Viable Product (MVP) in 12 months here on <a rel="noopene noreferrer" target="_blank" href="https://child.chi.sg/files/circulars/C220_NUHS_IHiS%20Health%20Tech%202021_One%20NUHS%20mobile%20application.pdf">CHILD's Collection.</a>
+Packed with**practical tips, checklist &amp; insightful pictorial suggestions**, this guidebook is your essential tool for crafting spaces that tailored to the **unique needs of the eldery**, especially those facing **dementia**. Going beyond the basics, this guide embraces **Singapore's cultural nuances** while providing universal principles of inclusivity. 
 
-<em>[This article was first published in HealthTech Connect by IHiS.]</em>
+<em>This guidebook was also published on Research Gate, AIC &amp; Dementia Singapore websites.</em>
