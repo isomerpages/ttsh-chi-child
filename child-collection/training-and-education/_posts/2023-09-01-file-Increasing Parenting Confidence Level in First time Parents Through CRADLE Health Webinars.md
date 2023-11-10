@@ -7,4 +7,5 @@ description: ""
 image: ""
 file_url: /files/837_kkh_shm 2022_increasing parenting confidence level in first
   time parents through cradle.pdf
+variant: tiptap
 ---
