@@ -102,7 +102,7 @@ th, td {
 Dive into the world of inclusive design with <a rel="noopene" target="blank" href="https://child.chi.sg/files/Sep%202023%20to%20Nov%202023/c%2025_nyp_guidebook_elderly-%20and%20dementia-inclusive%20environment.pdf">this Guidebook: Elderly-Friendly and Dementia-Inclusive Environment</a>, presented by Dementia Singapore (formerly ADA) in collaboration with Nanyang Polytechnic!  
 		
 <p></p>
-	Packed with practical tips, checklist &amp; insightful pictorial suggestions, this guidebook is your essential tool for crafting spaces that tailored to the unique needs of the elderly, especially those facing dementia. Going beyond the basics, this guide embraces Singapore's cultural nuances while providing universal principles of inclusivity. 
+Packed with practical tips, checklist &amp; insightful pictorial suggestions, this guidebook is your essential tool for crafting spaces that tailored to the unique needs of the elderly, especially those facing dementia. Going beyond the basics, this guide embraces Singapore's cultural nuances while providing universal principles of inclusivity. 
 
 <p></p>
 <em>
@@ -112,7 +112,6 @@ This guidebook was also published on Research Gate, AIC &amp; Dementia Singapore
 
 </div>
 	</div>
-
 
 ![](/images/virtual%20reality.jpg)
 <style>
