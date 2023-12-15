@@ -106,13 +106,12 @@ Dive into the world of inclusive design with <a rel="noopene" target="blank" hre
 
 <p></p>
 <em>
-This guidebook was also published on Research Gate, AIC &amp; Dementia Singapore websites. 
+This guidebook was also published on Research Gate, AIC &amp; Dementia Singapore websites.</em>
 	
 <p></p>
-<em></em>
-	
-</em></div><em>
-	</em></div><em>
+
+</div>
+	</div>
 
 
 ![](/images/virtual%20reality.jpg)
@@ -345,4 +344,4 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 </div>
 	</div>
 		</div>
-		</div></em></div></div>
+		</div></div></div>
