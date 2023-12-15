@@ -112,6 +112,8 @@ This guidebook was also published on Research Gate, AIC &amp; Dementia Singapore
 
 </div>
 	</div>
+		</div>
+		</div>
 
 ![](/images/virtual%20reality.jpg)
 <style>
@@ -343,4 +345,4 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 </div>
 	</div>
 		</div>
-		</div></div></div>
+		</div>
