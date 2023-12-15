@@ -7,7 +7,7 @@ variant: markdown
 #### **Flipping Healthcare Through a Population Health Stack**
 
 ![](/images/Pop_Health_Stack_.png)
-**Behold: A Revolutionary Approach to Reshaping the Future of Healthcare. **
+**Behold: A Revolutionary Approach to Reshaping the Future of Healthcare.**
 
 With a keen focus on **Population Health Management**, explore innovative strategies poised to redefine patient outcomes, operational efficiency and overall healthcare delivery.
 																											 
