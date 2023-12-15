@@ -2,13 +2,17 @@
 title: Pick of the Month
 permalink: /share/pickofthemonth/
 description: ""
+variant: markdown
 ---
-#### **Here's how you can redefine compassion in design &amp; make spaces timeless expression of care**
+#### **Flipping Healthcare Through a Population Health Stack**
 
-![](/images/nypelderly%20&amp;%20dementia.png)
+![](/images/Pop_Health_Stack_.png)
+**Behold: A Revolutionary Approach to Reshaping the Future of Healthcare. **
 
-Dive into the world of inclusive design with <a rel="noopene noreferrer" target="_blank" href="https://child.chi.sg/files/Sep%202023%20to%20Nov%202023/c%2025_nyp_guidebook_elderly-%20and%20dementia-inclusive%20environment.pdf">this Guidebook: Designing an Elderly-Friendly and Dementia-Inclusive Environment</a>, presented by Dementia Singapore (formerly ADA) in collaboration with Nanyang Polytechnic! 
+With a keen focus on **Population Health Management**, explore innovative strategies poised to redefine patient outcomes, operational efficiency and overall healthcare delivery.
+																											 
+From leveraging advanced data analytics to fostering collaborative care models, this article offers a compelling vision of a healthcare landscape on the brink of a paradigm shift - pivoting from a health system designed for the young and health, to a health system that supports ageing-in-place while delivering optimal value to our residents. 
 
-Packed with**practical tips, checklist &amp; insightful pictorial suggestions**, this guidebook is your essential tool for crafting spaces that tailored to the **unique needs of the eldery**, especially those facing **dementia**. Going beyond the basics, this guide embraces **Singapore's cultural nuances** while providing universal principles of inclusivity. 
-
-<em>This guidebook was also published on Research Gate, AIC &amp; Dementia Singapore websites.</em>
+Click <a rel="noopene noreferrer" href="..... target=">here</a> for more on **NHG's Triple Strategy Towards Triple Aim**; and the **Five Models of Care to form Population Health Stack** as we usher in a new era of holistic and patient-centric wellness. 
+																											 
+<em>This article was first published in HealthManagement.org.</em>
