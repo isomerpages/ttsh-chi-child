@@ -6,4 +6,5 @@ layout: file
 description: ""
 image: ""
 file_url: /files/501_ttsh_cape grant _group speech treatment via telerehabilitation.pdf
+variant: tiptap
 ---
