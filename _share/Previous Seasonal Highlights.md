@@ -114,7 +114,7 @@ Packed with practical tips, checklist &amp; insightful pictorial suggestions, th
 </div>
 	</div>
 	
-![](/images/nypelderly%20&amp;%20dementia.png)
+<img src="/images/nypelderly%20&amp;%20dementia.png">
 <style>
 .button {
   background-color: white;
@@ -222,9 +222,7 @@ This guidebook was also published on Research Gate, AIC &amp; Dementia Singapore
 
 </div>
 	</div>
-		</div>
-		</div>
-
+		
 ![](/images/virtual%20reality.jpg)
 <style>
 .button {
@@ -455,4 +453,4 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 </div>
 	</div>
 		</div>
-		</div></div></div>
+		</div></div></div></div></div>
