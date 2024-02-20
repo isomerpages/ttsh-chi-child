@@ -339,8 +339,8 @@ Where can learning meet fun? Pharmacy staff and trainees at the Singapore Genera
 
 </div>
 	</div>
-		</div>
-		</div>
+	</div>
+	</div>
 
 ![](/images/ngemr_photo.png)
 <style>
