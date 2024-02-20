@@ -114,7 +114,7 @@ Packed with practical tips, checklist &amp; insightful pictorial suggestions, th
 </div>
 	</div>
 	
-<img src="/images/nypelderly%20&amp;%20dementia.png">
+<br><img src="/images/nypelderly%20&amp;%20dementia.png"><br>
 <style>
 .button {
   background-color: white;
