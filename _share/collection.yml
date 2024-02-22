@@ -1,0 +1,8 @@
+collections:
+  share:
+    output: true
+    order:
+      - Submit Your Project.md
+      - Hacks for the Everyday Innovator & Researcher.md
+      - Pick of the Month.md
+      - Previous Seasonal Highlights.md

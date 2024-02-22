@@ -1,0 +1,5 @@
+collections:
+  chat:
+    output: true
+    order:
+      - Chat with Us!.md
