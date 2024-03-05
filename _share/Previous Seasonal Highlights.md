@@ -113,6 +113,8 @@ Packed with practical tips, checklist &amp; insightful pictorial suggestions, th
 <p></p>
 </div>
 	</div>
+	</div>
+	</div>
 	
 ![](/images/nypelderly%20&amp;%20dementia.png)
 <style>
@@ -222,9 +224,9 @@ This guidebook was also published on Research Gate, AIC &amp; Dementia Singapore
 
 </div>
 	</div>
-		</div>
-		</div>
-
+	</div>
+	</div>
+	
 ![](/images/virtual%20reality.jpg)
 <style>
 .button {
@@ -337,8 +339,8 @@ Where can learning meet fun? Pharmacy staff and trainees at the Singapore Genera
 
 </div>
 	</div>
-		</div>
-		</div>
+	</div>
+	</div>
 
 ![](/images/ngemr_photo.png)
 <style>
@@ -455,4 +457,4 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 </div>
 	</div>
 		</div>
-		</div></div></div>
+		</div>
