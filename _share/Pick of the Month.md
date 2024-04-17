@@ -4,16 +4,17 @@ permalink: /share/pickofthemonth/
 description: ""
 variant: markdown
 ---
-#### **Robotic Process Automation (RPA)**
+#### **Sustainability**
 
-![](/images/RPA.png)[](/images/Pop_Health_Stack_.png)
+![](/images/CHILD_posts__2_.png)
 
-CHILD is proud to showcase three case studies as our **"Pick of the Month"**, each a testament to the transformative power of RPA in distinct healthcare settings. 
-																											 
-Facilitated by CHI's Digital &amp; Smart Health Office (DSHO), these projects in Tan Tock Seng Hospital (TTSH) present the future where automation is strategically driving excellence across diverse healthcare domains: 
+This month, CHILD is thrilled to highlight three outstanding projects that demonstrate ongoing efforts towards environmental sustainability in healthcare. These initiatives are focused on reducing environmental footprints and show how sustainability is becoming an integral part of healthcare operations:
 
-1. <a rel="noopene" target="blank" href="https://child.chi.sg/files/2023%20Dec%20to%202024%20Feb/C_559_TTSH_DSHO__Transforming_the_Process_of_Form_Creation_to_Data_Entry.pdf">TTSH's Pharmacy Drug Management team</a> witness a **surge in productivity and precision**, minimising errors and near misses; all whilst reducing Full-Time-Equivalent (FTE) for **better resource allocation** and achieving cost-effectiveness. 
-2. The <a rel="noopene" target="blank" href="https://child.chi.sg/files/2023%20Dec%20to%202024%20Feb/C_558_TTSH_DSHO_Transforming_Billing_Process_with_RPA.pdf">Outpatient Pharmacy unit</a> rides the RPA wave, emerging with **heightened accuracy and efficiency** as well as **increased staff satisfaction** as they are now able to redirect time towards meaningful patient interactions.
-3. Over at the <a rel="noopene" target="blank" href="https://child.chi.sg/files/2023%20Dec%20to%202024%20Feb/No_poster_560_TTSH_DSHO__Automating_Health__RPA_Takes_Charge_of_Flu_Vaccination_Reminders.pdf">Operations, Workplace Health and Safety unit</a>, RPA improves workflow efficiencies, **liberating staff from manual and repetitive tasks** to focus on elevating patient care.
-																											 
-<em>These projects not only exemplify the versatility of RPA but also underlines its overarching impact on healthcare - reducing mundane tasks, preventing errors, and most importantly, empowering healthcare professionals to channel their energy towards enriching patient care experience.</em>
+1. Since 2020, <a rel="noopene" target="blank" href="https://for.sg/chi-sg-knowledge-hub-ntfgh-nhip2022-270">JurongHealth Campus (JHC)</a> has rolled out a campus-wide initiative to o**ptimise water and energy efficiency**, as well as **reduce greenhouse gas emissions**. This initiative focuses on transforming JHC’s facilities to be more sustainable and resilient, while actively promoting environmental stewardship.
+*\[Winner of the 2022 National HIP Best Practice Medal Awardee – Automation, IT &amp; Robotics Innovation\]*
+2. By **reinventing food waste**, **repurposing plastics** and **reducing single-use disposables**, <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-cgh-shmc2023-877">CGH Food Services</a> showcases how the healthcare sector can contribute to environmental sustainability while continuing to deliver high-quality nutrition for patients.
+*\[1st Prize Awardee (Environmental Sustainability category) of the Singapore Healthcare Management (SHM) Congress 2023\]*
+
+3. Through the process of re-creating sustainable last-mile solutions via **resource optimisation**, this project by <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-thkmc-ccea2022-20">Thye Hua Kwan Moral Charities Ltd: THK Elderly &amp; Home Care Services</a> not only achieved higher productivity, but also reduced mileage and carbon emissions
+
+<em>The stories above represent &nbsp;a snapshot of the incredible strides being made in integrating environmental sustainability into healthcare. Explore similar inspiring projects on the CHILD Collection now! </em>
