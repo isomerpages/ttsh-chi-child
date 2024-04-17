@@ -15,6 +15,7 @@ This month, CHILD is thrilled to highlight three outstanding projects that demon
 2. By **reinventing food waste**, **repurposing plastics** and **reducing single-use disposables**, <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-cgh-shmc2023-877">CGH Food Services</a> showcases how the healthcare sector can contribute to environmental sustainability while continuing to deliver high-quality nutrition for patients.
 *\[1st Prize Awardee (Environmental Sustainability category) of the Singapore Healthcare Management (SHM) Congress 2023\]*
 
-3. Through the process of re-creating sustainable last-mile solutions via **resource optimisation**, this project by <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-thkmc-ccea2022-20">Thye Hua Kwan Moral Charities Ltd: THK Elderly &amp; Home Care Services</a> not only achieved higher productivity, but also reduced mileage and carbon emissions
+3. Through the process of re-creating sustainable last-mile solutions via **resource optimisation**, this project by <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-thkmc-ccea2022-20">Thye Hua Kwan Moral Charities Ltd: THK Elderly &amp; Home Care Services</a> not only achieved higher productivity, but also reduced mileage and carbon emissions.
+*\[Productivity Improvement Gold Awardee at the Community Care Excellence Awards (CCEA) 2022 by the Agency for Integrated Care (AIC)\]*
 
 <em>The stories above represent &nbsp;a snapshot of the incredible strides being made in integrating environmental sustainability into healthcare. Explore similar inspiring projects on the CHILD Collection now! </em>
