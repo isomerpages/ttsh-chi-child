@@ -3,20 +3,17 @@ title: Our Steering Committee
 permalink: /about-child/what-is-child/our-steering-committee/
 description: ""
 third_nav_title: What is CHILD
+variant: markdown
 ---
 <h2>Our Knowledge Management Steering Committee</h2>
 
-<h4>Co-Chairperson</h4>
+<h4>Chairperson</h4>
 
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Committee/prof%20wong-01.png"></td>
-<td><strong>A/Prof Wong Hon Tym</strong><br>Co-Chairperson<br><b>Knowledge Management Steering Committee</b><br>Clinical Director<br><b>Centre for Healthcare Innovation</b><br><br>
-</td></tr>
-<tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Committee/prof%20tan%20ch-01.png"></td>
-<td><strong>A/Prof Tan Cher Heng</strong><br>Co-Chairperson<br><b>Knowledge Management Steering Committee</b><br>Executive Director<br><b>Centre for Healthcare Innovation</b><br><br>
+<td><strong>A/Prof Wong Hon Tym</strong><br>Chairperson<br><b>Knowledge Management Steering Committee</b><br>Clinical Director<br><b>Centre for Healthcare Innovation</b><br><br>
 </td></tr>
 </tbody>
 </table>
@@ -27,16 +24,11 @@ third_nav_title: What is CHILD
 <tbody>
 	<tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
-<td><br><strong>Ronnie Yang</strong><br>Deputy Executive Director
-	<br><b>Centre for Healthcare Innovation</b> <br><br></td>
-</tr>
-	<tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
 <td><br><strong>Edmund Zhou </strong><br>Director, Innovation &amp; Enterprise<br><b>Ministry of Health</b><br><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="chi" src="/images/Committee/iconhuman.png"></td>
-<td><strong>Geoffrey Gui </strong><br>Director, Future Health System<br>Director, Organisation Planning &amp; Performance Division<br><b>Singapore General Hospital</b><br><br></td>
+<td style="width: 150px;"><img alt="chi" src="/images/Committee/Geoffrey_Gui_Photo_Cropped.jpg"></td>
+<td><strong>Geoffrey Gui </strong><br>Chief Operating Officer, Food Services <br><b> SingHealth </b><br>Chief Operating Officer <br><b> National Dental Centre Singapore </b><br> Director, Future Health System<br><b>Singapore General Hospital</b><br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
@@ -56,7 +48,7 @@ third_nav_title: What is CHILD
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
-	<td><br><strong>Donovan Wee</strong><br>Director<br><b>Integrated Health Information System</b><br><br></td>
+	<td><br><strong>Dennis Neo Khim Horng</strong><br>Deputy Director, Patient Services Channels <br><b>Synapxe</b><br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
