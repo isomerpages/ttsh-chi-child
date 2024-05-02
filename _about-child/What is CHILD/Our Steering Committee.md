@@ -35,7 +35,7 @@ variant: markdown
 <td><br><strong>Dr Koh Shuwen </strong><br>Director, Innovation Transfer Office<br>Research Office<br><b>National University Health System</b><br><br></td>
 </tr>
 	<tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
+<td style="width: 150px;"><img src="/images/Committee/Hwang_Chi_Hong_Photo_Cropped.jpg"></td>
 <td><br><strong>Dr Hwang Chi Hong </strong><br>Director, Quality, Innovation &amp; Improvement,<br><b>Ng Teng Fong General Hospital</b> <br><br></td>
 </tr>
 <tr>
