@@ -27,36 +27,36 @@ variant: markdown
 <td><strong>Edmund Zhou </strong><br>Director, Future Systems &amp; Innovation<br>Director, Infrastructure Policy &amp; Planning<br><b>Ministry of Health</b><br><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="chi" src="/images/Committee/Geoffrey_Gui_Photo_Cropped.jpg"></td>
+<td style="width: 150px;"><br><img alt="chi" src="/images/Committee/Geoffrey_Gui_Photo_Cropped.jpg"></td>
 <td><strong>Geoffrey Gui </strong><br>Chief Operating Officer, Food Services <br><b> SingHealth </b><br>Chief Operating Officer <br><b> National Dental Centre Singapore </b><br> Director, Future Health System<br><b>Singapore General Hospital</b><br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img src="/images/Committee/Koh_Shuwen_Photo__Cropped_.jpg"></td>
-<td><strong>Dr Koh Shuwen </strong><br>Director, Innovation Transfer Office<br>Research Office<br><b>National University Health System</b><br><br></td>
+<td><br><strong>Dr Koh Shuwen </strong><br>Director, Innovation Transfer Office<br>Research Office<br><b>National University Health System</b><br><br></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><img src="/images/Committee/Hwang_Chi_Hong_Photo_Cropped.jpg"></td>
-<td><strong>Dr Hwang Chi Hong </strong><br>Director, Quality, Innovation &amp; Improvement,<br><b>Ng Teng Fong General Hospital</b> <br><br></td>
+<td><br><strong>Dr Hwang Chi Hong </strong><br>Director, Quality, Innovation &amp; Improvement<br><b>Ng Teng Fong General Hospital</b> <br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img src="/images/Committee/Thomas_Chee_Photo_Cropped_2.jpg"></td>
-<td><strong>A/Prof Thomas Chee </strong><br>Clinical Director, Clinical &amp; Patient Engagement Office<br>Office of Quality &amp; Clinical Governance <br><b>Tan Tock Seng Hospital</b><br><br></td>
+<td><br><strong>A/Prof Thomas Chee </strong><br>Senior Advisor, Clinical &amp; Patient Engagement Office<br>Office of Quality &amp; Clinical Governance <br><b>Tan Tock Seng Hospital</b><br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
 <td><br><strong>Heidi Rafman</strong><br>Chief Quality and Productivity Division<br><b>Agency for Integrated Care</b><br><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
+<td style="width: 150px;"><img src="/images/Committee/Dennis_Neo_Photo_Cropped.jpg"></td>
 	<td><br><strong>Dennis Neo Khim Horng</strong><br>Deputy Director, Patient Services Channels <br><b>Synapxe</b><br><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
-<td><br><strong>Caroline Pang</strong><br>University Librarian, Office of Information, Knowledge and Library Services<br><b>Nanyang Technological University</b><br><br></td>
+<td style="width: 150px;"><img src="/images/Committee/Caroline_Pang_Photo__Cropped_.jpg"></td>
+<td><br><strong>Caroline Pang</strong><br>University Librarian, Office of Information <br>Knowledge and Library Services<br><b>Nanyang Technological University</b><br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
-<td><br><strong>Sr Lee Leng Noey</strong><br>Associate Director<br><b>Centre for Asian Nursing Studies(CANS)</b><br><br></td>
+<td><br><strong>Br James Ang Wei Kiat</strong><br>Assistant Director, Nursing Service<br><b>Tan Tock Seng Hospital</b><br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Committee/prof%20jonathon%20gray-01.png"></td>
