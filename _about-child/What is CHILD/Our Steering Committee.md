@@ -23,8 +23,8 @@ variant: markdown
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 	<tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
-<td><br><strong>Edmund Zhou </strong><br>Director, Innovation &amp; Enterprise<br><b>Ministry of Health</b><br><br></td>
+<td style="width: 150px;"><img alt="andrew1" src="/images/Committee/Edmund_Zhou_LinkedIn_Photo__Cropped_.png"></td>
+<td><br><strong>Edmund Zhou </strong><br>Director, Innovation &amp; Enter<br>ector, Innovation &amp; Enterprise<br><b>Ministry of Health</b><br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="chi" src="/images/Committee/Geoffrey_Gui_Photo_Cropped.jpg"></td>
