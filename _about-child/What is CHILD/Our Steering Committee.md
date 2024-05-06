@@ -23,24 +23,24 @@ variant: markdown
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 	<tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Committee/Edmund_Zhou_LinkedIn_Photo__Cropped_.png"></td>
-<td><br><strong>Edmund Zhou </strong><br>Director, Innovation &amp; Enter<br>ector, Innovation &amp; Enterprise<br><b>Ministry of Health</b><br><br></td>
+<td style="width: 150px;"><img src="/images/Committee/Edmund_Zhou_LinkedIn_Photo__Cropped_.png"></td>
+<td><strong>Edmund Zhou </strong><br>Director, Future Systems &amp; Innovation<br>Director, Infrastructure Policy &amp; Planning<br><b>Ministry of Health</b><br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="chi" src="/images/Committee/Geoffrey_Gui_Photo_Cropped.jpg"></td>
 <td><strong>Geoffrey Gui </strong><br>Chief Operating Officer, Food Services <br><b> SingHealth </b><br>Chief Operating Officer <br><b> National Dental Centre Singapore </b><br> Director, Future Health System<br><b>Singapore General Hospital</b><br><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
-<td><br><strong>Dr Koh Shuwen </strong><br>Director, Innovation Transfer Office<br>Research Office<br><b>National University Health System</b><br><br></td>
+<td style="width: 150px;"><img src="/images/Committee/Koh_Shuwen_Photo__Cropped_.jpg"></td>
+<td><strong>Dr Koh Shuwen </strong><br>Director, Innovation Transfer Office<br>Research Office<br><b>National University Health System</b><br><br></td>
 </tr>
 	<tr>
 <td style="width: 150px;"><img src="/images/Committee/Hwang_Chi_Hong_Photo_Cropped.jpg"></td>
-<td><br><strong>Dr Hwang Chi Hong </strong><br>Director, Quality, Innovation &amp; Improvement,<br><b>Ng Teng Fong General Hospital</b> <br><br></td>
+<td><strong>Dr Hwang Chi Hong </strong><br>Director, Quality, Innovation &amp; Improvement,<br><b>Ng Teng Fong General Hospital</b> <br><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
-<td><br><strong>A/Prof Thomas Chee </strong><br>Clinical Director, Clinical &amp; Patient Engagement Office<br>Office of Quality &amp; Clinical Governance <br><b>Tan Tock Seng Hospital</b><br><br></td>
+<td style="width: 150px;"><img src="/images/Committee/Thomas_Chee_Photo_Cropped_2.jpg"></td>
+<td><strong>A/Prof Thomas Chee </strong><br>Clinical Director, Clinical &amp; Patient Engagement Office<br>Office of Quality &amp; Clinical Governance <br><b>Tan Tock Seng Hospital</b><br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
