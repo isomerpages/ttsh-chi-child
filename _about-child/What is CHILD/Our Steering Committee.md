@@ -12,7 +12,7 @@ variant: markdown
 <table cellpadding="10" border="0" style="width: 100%;">
 <tbody>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Committee/prof%20wong-01.png"></td>
+<td style="width: 150px;"><img src="/images/Committee/WHT_photo_cropped.jpg"></td>
 <td><strong>A/Prof Wong Hon Tym</strong><br>Chairperson<br><b>Knowledge Management Steering Committee</b><br>Clinical Director<br><b>Centre for Healthcare Innovation</b><br><br>
 </td></tr>
 </tbody>
