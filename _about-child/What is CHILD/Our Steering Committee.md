@@ -55,7 +55,7 @@ variant: markdown
 <td><br><strong>Caroline Pang</strong><br>University Librarian, Office of Information <br>Knowledge and Library Services<br><b>Nanyang Technological University</b><br><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
+<td style="width: 150px;"><img src="/images/Committee/James_Ang_Photo_Cropped.jpg"></td>
 <td><br><strong>Br James Ang Wei Kiat</strong><br>Assistant Director, Nursing Service<br><b>Tan Tock Seng Hospital</b><br><br></td>
 </tr>
 <tr>
