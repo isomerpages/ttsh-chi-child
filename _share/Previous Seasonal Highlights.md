@@ -112,6 +112,13 @@ CHILD is thrilled to highlight three outstanding projects that demonstrate ongoi
 *\[Productivity Improvement Gold Awardee at the Community Care Excellence Awards (CCEA) 2022 by the Agency for Integrated Care (AIC)\]*
 
 <em>The stories above represent &nbsp;a snapshot of the incredible strides being made in integrating environmental sustainability into healthcare. Explore similar inspiring projects on the CHILD Collection now! </em>
+		
+		
+<p></p>
+</div>
+	</div>
+	</div>
+	</div>
 
 ![](/images/RPA.png)
 <style>
@@ -681,4 +688,4 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 </div>
 	</div>
 		</div>
-		</div></div></div></div></div>
+		</div>
