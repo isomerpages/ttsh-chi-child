@@ -60,11 +60,11 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Committee/prof%20jonathon%20gray-01.png"></td>
-<td><br><strong>Prof Jonathon Gray</strong><br>Professor of Innovation &amp; Leadership <br><b>Swansea University</b><br><br></td>
+<td><br><strong>Prof Jonathon Gray</strong><br>Professor, Innovation &amp; Leadership <br><b>Swansea University</b><br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img src="/images/Committee/prof%20cherdchai-01.png"></td>
-<td><br><strong>A/Prof Cherdchai Nopmaneejumruslers</strong><br>Deputy Dean of Service Innovation &amp; Corporate Value<br><b>Siriraj Hospital</b><br><br></td>
+<td><br><strong>A/Prof Cherdchai Nopmaneejumruslers</strong><br>Deputy Dean, Service Innovation &amp; Corporate Value<br><b>Siriraj Hospital</b><br><br></td>
 </tr>
 
 </tbody>
