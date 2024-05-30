@@ -43,8 +43,8 @@ variant: markdown
 <td><br><strong>A/Prof Thomas Chee </strong><br>Senior Advisor, Clinical &amp; Patient Engagement Office<br>Office of Quality &amp; Clinical Governance <br><b>Tan Tock Seng Hospital</b><br><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img alt="andrew1" src="/images/Committee/iconhuman.png"></td>
-<td><br><strong>Heidi Rafman</strong><br>Chief Quality and Productivity Division<br><b>Agency for Integrated Care</b><br><br></td>
+<td style="width: 150px;"><img src="/images/Committee/Heidi_Photo_Cropped.jpg"></td>
+<td><br><strong>Heidi Rafman</strong><br>Chief, Quality &amp; Healthy Aging <br><b>Agency for Integrated Care</b><br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img src="/images/Committee/Dennis_Neo_Photo_Cropped.jpg"></td>
@@ -52,7 +52,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 150px;"><img src="/images/Committee/Caroline_Pang_Photo__Cropped_.jpg"></td>
-<td><br><strong>Caroline Pang</strong><br>University Librarian, Office of Information <br>Knowledge and Library Services<br><b>Nanyang Technological University</b><br><br></td>
+<td><br><strong>Caroline Pang</strong><br>University Librarian, Office of Information <br>Knowledge &amp; Library Services<br><b>Nanyang Technological University</b><br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img src="/images/Committee/James_Ang_Photo_Cropped.jpg"></td>
@@ -60,11 +60,11 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Committee/prof%20jonathon%20gray-01.png"></td>
-<td><br><strong>Prof Jonathon Gray</strong><br>Director, Improvement &amp; Innovation<br><b>Cardiff &amp; Vale University Health Board</b><br><br></td>
+<td><br><strong>Prof Jonathon Gray</strong><br>Professor of Innovation &amp; Leadership <br><b>Swansea University</b><br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img src="/images/Committee/prof%20cherdchai-01.png"></td>
-<td><br><strong>A/Prof Cherdchai Nopmaneejumruslers</strong><br>Vice Director<br><b>Siriraj Hospital</b><br><br></td>
+<td><br><strong>A/Prof Cherdchai Nopmaneejumruslers</strong><br>Deputy Dean of Service Innovation &amp; Corporate Value<br><b>Siriraj Hospital</b><br><br></td>
 </tr>
 
 </tbody>
