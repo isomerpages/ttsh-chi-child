@@ -42,7 +42,7 @@ label {
   padding: 8px 22px;
   margin: 0 0 5px 0;
   cursor: pointer;
-  background: #F0F4F6;
+  background: #484848;
   border-radius: 3px;
   width: 100%;
   color: #484848;
