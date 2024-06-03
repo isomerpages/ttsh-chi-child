@@ -2,6 +2,7 @@ collections:
   about-child:
     output: true
     order:
+      - What is CHILD/Our Ambassadors.md
       - What is CHILD/.keep
       - What is CHILD/What is CHILD.md
       - What is CHILD/Our Steering Committee.md
