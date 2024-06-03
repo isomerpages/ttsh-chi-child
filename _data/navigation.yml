@@ -1,0 +1,14 @@
+logo: /images/child logo_with brushstroke.png
+links:
+  - title: SHARE
+    collection: share
+  - title: LEARN
+    resource_room: true
+  - title: DO
+    collection: do
+  - title: About CHILD
+    collection: about-child
+  - title: Contact Us
+    url: /contact-us/
+  - title: Chat
+    url: https://child-projects.streamlit.app
