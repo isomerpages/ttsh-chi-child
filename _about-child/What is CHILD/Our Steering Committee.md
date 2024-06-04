@@ -55,8 +55,8 @@ variant: markdown
 <td><br><strong>Caroline Pang</strong><br>University Librarian, Office of Information <br>Knowledge &amp; Library Services<br><b>Nanyang Technological University</b><br><br></td>
 </tr>
 <tr>
-<td style="width: 150px;"><img src="/images/Committee/James_Ang_Photo_Cropped.jpg"></td>
-<td><br><strong>Br James Ang Wei Kiat</strong><br>Assistant Director, Nursing Service<br><b>Tan Tock Seng Hospital</b><br><br></td>
+<td style="width: 150px;"><br><img src="/images/Committee/James_Ang_Photo_Cropped.jpg"></td>
+<td><br><strong>Br James Ang Wei Kiat</strong><br>Assistant Director, Nursing Service<br><b>Tan Tock Seng Hospital</b><br>Associate Director<br><b>Centre for Asian Nursing Studies</b><br><br></td>
 </tr>
 <tr>
 <td style="width: 150px;"><img alt="andrew1" src="/images/Committee/prof%20jonathon%20gray-01.png"></td>
