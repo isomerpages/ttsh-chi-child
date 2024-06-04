@@ -10,9 +10,7 @@ third_nav_title: What is CHILD
 are sourced from across Singapore from all 3 public healthcare clusters,
 community institutions and other healthcare services, with the support
 from over 20 Knowledge Ambassadors.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHILD_Knowledge_Abassador_Map.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHILD_Knowledge_Abassador_Map_4_June_2024.png">
 </div>
 <p></p>
