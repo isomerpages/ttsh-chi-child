@@ -216,7 +216,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title2"><label for="title1">	<b>Robotic Process Automation (RPA)</b> <br>by <b> Digital &amp; Smart Health Office (DSHO) &amp; Tan Tock Seng Hospital </b>   </label>
+	<input type="checkbox" id="title2"><label for="title2">	<b>Robotic Process Automation (RPA)</b> <br>by <b> Digital &amp; Smart Health Office (DSHO) &amp; Tan Tock Seng Hospital </b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 CHILD is proud to showcase three case studies as our "Pick of the Month", each a testament to the transformative power of RPA in distinct healthcare settings.
@@ -331,7 +331,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title3"><label for="title2">	<b>Flipping Healthcare Through a Population Health Stack</b> <br>by <b>Tan Tock Seng Hospital &amp; Central Health</b>   </label>
+	<input type="checkbox" id="title3"><label for="title3">	<b>Flipping Healthcare Through a Population Health Stack</b> <br>by <b>Tan Tock Seng Hospital &amp; Central Health</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 With a keen focus on&nbsp;Population Health Management, explore innovative strategies poised to redefine patient outcomes, operational efficiency and overall healthcare delivery.
@@ -443,7 +443,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title4"><label for="title3">	<b>Designing an Elder-Friendly and Dementia-Inclusive Environment</b> <br>by <b>Nanyang Polytechnic &amp; Dementia Singapore</b>   </label>
+	<input type="checkbox" id="title4"><label for="title4">	<b>Designing an Elder-Friendly and Dementia-Inclusive Environment</b> <br>by <b>Nanyang Polytechnic &amp; Dementia Singapore</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 Dive into the world of inclusive design with <a rel="noopene" target="blank" href="https://child.chi.sg/files/Sep%202023%20to%20Nov%202023/c%2025_nyp_guidebook_elderly-%20and%20dementia-inclusive%20environment.pdf">this Guidebook: Elderly-Friendly and Dementia-Inclusive Environment</a>, presented by Dementia Singapore (formerly ADA) in collaboration with Nanyang Polytechnic!  
@@ -554,10 +554,12 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title5"><label for="title4">	<b>Virtual Reality competency training and assessment tool for processing of prescriptions and medication orders</b> <br>by <b>Singapore General Hospital &amp; Serious Games Association</b>   </label>
+	<input type="checkbox" id="title5"><label for="title5">	<b>Virtual Reality competency training and assessment tool for processing of prescriptions and medication orders</b> <br>by <b>Singapore General Hospital &amp; Serious Games Association</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 Where can learning meet fun? Pharmacy staff and trainees at the Singapore General Hospital can now undergo a high-fidelity VR Pharmacy Dispensing simulation training programme! Jointly developed and implemented by the Department of Pharmacy of Singapore General Hospital &amp; Serious Games Association, Project VRx&nbsp;allows users to be trained to process the prescriptions and medication orders safely and accurately.
+		
+		
 		
 <br> <a rel="noopene noreferrer" target="_blank" href="https://child.chi.sg/files/449_SGH,%20SGA_SAHC%202021_VR%20competency%20training%20and%20assessment%20tool-combine.pdf">This project</a> was conferred the Merit Award (Poster Presentation) Innovation &amp; Digital Strategies category at this year’s Singapore Allied Health Conference (SAHC).
 <p></p>
@@ -565,7 +567,7 @@ Where can learning meet fun? Pharmacy staff and trainees at the Singapore Genera
 </div>	
 	</div>
 <br><img src="/images/screenshot%202023-06-25%20104125.png"><br>
-	<input type="checkbox" id="title6"><label for="title5"><b>OneNUHS Mobile Application - A Digital Front Door to NUHS Service Transformation</b><br>by <b>National University Health System</b></label>
+	<input type="checkbox" id="title6"><label for="title6"><b>OneNUHS Mobile Application - A Digital Front Door to NUHS Service Transformation</b><br>by <b>National University Health System</b></label>
 	<div class="accordion-content">
 	<div class="para">Recognised as one of the top four most popular healthcare and fitness app in Singapore (source: Similarweb), we present to you&nbsp;the making of the OneNUHS mobile app&nbsp;- a Digital Front Door to a slew of services aim at transforming and improving both patient and provider’s experience.
 
@@ -669,7 +671,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title7"><label for="title6">	<b>Implementing the Next Generation Electronic Medical Record for  
+	<input type="checkbox" id="title7"><label for="title7">	<b>Implementing the Next Generation Electronic Medical Record for  
 National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innovation</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
@@ -682,7 +684,7 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 </div>
 	</div>
 <br><img src="/images/proms%20n%20prems.jpg"><br>
-	<input type="checkbox" id="title8"><label for="title7"><b>Improving Patient Care with the Electronic Patient Reported Outcome Measures (PROMs) and&nbsp;Patient Reported&nbsp;Experience Measures (PREMs) Programme</b><br>by <b>Centre for Healthcare Innovation</b></label>
+	<input type="checkbox" id="title8"><label for="title8"><b>Improving Patient Care with the Electronic Patient Reported Outcome Measures (PROMs) and&nbsp;Patient Reported&nbsp;Experience Measures (PREMs) Programme</b><br>by <b>Centre for Healthcare Innovation</b></label>
 	<div class="accordion-content">
 	<div class="para">As healthcare institutions globally place greater emphasis on delivering patient-centred care, IHiS has partnered with The Clinician in rolling out ZEDOC, a digital health platform that enables healthcare providers across&nbsp;Singapore public healthcare to digitally capture PROMs and PREMs.
 
