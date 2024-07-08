@@ -1,5 +1,5 @@
 collections:
-  chat:
+  chatgpt:
     output: true
     order:
       - Chat with Us!.md
