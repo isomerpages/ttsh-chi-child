@@ -10,5 +10,5 @@ links:
     collection: about-child
   - title: Contact Us
     url: /contact-us/
-  - title: Chat
+  - title: ChatGPT
     url: https://child-projects.streamlit.app
