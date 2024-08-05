@@ -4,15 +4,18 @@ permalink: /share/pickofthemonth/
 description: ""
 variant: markdown
 ---
-#### **Outstanding Quality Improvement Initiatives in Action**
+#### **Artificial Intelligence (AI)**
 
-![](/images/CHILD_posts__5_.png)
+![](/images/CHILD_posts__7_.png)
 
-This month, let’s take a peek inside Singapore’s leading Community Care organisations that have demonstrated exemplary service and commitment in delivery quality care to our residents. With a focus on enhancing patient experience, quality of care and clinical productivity, we are proud to unveil our Top 3 Picks from the <a rel="noopene" target="blank" href="https://www.aic.sg/partners/community-care-excellence-awards/"> Agency for Integrated Care (AIC) Community Care Excellence Awards 2023 </a> list:
+In conjunction with AI Appreciation Day 2024 recently, CHILD is proud to highlight three exemplary projects this month that showcase the transformative power of AI in healthcare.&nbsp;&nbsp;
 
-1. Equipped with offerings not typically associated with day care centres, such as hairdressing, therapeutic horticulture and a movie theatre, <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-hca-ccea2023-22">Oasis@Outram</a> from HCA Hospice is **redefining what it means to live meaningfully** through a patient-centric and family-focused model of progressive care. *\[Clinical Experience Improvement Gold Awardee at the Community Care Excellence Awards (CCEA) 2023 by the Agency for Integrated Care (AIC)\]*
+These projects, drawn from public healthcare clusters across Singapore, not only exemplify the versatility and impact of AI in healthcare but also demonstrate how AI-driven innovation can enhance patient outcomes, streamline workflows, and empower healthcare professionals to focus on delivering exceptional care:
 
-2. Committed to **reducing falls among elderly residents**, <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-esnh-ccea2023-25"> Econ Sunnyville Nursing Home (Yio Chu Kang)</a> implemented staff training, falls care bundle and work processes review in 2022, drastically reducing fall rates by 62% and ensuring quality care is delivered to its residents. *\[Clinical Quality Improvement Gold Awardee at the Community Care Excellence Awards (CCEA) 2023 by the Agency for Integrated Care (AIC)\]*
-3. By consolidating defect reporting channels and developing analytics dashboards, this project by <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-ntuch-ccea2023-29"> NTUC Health</a> transformed from a reactive working method of managing defects in its nursing home operations, to a proactive maintenance workflow, effectively **reducing defects reporting downtime** and **enabling time savings**. *\[Productivity Improvement Gold Awardee at the Community Care Excellence Awards (CCEA) 2023 by the Agency for Integrated Care (AIC)\]*
+1. Through the use of explainable AI models, this inter-disciplinary team from <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-wh-ttsh-aitis-ntu-shbc2023-584">Woodlands Health (WH), Tan Tock Seng Hospital (TTSH), AITI Solutions and Nanyang Technological University (NTU)</a> developed an application for cost-effective and efficient **analysis of wound images** from an Asian cohort to support clinical decisions with 83% accuracy and 60% explainability. *\[Silver Awardee of Best Poster Award (Clinical Research) at Singapore Health &amp; Biomedical Congress 2023\]*
+
+2. Committed to **reducing redundant CT studies** which incur unnecessary cost, manpower, and radiation to the patient, <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-nuh-nhip2024-400">National University Hospital</a> developed a code-based solution using the Endeavor AI (EAI) platform, effectively translating to reduction in effort and time by 90%. *\[Winner of National Healthcare Innovation &amp; Productivity (NHIP) 2024 – Best Practice (Automation, IT and Robotics category)\]*&nbsp;
+
+3.  By developing an efficient AI-based triage framework, this project by <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-shrc-shr-shmc2023-896">Health Services Research Centre and SingHealth Research</a> enabled health workers in low resource settings to **triage patients more effectively for head and neck cancers** with more than 80% accuracy. *\[Merit Prize Awardee (Operations category) at Singapore Healthcare Management (SHM) Congress 2023\]*
 
 <em> The stories above offer a glimpse into the relentless progress and steadfast dedication to exceptional community care. Discover more inspiring projects like these in the CHILD Collection today! </em>
