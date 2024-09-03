@@ -26,8 +26,8 @@ and 5 Finalists.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Project to Reduce the Impact of Medication wastage on Environment in Community
-Care <strong>(PRIME)</strong> Matching Donors</summary>
+<summary>PRIME MedMatch by Tan Tock Seng Hospital (TTSH), National Uniersity Hospital
+(NUH) and KKH</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
