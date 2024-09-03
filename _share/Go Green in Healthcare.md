@@ -4,3 +4,4 @@ permalink: /go-green-in-healthcare/
 variant: tiptap
 description: ""
 ---
+<p></p>
