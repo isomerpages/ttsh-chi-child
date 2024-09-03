@@ -2,9 +2,9 @@ collections:
   share:
     output: true
     order:
-      - Go Green in Healthcare 2.md
       - Submit Your Project.md
       - Hacks for the Everyday Innovator & Researcher.md
       - Pick of the Month.md
       - Previous Seasonal Highlights.md
       - Go Green in Healthcare.md
+      - Go Green in Healthcare 2.md
