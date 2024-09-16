@@ -113,8 +113,8 @@ th, td {
 	<div class="para">
 		
 		
-1. With unused medications as a major source of wastage in the healthcare systems across Singapore, <a rel="noopene" target="blank" href="https://for.sg/chi-sg-knowledge-hub-ntfgh-nhip2022-270"> PRIME_MedMatch: </a> Project to Reduce the Impact of Medication wastage on Environment in Community Care (PRIME) - Matching Donors with Recipients to Reduce Medication wastage (MedMatch), formed by a multidisciplinary tripartite team from Tan Tock Seng Hospital (TTSH), National University Hospital (NUH) &amp; KK Women's and Children's Hospital (KKH), has piloted the matchmaking of donated unused medications with suitable patients who are willing to use them. Through a centralised collection &amp; redistribution system and integration into the existing workflows, the project pilot achieved 5 successful matches 
-[Winner of the 2022 National HIP Best Practice Medal Awardee – Automation, IT &amp; Robotics Innovation]
+1. By piloting the matchmaking of donated unused medications with suitable patients who are willing to use them, <b>PRIME_MedMatch:  Project to Reduce the Impact of Medication wastage on Environment in Community Care (PRIME) - Matching Donors with Recipients to Reduce Medication wastage (MedMatch)</b> aims to reduce carbon footprint from pharmaceuticals, promote health equity and access to healthcare, as well as reduce healthcare costs for those in need. Led by a multidisciplinary tripartite team from <a rel="noopene" target="blank" href="https://for.sg/chi-sg-knowledge-hub-ntfgh-nhip2022-270"> Tan Tock Seng Hospital (TTSH), National University Hospital (NUH) &amp; KK Women's and Children's Hospital (KKH)</a>, this project had achieved 5 successful matches and over $3000 in cost savings from donated medications during their pilot study.
+[Winner of CHI x SIT Healthcare Sustainability Innovation Challenge 2024]
 <p></p> 
 		
 2. By reinventing food waste, repurposing plastics and reducing single-use disposables, <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-cgh-shmc2023-877">CGH Food Services</a> showcases how the healthcare sector can contribute to environmental sustainability while continuing to deliver high-quality nutrition for patients.
@@ -133,6 +133,3 @@ th, td {
 	</div>
 	</div>
 	</div>
-
-
-
