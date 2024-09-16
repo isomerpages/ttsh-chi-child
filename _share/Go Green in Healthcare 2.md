@@ -120,8 +120,7 @@ th, td {
 2. With the aim of achieving zero production waste of cytotoxic drugs, the team from <a rel="noopene" target="blank" href="https://for.sg/chi-sg-knowledge-hub-ntfgh-nhip2022-270"> National Cancer Centre Singapore (NCCS) &amp; OVEC Global</a> presented the <b> Algorithm-Driven Optimization for Sustainable Cytotoxic Drug Compounding in Healthcare</b>, an AI driven SMART calculator to perfect the selection of drugs for robotic compounding. Coupled with a dashboard with interactive real-time data visualization, the 9-month pilot project recorded over 2,000mg of drug wastage amounting more than $2,000, with the potential of achieving cost savings of at least $5.24 million per year to NCCS. [Winner of CHI x SIT Healthcare Sustainability Innovation Challenge 2024]
 <p></p> 
 		
-3. Through the process of re-creating sustainable last-mile solutions via resource optimisation, this project by <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-thkmc-ccea2022-20">Thye Hua Kwan Moral Charities Ltd: THK Elderly &amp; Home Care Services</a> not only achieved higher productivity, but also reduced mileage and carbon emissions.
-[Productivity Improvement Gold Awardee at the Community Care Excellence Awards (CCEA) 2022 by the Agency for Integrated Care (AIC)]
+3. 
 <p></p> 		
 		
 <p></p>
