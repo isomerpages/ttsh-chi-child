@@ -341,7 +341,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title1"><label for="title1">	<b>Finalists</b> of CHI x SIT Innovation Challenge 2024 </label>
+	<input type="checkbox" id="title3"><label for="title3">	<b>Finalists</b> of CHI x SIT Innovation Challenge 2024 </label>
 	<div class="accordion-content">
 	<div class="para">
 		
