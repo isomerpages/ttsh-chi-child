@@ -243,12 +243,10 @@ th, td {
 
 
 
-### **2\. CHI x SIT Innovation Challenge 2024**
+### **2\. CHI INNOVATE 2024: Showcase to Guest-of-Honour (GOH)**
 
 ![](/images/chi_x_sit_innovation_challenge.jpg)
-With the aim of tackling pressing sustainability challenges within healthcare industry, the Centre for Healthcare Innovation (CHI) and Singapore Institute of Technology (SIT) jointly ran the inaugural Healthcare Sustainability Innovation Challenge 2024 to select solutions that are immediately actionable, designed to be readily test-bedded, implemented and adopted by Singapore's Public Healthcare Institutions.
 
-Supported by National Youth Council (NYC) &amp; Merck Sharp &amp; Dohme (MSD), CHI x SIT Healthcare Sustainability Innovation Challenge 2024 saw a total of 9 Semi-Finalists, 5 Finalists &amp; 3 eventual winners.
 
 _Read their Pitch Decks below!_
 
