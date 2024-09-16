@@ -8,11 +8,12 @@ description: ""
 
 With growing interest and commitment to 'greening' healthcare, we have consolidated an expanding collection of projects &amp; events that captures some of the incredible strides being made in integrating environmental sustainability into healthcare. Take a read at the stories below, and gain some inspiration from the Green Champions in Healthcare!
 
-#### 1\. CHI x SIT Innovation Challenge 2024
-![](/images/chi_x_sit_innovation_challenge.jpg)
-With the aim of tackling pressing sustainability challenges within healthcare industry, the Centre for Healthcare Innovation (CHI) and Singapore Institute of Technology (SIT) jointly ran Innovation Challenge 2024, to select solutions that are immediately actionable, designed to be readily test-bedded, implemented and adopted by Singapore's Public Healthcare Institutions.
+#### **1\. CHI x SIT Innovation Challenge 2024**
 
-Supported by National Youth Council (NYC) &amp; Merck Sharp &amp; Dohme (MSD), CHI x SIT Innovation Challenge 2024 gave rise to a total of 9 Semi-Finalists and 5 Finalists.
+![](/images/chi_x_sit_innovation_challenge.jpg)
+With the aim of tackling pressing sustainability challenges within healthcare industry, the Centre for Healthcare Innovation (CHI) and Singapore Institute of Technology (SIT) jointly ran Innovation Challenge 2024 to select solutions that are immediately actionable, designed to be readily test-bedded, implemented and adopted by Singapore's Public Healthcare Institutions.
+
+Supported by National Youth Council (NYC) &amp; Merck Sharp &amp; Dohme (MSD), CHI x SIT Innovation Challenge 2024 saw a total of 9 Semi-Finalists and 5 Finalists.
 
 _Read their Pitch Decks below!_
 
@@ -107,29 +108,31 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title1"><label for="title1">	Project to Reduce the Impact of Medication wastage on Environment in Community Care <b> (PRIME) MedMatch</b> <br> by <b> Tan Tock Seng Hospital (TTSH), National University Hospital (NUH) &amp; KK Women's and Children's Hospital </b>    </label>
+	<input type="checkbox" id="title1"><label for="title1">	<b>Finalists</b> of CHI x SIT Innovation Challenge 2024 </label>
 	<div class="accordion-content">
 	<div class="para">
 		
-This month, let’s take a peek inside Singapore’s leading Community Care organisations that have demonstrated exemplary service and commitment in delivery quality care to our residents. With a focus on enhancing patient experience, quality of care and clinical productivity, we are proud to unveil our Top 3 Picks from the <a rel="noopene" target="blank" href="https://www.aic.sg/partners/community-care-excellence-awards/"> Agency for Integrated Care (AIC) Community Care Excellence Awards 2023 </a> list:
-<p></p> 
-
-1. Equipped with offerings not typically associated with day care centres, such as hairdressing, therapeutic horticulture and a movie theatre, <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-hca-ccea2023-22">Oasis@Outram</a> from HCA Hospice is redefining what it means to live meaningfully through a patient-centric and family-focused model of progressive care. 
-[Clinical Experience Improvement Gold Awardee at the Community Care Excellence Awards (CCEA) 2023 by the Agency for Integrated Care (AIC)]
+		
+1. With unused medications as a major source of wastage in the healthcare systems across Singapore, <a rel="noopene" target="blank" href="https://for.sg/chi-sg-knowledge-hub-ntfgh-nhip2022-270"> PRIME_MedMatch: </a> Project to Reduce the Impact of Medication wastage on Environment in Community Care (PRIME) - Matching Donors with Recipients to Reduce Medication wastage (MedMatch), formed by a multidisciplinary tripartite team from Tan Tock Seng Hospital (TTSH), National University Hospital (NUH) &amp; KK Women's and Children's Hospital (KKH), has piloted the matchmaking of donated unused medications with suitable patients who are willing to use them. Through a centralised collection &amp; redistribution system and integration into the existing workflows, the project pilot achieved 5 successful matches 
+[Winner of the 2022 National HIP Best Practice Medal Awardee – Automation, IT &amp; Robotics Innovation]
 <p></p> 
 		
-2. Committed to reducing falls among elderly residents, <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-esnh-ccea2023-25"> Econ Sunnyville Nursing Home (Yio Chu Kang)</a> implemented staff training, falls care bundle and work processes review in 2022, drastically reducing fall rates by 62% and ensuring quality care is delivered to its residents. 
-[Clinical Quality Improvement Gold Awardee at the Community Care Excellence Awards (CCEA) 2023 by the Agency for Integrated Care (AIC)]
+2. By reinventing food waste, repurposing plastics and reducing single-use disposables, <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-cgh-shmc2023-877">CGH Food Services</a> showcases how the healthcare sector can contribute to environmental sustainability while continuing to deliver high-quality nutrition for patients.
+[1st Prize Awardee (Environmental Sustainability category) of the Singapore Healthcare Management (SHM) Congress 2023]
 <p></p> 
 		
-3. By consolidating defect reporting channels and developing analytics dashboards, this project by <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-ntuch-ccea2023-29"> NTUC Health</a> transformed from a reactive working method of managing defects in its nursing home operations, to a proactive maintenance workflow, effectively reducing defects reporting downtime and enabling time savings. 
-[Productivity Improvement Gold Awardee at the Community Care Excellence Awards (CCEA) 2023 by the Agency for Integrated Care (AIC)]
+3. Through the process of re-creating sustainable last-mile solutions via resource optimisation, this project by <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-thkmc-ccea2022-20">Thye Hua Kwan Moral Charities Ltd: THK Elderly &amp; Home Care Services</a> not only achieved higher productivity, but also reduced mileage and carbon emissions.
+[Productivity Improvement Gold Awardee at the Community Care Excellence Awards (CCEA) 2022 by the Agency for Integrated Care (AIC)]
 <p></p> 
 		
-<em> The stories above offer a glimpse into the relentless progress and steadfast dedication to exceptional community care. Discover more inspiring projects like these in the CHILD Collection today! </em>		
+<em>The stories above represent &nbsp;a snapshot of the incredible strides being made in integrating environmental sustainability into healthcare. Explore similar inspiring projects on the CHILD Collection now! </em>
+		
 		
 <p></p>
 </div>
 	</div>
 	</div>
 	</div>
+
+
+
