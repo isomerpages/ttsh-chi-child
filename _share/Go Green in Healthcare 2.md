@@ -122,10 +122,7 @@ th, td {
 		
 3. Through the process of re-creating sustainable last-mile solutions via resource optimisation, this project by <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-thkmc-ccea2022-20">Thye Hua Kwan Moral Charities Ltd: THK Elderly &amp; Home Care Services</a> not only achieved higher productivity, but also reduced mileage and carbon emissions.
 [Productivity Improvement Gold Awardee at the Community Care Excellence Awards (CCEA) 2022 by the Agency for Integrated Care (AIC)]
-<p></p> 
-		
-<em>The stories above represent &nbsp;a snapshot of the incredible strides being made in integrating environmental sustainability into healthcare. Explore similar inspiring projects on the CHILD Collection now! </em>
-		
+<p></p> 		
 		
 <p></p>
 </div>
