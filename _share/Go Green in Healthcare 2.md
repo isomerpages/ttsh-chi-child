@@ -236,7 +236,7 @@ th, td {
 3. Currently, more than 60,000 repackaged medication boxes are dispensed each month at Tan Tock Seng Hospital (TTSH)'s Pharmacy, contributing to more than 1,000kg of landfill waste annually. By developing <b>'Eco-Medbox'</b>, a standardized recyclable medication packaging made of recycled materials and in-build with the necessary label and film window for patients, this project by the Pharmacy team from <a rel="noopene" target="blank" href="https://for.sg/chi-sg-knowledge-hub-ntfgh-nhip2022-270">Tan Tock Seng Hospital (TTSH)</a> aims to foster a circular economy and green citizenry, coupled with potential annual cost savings of up to $100,000 from increased productive and decreased production cost. 
 <p></p> 				
 		
-		4. By implementing RFID tracking system on clinical consumables, the project <b>'EcoEye'</b> formed by a multidisciplnary team from <a rel="noopene" target="blank" href="https://for.sg/chi-sg-knowledge-hub-ntfgh-nhip2022-270">Tan Tock Seng Hospital (TTSH), Singapore Institute of Technology (SIT), Zevero &amp; Cadi Scientific</a> aims to reduce expired clinical consumable waste such as vacutainer, which could potentially amount to annual cost savings of over $30,000 for vacutainers alone. 
+4. By implementing RFID tracking system on clinical consumables, the project <b>'EcoEye'</b> formed by a multidisciplnary team from <a rel="noopene" target="blank" href="https://for.sg/chi-sg-knowledge-hub-ntfgh-nhip2022-270">Tan Tock Seng Hospital (TTSH), Singapore Institute of Technology (SIT), Zevero &amp; Cadi Scientific</a> aims to reduce expired clinical consumable waste such as vacutainer, which could potentially amount to annual cost savings of over $30,000 for vacutainers alone. 
 <p></p> 		
 			
 </div></div></div></div>
