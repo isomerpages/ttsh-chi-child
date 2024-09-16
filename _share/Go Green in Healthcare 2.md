@@ -117,7 +117,10 @@ th, td {
 [Winner of CHI x SIT Healthcare Sustainability Innovation Challenge 2024]
 <p></p> 
 		
-2. By reinventing food waste, repurposing plastics and reducing single-use disposables, <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-cgh-shmc2023-877">CGH Food Services</a> showcases how the healthcare sector can contribute to environmental sustainability while continuing to deliver high-quality nutrition for patients.
+2. With the aim of achieving zero production waste of cytotoxic drugs, the team from National Cancer Centre Singapore (NCCS) &amp; OVEC Global presented the <b> Algorithm-Driven Optimization for Sustainable Cytotoxic Drug Compounding in Healthcare </b> 
+		
+		
+		By reinventing food waste, repurposing plastics and reducing single-use disposables, <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-cgh-shmc2023-877">CGH Food Services</a> showcases how the healthcare sector can contribute to environmental sustainability while continuing to deliver high-quality nutrition for patients.
 [1st Prize Awardee (Environmental Sustainability category) of the Singapore Healthcare Management (SHM) Congress 2023]
 <p></p> 
 		
