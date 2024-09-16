@@ -127,11 +127,6 @@ th, td {
 4. With the goal of enhancing plastic recycling rates in TTSH ICUs through <b>'Healthcare segregation of healthcare waste in ICU'</b>, the team from <a rel="noopene" target="blank" href="https://for.sg/chi-sg-knowledge-hub-ntfgh-nhip2022-270">Tan Tock Seng Hospital (TTSH)</a> found through a pilot study that staff are engaged and willing to segregate plastics from waste, highlighting the potential for expansion and upscaling of the recycling efforts by increasing the ease of waste segregation, involving relevant stakeholders, and engaging community partners. [Audience's Choice Awardee in CHI x SIT Healthcare Sustainability Innovation Challenge 2024]
 <p></p> 		
 		
-5. Through a visual walkthrough to identify opportunities for waste reduction and working with industrial partners to operationalize recycling and waste circularity, the team from multidisciplinary team from <a rel="noopene" target="blank" href="https://for.sg/chi-sg-knowledge-hub-ntfgh-nhip2022-270">Tan Tock Seng Hospital (TTSH), Plaspulp Union, ReThinkGood &amp; Semula Asia</a> 
-		
-<p></p> 				
-<p></p>
-</div>
-	</div>
-	</div>
-	</div>
+5. Through a visual walkthrough to identify opportunities for waste reduction and working with industrial partners to operationalize recycling and waste circularity, <b>'Eye can Recycle'</b> led by a multidisciplinary team from <a rel="noopene" target="blank" href="https://for.sg/chi-sg-knowledge-hub-ntfgh-nhip2022-270">Tan Tock Seng Hospital (TTSH), Plaspulp Union, ReThinkGood &amp; Semula Asia</a> would use over 700kg less single-use consumables and recycle more than 2,000 kg of waste each year, leading to cost savings of at least $2,000 and reduction in carbon footprint of over 2,000kg in CO2e - equivalent to carbon dioxide absorbed by 93 trees annually.
+<p></p> 		
+</div></div></div></div>
