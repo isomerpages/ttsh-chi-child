@@ -117,7 +117,7 @@ th, td {
 [Winner of CHI x SIT Healthcare Sustainability Innovation Challenge 2024]
 <p></p> 
 		
-2. With the aim of achieving zero production waste of cytotoxic drugs, the team from National Cancer Centre Singapore (NCCS) &amp; OVEC Global presented the <b> Algorithm-Driven Optimization for Sustainable Cytotoxic Drug Compounding in Healthcare </b> 
+2. With the aim of achieving zero production waste of cytotoxic drugs, the team from <a rel="noopene" target="blank" href="https://for.sg/chi-sg-knowledge-hub-ntfgh-nhip2022-270"> National Cancer Centre Singapore (NCCS) &amp; OVEC Global</a> presented the <b> Algorithm-Driven Optimization for Sustainable Cytotoxic Drug Compounding in Healthcare </b>, an AI driven SMART calculator to perfect the selection of drugs for robotic compounding. 
 		
 		
 		By reinventing food waste, repurposing plastics and reducing single-use disposables, <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-cgh-shmc2023-877">CGH Food Services</a> showcases how the healthcare sector can contribute to environmental sustainability while continuing to deliver high-quality nutrition for patients.
