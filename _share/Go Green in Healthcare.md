@@ -248,7 +248,7 @@ th, td {
 ![](/images/chi_x_sit_innovation_challenge.jpg)
 
 
-_Read their Pitch Decks below!_
+_Read the Showcase Materials below!_
 
 <style>
 .button {
