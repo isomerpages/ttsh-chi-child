@@ -8,7 +8,7 @@ description: ""
 
 With growing interest and commitment to 'greening' healthcare, we have consolidated an expanding collection of projects &amp; events that captures some of the incredible strides being made in integrating environmental sustainability into healthcare. Take a read at the stories below, and gain some inspiration from the Green Champions in Healthcare!
 
-### **1\. CHI x SIT Innovation Challenge 2024**
+### **1\. CHI x SIT Healthcare Sustainability Innovation Challenge 2024**
 
 ![](/images/chi_x_sit_innovation_challenge.jpg)
 With the aim of tackling pressing sustainability challenges within healthcare industry, the Centre for Healthcare Innovation (CHI) and Singapore Institute of Technology (SIT) jointly ran the inaugural Healthcare Sustainability Innovation Challenge 2024 to select solutions that are immediately actionable, designed to be readily test-bedded, implemented and adopted by Singapore's Public Healthcare Institutions.
