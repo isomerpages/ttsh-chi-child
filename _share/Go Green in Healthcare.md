@@ -349,5 +349,12 @@ th, td {
 	<div class="para">
 		
 		
-1. 
-<p></p> </div></div></div></div>
+1. Through infrastructural adjustments, practicing of '3Rs' - Reduce, Reuse and Recycle in clinical settings, and inculcating a culture of green healthcare, <a href="https://www.dropbox.com/scl/fi/v5pvrr6xoasmoevmcy2eo/T7_ALPS.pdf?rlkey=i3dwbj99kh88nzhtrpu5q4168&amp;st=wg72396y&amp;dl=0">National Healthcare Group (NHG)</a> has showed how sustainability is becoming an integral part of their healthcare operations. 
+<p></p> 
+		
+2. <a href="https://www.dropbox.com/scl/fi/v5pvrr6xoasmoevmcy2eo/T7_ALPS.pdf?rlkey=i3dwbj99kh88nzhtrpu5q4168&amp;st=wg72396y&amp;dl=0">'Sustainable Healthcare: Educating Sustainable Procurement and Eco-Friendly Supply Chain Decisions'</a>
+<p></p> 
+		
+3. <a href="https://www.dropbox.com/scl/fi/v5pvrr6xoasmoevmcy2eo/T7_ALPS.pdf?rlkey=i3dwbj99kh88nzhtrpu5q4168&amp;st=wg72396y&amp;dl=0">'Sustainable Healthcare: Educating Sustainable Procurement and Eco-Friendly Supply Chain Decisions'</a>
+<p></p> 
+</div></div></div></div>
