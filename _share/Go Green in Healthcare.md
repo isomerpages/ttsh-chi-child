@@ -356,6 +356,6 @@ th, td {
 *As defined by the <a href="https://ghgprotocol.org/sites/default/files/standards/ghg-protocol-revised.pdf">Greenhouse Gas Protocol</a>
 <p></p> 
 		
-3. <a href="https://www.dropbox.com/scl/fi/v5pvrr6xoasmoevmcy2eo/T7_ALPS.pdf?rlkey=i3dwbj99kh88nzhtrpu5q4168&amp;st=wg72396y&amp;dl=0">'SingHealth</a>
+3. <a href="https://www.dropbox.com/scl/fi/gbrf819n22c4o6vek1e6h/CHI-Innovate-2024-GOH-Showcase-SingHealth.pdf?rlkey=4lmj773g0j552gcqo5mr1n37g&amp;st=guzw4wl3&amp;dl=0">'SingHealth</a>
 <p></p> 
 </div></div></div></div>
