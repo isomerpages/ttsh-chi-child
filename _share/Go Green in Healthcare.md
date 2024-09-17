@@ -251,7 +251,7 @@ Each year, Centre for Healthcare Innovation (CHI) presents "CHI INNOVATE" - an a
 
 As part of CHI INNOVATE 2024, graced by Guest-of-Honour Minister Grace Fu, Minister for Sustainability and the Environment, and Minister-in-charge of Trade Relations, representatives from public healthcare clusters presented an overview of completed and ongoing sustainability projects undertaken in their respective institutions to our Guest-of-Honour. 
 
-_Read the Showcase Materials below!_
+*Read the Showcase Materials below!*
 
 <style>
 .button {
@@ -353,7 +353,8 @@ th, td {
 <p></p> 
 		
 2. By adopting a Whole-of-System Approach such as enhancing energy efficiency, promoting healthcare circular economy and practicising green and good care, <a href="https://www.dropbox.com/scl/fi/an3v28fluvrl3adnc0ajg/CHI-Innovate-2024-GOH-Showcase-National-University-Health-System-NUHS.pdf?rlkey=pacqg27k65e2in1e8cyxgwa56&amp;st=t1y88q4h&amp;dl=0">National University Health System (NUHS)</a> has pledged a target of 25% reduction in emissions for Scope 1, 2 &amp; 3* by 2030. 
-*As defined by the <a href="https://ghgprotocol.org/sites/default/files/standards/ghg-protocol-revised.pdf">Greenhouse Gas Protocol</a>
+
+	**As defined by the <a href="https://ghgprotocol.org/sites/default/files/standards/ghg-protocol-revised.pdf">Greenhouse Gas Protocol</a>*
 <p></p> 
 		
 3. <a href="https://www.dropbox.com/scl/fi/gbrf819n22c4o6vek1e6h/CHI-Innovate-2024-GOH-Showcase-SingHealth.pdf?rlkey=4lmj773g0j552gcqo5mr1n37g&amp;st=guzw4wl3&amp;dl=0">'SingHealth</a>
