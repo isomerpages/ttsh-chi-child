@@ -247,7 +247,10 @@ th, td {
 
 ![](/images/GOH_showcase_pic_1_min.jpg)
 
-Each year, Centre for Healthcare Innovation (CHI) presents "CHI INNOVATE" - an annual conference supported by the Ministry of Health, which focuses on co-creating an innovative, transformative and productive healthcare workforce of the future. In the 8th instalment, CHI INNOVATE
+Each year, Centre for Healthcare Innovation (CHI) presents "CHI INNOVATE" - an annual conference supported by the Ministry of Health, which focuses on co-creating an innovative, transformative and productive healthcare workforce of the future. In the 8th instalment, CHI INNOVATE 2024 is themed "Sustainability in Healthcare", and aims to explore the relationship between delegates and the environment, while seeking innovative solutions to inspire and galvanise healthcare professionals to extend their healing touch not just to patients but to the planet we call home. 
+
+As part of CHI INNOVATE 2024, graced by Guest-of-Honour Minister Grace Fu, 
+
 _Read the Showcase Materials below!_
 
 <style>
