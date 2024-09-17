@@ -344,11 +344,10 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title3"><label for="title3">	<b>Finalists</b> of CHI x SIT Innovation Challenge 2024 </label>
+	<input type="checkbox" id="title3"><label for="title3">	<b>Showcase Materials</b> presented to <b>Minister Grace Fu</b> at CHI INNOVATE 2024 </label>
 	<div class="accordion-content">
 	<div class="para">
 		
 		
-1. By piloting the matchmaking of donated unused medications with suitable patients who are willing to use them, <a href="https://www.dropbox.com/scl/fi/6g6qtfjkh0mf0ra4ul0wd/T1_PRIME_MedMatch-CHI-x-SIT-Healthcare-Sustainability-Project-Pitch_final.pdf?rlkey=48qhbcinfzw3q8k321wix8wny&amp;st=ztgoze3j&amp;dl=0">'PRIME_MedMatch:  Project to Reduce the Impact of Medication wastage on Environment in Community Care (PRIME) - Matching Donors with Recipients to Reduce Medication wastage (MedMatch)'</a> aims to reduce carbon footprint from pharmaceuticals, promote health equity and access to healthcare, as well as reduce healthcare costs for those in need. Led by a multidisciplinary tripartite team from <b> Tan Tock Seng Hospital (TTSH), National University Hospital (NUH) &amp; KK Women's and Children's Hospital (KKH)</b>, this project had achieved 5 successful matches and over $3000 in cost savings from donated medications during their pilot study.
-[Winner of CHI x SIT Healthcare Sustainability Innovation Challenge 2024]
+1. 
 <p></p> </div></div></div></div>
