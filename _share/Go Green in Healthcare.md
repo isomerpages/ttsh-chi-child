@@ -245,9 +245,9 @@ th, td {
 
 ### **2\. CHI INNOVATE 2024: Showcase to Guest-of-Honour (GOH)**
 
-![](/images/chi_x_sit_innovation_challenge.jpg)
+![](/images/GOH_showcase_pic_1_min.jpg)
 
-
+Each year, Centre for Healthcare Innovation (CHI) presents "CHI INNOVATE" - an annual conference supported by the Ministry of Health, which focuses on co-creating an innovative, transformative and productive healthcare workforce of the future. In the 8th instalment, CHI INNOVATE
 _Read the Showcase Materials below!_
 
 <style>
