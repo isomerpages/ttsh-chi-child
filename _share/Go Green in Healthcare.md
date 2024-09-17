@@ -357,6 +357,6 @@ th, td {
 	**As defined by the <a href="https://ghgprotocol.org/sites/default/files/standards/ghg-protocol-revised.pdf">Greenhouse Gas Protocol</a>*
 <p></p> 
 		
-3. <a href="https://www.dropbox.com/scl/fi/gbrf819n22c4o6vek1e6h/CHI-Innovate-2024-GOH-Showcase-SingHealth.pdf?rlkey=4lmj773g0j552gcqo5mr1n37g&amp;st=guzw4wl3&amp;dl=0">'SingHealth</a>
+3. Committed to Sustainability as a way of life, <a href="https://www.dropbox.com/scl/fi/gbrf819n22c4o6vek1e6h/CHI-Innovate-2024-GOH-Showcase-SingHealth.pdf?rlkey=4lmj773g0j552gcqo5mr1n37g&amp;st=guzw4wl3&amp;dl=0">Singapore Health Services (SingHealth)</a> shared their Environmental Sustainability Decarbonisation Plans moving forward, which includes incorporation of eco-friendly practices &amp; processes into healthcare delivery and supply chain, as well as building a culture of sustainability.  
 <p></p> 
 </div></div></div></div>
