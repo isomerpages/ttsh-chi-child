@@ -244,15 +244,14 @@ th, td {
 
 
 
-### **2\. CHI INNOVATE 2024: Showcase to Guest-of-Honour**
+### **2\. What Public Healthcare Clusters are doing for Sustainability**
 
 ![](/images/GOH_showcase_pic_1_min.jpg)
 
-Each year, Centre for Healthcare Innovation (CHI) presents "CHI INNOVATE" - an annual conference supported by the Ministry of Health, which focuses on co-creating an innovative, transformative and productive healthcare workforce of the future. In the 8th instalment, CHI INNOVATE 2024 is themed "Sustainability in Healthcare", and aims to explore the relationship between delegates and the environment, while seeking innovative solutions to inspire and galvanise healthcare professionals to extend their healing touch not just to patients but to the planet we call home. 
+Curious to know how Public Healthcare Clusters across Singapore are working towards a Sustainable Healthcare? 
 
-As part of CHI INNOVATE 2024, graced by Guest-of-Honour Minister Grace Fu, Minister for Sustainability and the Environment, and Minister-in-charge of Trade Relations, representatives from public healthcare clusters presented an overview of completed and ongoing sustainability projects undertaken in their respective institutions to our Guest-of-Honour. 
+*Read an overview of completed and ongoing sustainability projects undertaken in National Healthcare Group (NHG), National University Health System (NUHS) and Singapore Health Services (SingHealth) below, shared with Minister Grace Fu, Minister for Sustainability and the Environment, during Centre for Healthcare Innovation (CHI)'s annual healthcare innovation conference - CHI INNOVATE 2024!*
 
-*Read the Showcase Materials below!*
 
 <style>
 .button {
@@ -345,7 +344,127 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title3"><label for="title3">	<b>Showcase Materials</b> presented to <b>Minister Grace Fu</b> at CHI INNOVATE 2024 </label>
+	<input type="checkbox" id="title3"><label for="title3">	<b>Overview of Sustainability Projects</b> undertaken in <b>National Healthcare Group (NHG), National University Health System (NUHS) &amp; Singapore Health Services (SingHealth)</b></label>
+	<div class="accordion-content">
+	<div class="para">
+		
+		
+1. Through infrastructural adjustments, practicing of '3Rs' - Reduce, Reuse and Recycle in clinical settings, and inculcating a culture of green healthcare, <a href="https://www.dropbox.com/scl/fi/lee1smy2erdilisxn5y0y/CHI-Innovate-2024-GOH-Showcase-National-Healthcare-Group-NHG.pdf?rlkey=pkuqvb031s8omp0ustx5xhfuj&amp;st=wq2o9u7k&amp;dl=0">National Healthcare Group (NHG)</a> has showed how sustainability is becoming an integral part of their healthcare operations. 
+<p></p> 
+		
+2. By adopting a Whole-of-System Approach such as enhancing energy efficiency, promoting healthcare circular economy and practicising green and good care, <a href="https://www.dropbox.com/scl/fi/an3v28fluvrl3adnc0ajg/CHI-Innovate-2024-GOH-Showcase-National-University-Health-System-NUHS.pdf?rlkey=pacqg27k65e2in1e8cyxgwa56&amp;st=t1y88q4h&amp;dl=0">National University Health System (NUHS)</a> has pledged a target of 25% reduction in emissions for Scope 1, 2 &amp; 3^ by 2030. 
+<p></p>
+
+^As defined by the <a href="https://ghgprotocol.org/sites/default/files/standards/ghg-protocol-revised.pdf">Greenhouse Gas Protocol</a>
+<p></p> 
+		
+3. Committed to sustainability as a way of life, <a href="https://www.dropbox.com/scl/fi/gbrf819n22c4o6vek1e6h/CHI-Innovate-2024-GOH-Showcase-SingHealth.pdf?rlkey=4lmj773g0j552gcqo5mr1n37g&amp;st=guzw4wl3&amp;dl=0">Singapore Health Services (SingHealth)</a> shared their Environmental Sustainability Decarbonisation Plans moving forward, which includes incorporation of eco-friendly practices &amp; processes into healthcare delivery and supply chain, as well as building a culture of sustainability.  
+<p></p> 
+</div></div></div></div>
+
+### **3\. CHI x TTSH x NUS: The Sustainable Hospital Playbook**
+
+![](/images/GOH_showcase_pic_1_min.jpg)
+
+A tripartite collaboration between Centre for Healthcare Innovation (CHI), National University of Singapore (NUS) and Tan Tock Seng Hospital (TTSH), The Sustainable Hospital Playbook details various creative approaches to promote sustainable actions within our healthcare system, along with the impact of each proposed interventions. 
+
+With the aim of inspiring healthcare practitioners to leverage simple design opportunities for more sustainable daily practices, CHI's Kaizen Office and 21 Industrial Design students from NUS collaborated with staff from the Endoscopy Centre, Inpatient Wards, Care &amp; Counselling Departmnet, Community Health Team and Kitchen to create feasible, low-cost solutions from a ground-up perspective. 
+
+*Gain inspiration from their creative journey and insights below!*
+
+
+<style>
+.button {
+  background-color: white;
+  cursor: pointer;
+  padding: 5px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 20px;
+  transition: 0.4s;
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+
+.active,
+.button:hover {
+  background-color: white;
+}
+
+input {
+  display: none;
+}
+
+label {
+  position: relative;
+  display: block;
+  padding: 8px 22px;
+  margin: 0 0 5px 0;
+  cursor: pointer;
+  background: #f0f4f6;
+  border-radius: 3px;
+  width: 100%;
+  color: #484848;
+  transition: height 0.4s;
+  font-size: 1.25em;
+}
+
+label:hover {
+  background: #BD2D37;
+  color: #FFF;
+}
+
+.accordion-content {
+  padding: 10px 0px 30px 30px;
+  margin: 0 0 1px 0;
+  border-radius: 3px;
+	font-size: 1.25em;
+	line-height: 2.2rem;
+}
+
+input + label::before {
+  content: url("/images/chevron-down.svg");
+  font-weight: 400;
+  font-size: 1.25em;
+  line-height: 1.1rem;
+  padding: 0;
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: transform 0.4s ease-in-out;
+}
+
+input:checked + label::before {
+  content: url("/images/chevron-up.svg");
+  transform: translateY(-50%) rotateZ(180deg);
+}
+
+input + label + .accordion-content {
+  display: none;
+}
+
+input:checked + label + .accordion-content {
+  display: block;
+}
+
+th, td {
+  border-style: hidden;
+}
+</style>
+
+<div class="container">
+
+<div>
+	<input type="checkbox" id="title3"><label for="title3">	<b>The Sustainable Hospital Playbook</b> by <b>Centre for Healthcare Innovation (CHI), Tan Tock Seng Hospital (TTSH) and National University of Singapore (NUS)</b></label>
 	<div class="accordion-content">
 	<div class="para">
 		
