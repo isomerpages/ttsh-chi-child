@@ -97,7 +97,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title1"><label for="title1">	<b>Adopting Artificial Intelligence in Healthcare</b> <br>by <b> Woodlands Health, Tan Tock Seng Hospital, AITI Solutions, Nanyang Technological University, National University Hospital, &amp; Health Services Research Centre and SingHealth Research</b>    </label>
+	<input type="checkbox" id="title1"><label for="title1">	<b>Incorporating Artificial Intelligence in Healthcare</b> <br>by <b> Woodlands Health, Tan Tock Seng Hospital, AITI Solutions, Nanyang Technological University, National University Hospital, &amp; Health Services Research Centre and SingHealth Research</b>    </label>
 	<div class="accordion-content">
 	<div class="para">
 
