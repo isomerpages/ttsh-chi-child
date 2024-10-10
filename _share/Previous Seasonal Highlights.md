@@ -101,7 +101,7 @@ th, td {
 	<div class="accordion-content">
 	<div class="para">
 
-In conjunction with AI Appreciation Day 2024 recently, CHILD is proud to highlight three exemplary projects this month that showcase the transformative power of AI in healthcare.&nbsp;&nbsp;
+In conjunction with AI Appreciation Day 2024, CHILD is proud to highlight three exemplary projects this month that showcase the transformative power of AI in healthcare.&nbsp;&nbsp;
 <p></p> 
 These projects, drawn from public healthcare clusters across Singapore, not only exemplify the versatility and impact of AI in healthcare but also demonstrate how AI-driven innovation can enhance patient outcomes, streamline workflows, and empower healthcare professionals to focus on delivering exceptional care:
 <p></p> 
