@@ -367,7 +367,7 @@ th, td {
 
 ### 2\. CHI x TTSH x NUS: The Sustainable Hospital Playbook
 
-![](/images/The_Sustainable_Hospital_Playbook.jpg)
+![](/images/CHI_TTSH_NUS_Sust_Playbook.jpg)
 
 A tripartite collaboration between Centre for Healthcare Innovation (CHI), National University of Singapore (NUS) and Tan Tock Seng Hospital (TTSH), The Sustainable Hospital Playbook details various creative approaches to promote sustainable actions within our healthcare system along with the impact of each proposed interventions, with the aim of inspiring healthcare practitioners to leverage simple design opportunities for more sustainable daily practices.
 
@@ -478,5 +478,4 @@ Over a 4 months collaborative journey from August to November 2024, CHI's Kaizen
 
 ### **Learn from beyond Singapore**
 
-For more healthcare sustainability projects done in the UK, learn from the Centre for Sustainable Healthcare through their <a href="https://networks.sustainablehealthcare.org.uk/resources?search_api_fulltext=Green%20Team%20Competition&amp;f%5B0%5D=type%3ACase%20study%3A%20SusQI">Sustainable Projects Resource Library</a>, or the <a href="https://www.susqi.org/green-team-competition">Green Team Competition</a>. 
-
+For more healthcare sustainability projects done in the UK, learn from the Centre for Sustainable Healthcare through their <a href="https://networks.sustainablehealthcare.org.uk/resources?search_api_fulltext=Green%20Team%20Competition&amp;f%5B0%5D=type%3ACase%20study%3A%20SusQI">Sustainable Projects Resource Library</a>, or the <a href="https://www.susqi.org/green-team-competition">Green Team Competition</a>.
