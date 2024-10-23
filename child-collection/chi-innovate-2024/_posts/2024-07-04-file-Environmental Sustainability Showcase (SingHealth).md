@@ -1,5 +1,5 @@
 ---
-title: Environmental Sustainability Showcase SingHealth
+title: Environmental Sustainability Showcase (SingHealth)
 date: 2024-07-04
 layout: file
 description: ""

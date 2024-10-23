@@ -1,5 +1,5 @@
 ---
-title: Innovation Challenge 2024 Eye Can Recycle
+title: Innovation Challenge 2024 (Eye Can Recycle)
 date: 2024-07-05
 layout: file
 description: ""

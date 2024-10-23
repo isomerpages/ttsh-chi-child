@@ -1,5 +1,5 @@
 ---
-title: Innovation Challenge 2024 SMART Calculator
+title: Innovation Challenge 2024 (SMART Calculator)
 date: 2024-07-05
 layout: file
 description: ""

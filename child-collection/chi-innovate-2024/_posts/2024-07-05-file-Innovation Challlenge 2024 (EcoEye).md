@@ -1,5 +1,5 @@
 ---
-title: Innovation Challlenge 2024 EcoEye
+title: Innovation Challlenge 2024 (EcoEye)
 date: 2024-07-05
 layout: file
 description: ""

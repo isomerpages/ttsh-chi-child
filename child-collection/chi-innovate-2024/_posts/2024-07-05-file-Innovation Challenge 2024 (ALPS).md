@@ -1,5 +1,5 @@
 ---
-title: Innovation Challenge 2024 ALPS
+title: Innovation Challenge 2024 (ALPS)
 date: 2024-07-05
 layout: file
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: Innovation Challenge 2024 Forever Onz
+title: Innovation Challenge 2024 (Forever Onz)
 date: 2024-07-05
 layout: file
 description: ""

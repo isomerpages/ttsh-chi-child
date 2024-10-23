@@ -1,5 +1,5 @@
 ---
-title: Innovation Challenge 2024 ECO Medbox
+title: Innovation Challenge 2024 (ECO Medbox)
 date: 2024-07-05
 layout: file
 description: ""

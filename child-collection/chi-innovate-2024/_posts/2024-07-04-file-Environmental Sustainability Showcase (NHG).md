@@ -1,5 +1,5 @@
 ---
-title: Environmental Sustainability Showcase NHG
+title: Environmental Sustainability Showcase (NHG)
 date: 2024-07-04
 layout: file
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: Environmental Sustainability Showcase NUHS
+title: Environmental Sustainability Showcase (NUHS)
 date: 2024-07-04
 layout: file
 description: ""

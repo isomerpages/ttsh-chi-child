@@ -1,5 +1,5 @@
 ---
-title: Innovation Challenge 2024 Weaving Challenges into Sustainable Uniforms
+title: Innovation Challenge 2024 (Weaving Challenges into Sustainable Uniforms)
 date: 2024-07-05
 layout: file
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: Innovation Challenge 2024 Prime MedMatch
+title: Innovation Challenge 2024 (Prime MedMatch)
 date: 2024-07-05
 layout: file
 description: ""
