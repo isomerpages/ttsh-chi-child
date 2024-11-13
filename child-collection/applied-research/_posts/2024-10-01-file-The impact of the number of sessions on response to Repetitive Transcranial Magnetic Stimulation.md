@@ -1,6 +1,6 @@
 ---
-title: The impact of the number of sessions on response to (rTMS) therapy in
-  Major Depressive Disorder
+title: The impact of the number of sessions on response to Repetitive
+  Transcranial Magnetic Stimulation
 date: 2024-10-01
 layout: file
 description: ""
