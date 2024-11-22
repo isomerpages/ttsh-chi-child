@@ -8,6 +8,8 @@ variant: markdown
 
 ![](/images/CHILD_posts__10_.png)
 
+
+
 In conjunction with World Mental Health Day, CHILD is proud to showcase three case studies as our ‘Pick of the Month’, each a testament to the ongoing commitment and efforts to support and improve mental wellness within the population. &nbsp;
 
 These projects, drawn from public healthcare clusters and community institutions across Singapore, demonstrates the transformative shift in the mental healthcare landscape as we integrate digital tools and mindful practices into treatment and support systems, empowering and facilitating individuals in their journey to improving mental health and wellness:
