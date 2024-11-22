@@ -4,6 +4,36 @@ permalink: /share/previousseasonalhighlights/
 description: ""
 variant: markdown
 ---
+![](/images/CHILD_posts__10_.png)
+
+<div class="container">
+
+<div>
+	<input type="checkbox" id="title1"><label for="title1">	<b>Mental Health and Wellness</b> <br>by <b> Apex Harmony Lodge, SingHealth Duke-NUS Academic Medical Centre, Singapore General Hospital, Institute of Mental Health &amp; Healthy Mind Online Pte Ltd</b>    </label>
+	<div class="accordion-content">
+	<div class="para">
+		
+In conjunction with World Mental Health Day, CHILD is proud to showcase three case studies as our ‘Pick of the Month’, each a testament to the ongoing commitment and efforts to support and improve mental wellness within the population. 
+<p></p> 
+
+These projects, drawn from public healthcare clusters and community institutions across Singapore, demonstrates the transformative shift in the mental healthcare landscape as we integrate digital tools and mindful practices into treatment and support systems, empowering and facilitating individuals in their journey to improving mental health and wellness.
+<p></p> 
+
+1. Through sharing of thoughts, feelings and stories with a community of like-minded individuals in a nature setting, Mindful Immersive Nature Therapy (MINT) is a wellness programme curated by <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-ahl-ccea2023-21">Apex Harmony Lodge</a> for an emerging profile of well-travelled, educated, and tech-saavy individuals with early onset dementia, which helped improve participants’ relationships with self, others and nature. [Silver Awardee of Clinical Experience Improvement Award (Team Award) at AIC’s Community Care Excellence Award (CCEA) 2023]
+<p></p> 
+
+2. To promote self-care and reduce burnout among employees, the <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-shsdnusamc-sgh-shmc2021-585">SingHealth Duke-NUS Academic Medical Centre and Singapore General Hospital (SGH)</a> developed a series of cluster-wide health and wellness programme ‘iTHRIVE’ that introduces art appreciation and mindful practices to over 1,500 participants, who shared their positive experiences in increased calmness, self-care and empathy. [Shortlisted Project (Human Resource Category) at Singapore Healthcare Management (SHM) Conference 2021]
+
+3. By creating a convenient yet comprehensive peer-supported digital platform ‘Healthy Mind Online’ for patients to access integrated psychosocial rehabilitation support, <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-imh-hmo-nhip2020-339">Institute of Mental Health (IMH) and Healthy Mind Online Pte Ltd (HMO)</a> enables people in recovery from chronic mental health issues to take ownership of their recovery and resilience journey in an inexpensive, non-stigmatising and user-friendly manner, enabling participants to improve their resilience, employment opportunities, as well as reduce their feelings of loneliness and helplessness.
+<p></p> 
+		
+<em> The stories above represent just a glimpse of the inspiring advancements in making mental wellness and health care more inclusive and accessible for the population. Discover more inspiring projects like these in the CHILD Collection today! </em>
+<p></p>
+</div>
+	</div>
+	</div>
+	</div>
+		
 ![](/images/CHILD_posts__7_.png)
 
 <style>
@@ -97,7 +127,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title1"><label for="title1">	<b>Artificial Intelligence in Healthcare</b> <br>by <b> Woodlands Health, Tan Tock Seng Hospital, AITI Solutions, Nanyang Technological University, National University Hospital, &amp; Health Services Research Centre and SingHealth Research</b>    </label>
+	<input type="checkbox" id="title2"><label for="title2">	<b>Artificial Intelligence in Healthcare</b> <br>by <b> Woodlands Health, Tan Tock Seng Hospital, AITI Solutions, Nanyang Technological University, National University Hospital, Health Services Research Centre &amp; SingHealth Research</b>    </label>
 	<div class="accordion-content">
 	<div class="para">
 
@@ -216,7 +246,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title2"><label for="title2">	<b>Outstanding Quality Improvement Initiatives in Action</b> <br>by <b> HCA Hospice, Econ Sunnyville Nursing Home &amp; NTUC Health </b>    </label>
+	<input type="checkbox" id="title3"><label for="title3">	<b>Outstanding Quality Improvement Initiatives in Action</b> <br>by <b> HCA Hospice, Econ Sunnyville Nursing Home &amp; NTUC Health </b>    </label>
 	<div class="accordion-content">
 	<div class="para">
 		
@@ -337,7 +367,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title3"><label for="title3">	<b>Sustainability in Healthcare</b> <br>by <b> JurongHealth Campus, Changi General Hospital &amp; Thye Hua Kwan </b>    </label>
+	<input type="checkbox" id="title4"><label for="title4">	<b>Sustainability in Healthcare</b> <br>by <b> JurongHealth Campus, Changi General Hospital &amp; Thye Hua Kwan </b>    </label>
 	<div class="accordion-content">
 	<div class="para">
 CHILD is thrilled to highlight three outstanding projects that demonstrate ongoing efforts towards environmental sustainability in healthcare. These initiatives are focused on reducing environmental footprints and show how sustainability is becoming an integral part of healthcare operations:
@@ -456,7 +486,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title4"><label for="title4">	<b>Robotic Process Automation (RPA)</b> <br>by <b> Digital &amp; Smart Health Office (DSHO) &amp; Tan Tock Seng Hospital </b>   </label>
+	<input type="checkbox" id="title5"><label for="title5">	<b>Robotic Process Automation (RPA)</b> <br>by <b> Digital &amp; Smart Health Office (DSHO) &amp; Tan Tock Seng Hospital </b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 CHILD is proud to showcase three case studies as our "Pick of the Month", each a testament to the transformative power of RPA in distinct healthcare settings.
@@ -571,7 +601,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title5"><label for="title5">	<b>Flipping Healthcare Through a Population Health Stack</b> <br>by <b>Tan Tock Seng Hospital &amp; Central Health</b>   </label>
+	<input type="checkbox" id="title6"><label for="title6">	<b>Flipping Healthcare Through a Population Health Stack</b> <br>by <b>Tan Tock Seng Hospital &amp; Central Health</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 With a keen focus on&nbsp;Population Health Management, explore innovative strategies poised to redefine patient outcomes, operational efficiency and overall healthcare delivery.
@@ -683,7 +713,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title6"><label for="title6">	<b>Designing an Elder-Friendly and Dementia-Inclusive Environment</b> <br>by <b>Nanyang Polytechnic &amp; Dementia Singapore</b>   </label>
+	<input type="checkbox" id="title7"><label for="title7">	<b>Designing an Elder-Friendly and Dementia-Inclusive Environment</b> <br>by <b>Nanyang Polytechnic &amp; Dementia Singapore</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 Dive into the world of inclusive design with <a rel="noopene" target="blank" href="https://child.chi.sg/files/Sep%202023%20to%20Nov%202023/c%2025_nyp_guidebook_elderly-%20and%20dementia-inclusive%20environment.pdf">this Guidebook: Elderly-Friendly and Dementia-Inclusive Environment</a>, presented by Dementia Singapore (formerly ADA) in collaboration with Nanyang Polytechnic!  
@@ -794,7 +824,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title7"><label for="title7">	<b>Virtual Reality competency training and assessment tool for processing of prescriptions and medication orders</b> <br>by <b>Singapore General Hospital &amp; Serious Games Association</b>   </label>
+	<input type="checkbox" id="title8"><label for="title8">	<b>Virtual Reality competency training and assessment tool for processing of prescriptions and medication orders</b> <br>by <b>Singapore General Hospital &amp; Serious Games Association</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 Where can learning meet fun? Pharmacy staff and trainees at the Singapore General Hospital can now undergo a high-fidelity VR Pharmacy Dispensing simulation training programme! Jointly developed and implemented by the Department of Pharmacy of Singapore General Hospital &amp; Serious Games Association, Project VRx&nbsp;allows users to be trained to process the prescriptions and medication orders safely and accurately.
@@ -807,7 +837,7 @@ Where can learning meet fun? Pharmacy staff and trainees at the Singapore Genera
 </div>	
 	</div>
 <br><img src="/images/screenshot%202023-06-25%20104125.png"><br>
-<input type="checkbox" id="title8"><label for="title8"><b>OneNUHS Mobile Application - A Digital Front Door to NUHS Service Transformation</b><br>by <b>National University Health System</b></label>
+<input type="checkbox" id="title9"><label for="title9"><b>OneNUHS Mobile Application - A Digital Front Door to NUHS Service Transformation</b><br>by <b>National University Health System</b></label>
 	<div class="accordion-content">
 	<div class="para">Recognised as one of the top four most popular healthcare and fitness app in Singapore (source: Similarweb), we present to you&nbsp;the making of the OneNUHS mobile app&nbsp;- a Digital Front Door to a slew of services aim at transforming and improving both patient and provider’s experience.
 
@@ -911,7 +941,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title9"><label for="title9">	<b>Implementing the Next Generation Electronic Medical Record for  
+	<input type="checkbox" id="title10"><label for="title10">	<b>Implementing the Next Generation Electronic Medical Record for  
 National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innovation</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
@@ -924,7 +954,7 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 </div>
 	</div>
 <br><img src="/images/proms%20n%20prems.jpg"><br>
-	<input type="checkbox" id="title10"><label for="title10"><b>Improving Patient Care with the Electronic Patient Reported Outcome Measures (PROMs) and&nbsp;Patient Reported&nbsp;Experience Measures (PREMs) Programme</b><br>by <b>Centre for Healthcare Innovation</b></label>
+	<input type="checkbox" id="title11"><label for="title11"><b>Improving Patient Care with the Electronic Patient Reported Outcome Measures (PROMs) and&nbsp;Patient Reported&nbsp;Experience Measures (PREMs) Programme</b><br>by <b>Centre for Healthcare Innovation</b></label>
 	<div class="accordion-content">
 	<div class="para">As healthcare institutions globally place greater emphasis on delivering patient-centred care, IHiS has partnered with The Clinician in rolling out ZEDOC, a digital health platform that enables healthcare providers across&nbsp;Singapore public healthcare to digitally capture PROMs and PREMs.
 
