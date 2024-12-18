@@ -4,8 +4,9 @@ permalink: /share/previousseasonalhighlights/
 description: ""
 variant: markdown
 ---
-![](/images/CHILD_posts__13_.png)<div class="container">
+![](/images/CHILD_posts__13_.png)
 
+<div class="container">
 <div>
 	<input type="checkbox" id="title1"><label for="title1">	<b>Diabetes Care and Management</b> <br>by <b> SingHealth Polyclinics, Montfort Care, Ng Teng Fong General Hospital, Singapore Eye Research Institute, Singapore National Eye Centre, Duke-NUS Medical School, London School of Economics, Diabetes Singapore, National Healthcare Group Polyclinics &amp;   </b>    </label>
 	<div class="accordion-content">
@@ -57,9 +58,7 @@ These projects, drawn from public healthcare clusters and community institutions
 <em> The stories above represent just a glimpse of the inspiring advancements in making mental wellness and health care more inclusive and accessible for the population. Discover more inspiring projects like these in the CHILD Collection today! </em>
 <p></p>
 </div>
-	</div>
-	</div>
-	</div>
+
 		
 ![](/images/CHILD_posts__7_.png)
 
@@ -991,4 +990,4 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 </div>
 	</div>
 		</div>
-		</div>
+		</div></div></div></div>
