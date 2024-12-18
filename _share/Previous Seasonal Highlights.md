@@ -24,7 +24,7 @@ In alignment with World Diabetes Day this November, CHILD is proud to showcase f
 		
 4.  To mitigate diabetic foot complications through early detection, education and timely intervention, the team from <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-nhgp-shbc2023-596">National Healthcare Group Polyclinics, National Healthcare Group HQ &amp; Nanyang Technological University</a> conducted a <b>retrospective review of Foot Surveillance Service</b> for patients with moderate to high-risk diabetic foot in primary care. With <b>identified key factors</b> like age, prior diabetic foot ulcers, and skin fissures associated with foot condition deterioration, this study offers actionable insights to improve patient outcomes and reduce diabetic foot complications. <em>[Gold Awardee of Singapore Primary Care Award (Poster) at Singapore Health &amp; Biomedical Congress (SHBC) 2023\]</em>
 		
-<em> These projects are a testament to the innovation and dedication in tackling diabetes-related challenges. Together, they embody the ongoing commitment to improve health outcomes for individuals with diabetes. Explore other inspiring advancements in the CHILD collection today! </em>
+<em> These projects are a testament to the innovation and dedication in tackling diabetes-related challenges. Together, they embody the ongoing commitment to improve health outcomes for individuals with diabetes. Explore other inspiring advancements in the <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-homepage">CHILD collection </a> today! </em>
 <p></p>
 </div>
 	</div>
