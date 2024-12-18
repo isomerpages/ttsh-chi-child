@@ -7,7 +7,6 @@ variant: markdown
 ![](/images/CHILD_posts__13_.png)
 
 <div class="container">
-
 <div>
 	<input type="checkbox" id="title1"><label for="title1">	<b>Diabetes Care and Management</b> <br>by <b> SingHealth Polyclinics, Montfort Care, Ng Teng Fong General Hospital, Singapore Eye Research Institute, Singapore National Eye Centre, Duke-NUS Medical School, London School of Economics, Diabetes Singapore, National Healthcare Group Polyclinics &amp;   </b>    </label>
 	<div class="accordion-content">
