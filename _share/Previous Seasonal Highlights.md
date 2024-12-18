@@ -58,9 +58,7 @@ These projects, drawn from public healthcare clusters and community institutions
 <em> The stories above represent just a glimpse of the inspiring advancements in making mental wellness and health care more inclusive and accessible for the population. Discover more inspiring projects like these in the CHILD Collection today! </em>
 <p></p>
 </div>
-	</div>
-	</div>
-	</div>
+
 		
 ![](/images/CHILD_posts__7_.png)
 
@@ -992,4 +990,4 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 </div>
 	</div>
 		</div>
-		</div>
+		</div></div></div></div>
