@@ -25,7 +25,12 @@ To improve access to care for children with autism, the <a rel="noopene" target=
 
 In a collaboration between Republic Polytechnic, the <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-rp-seri-ace2024-616"> Republic Polytechnic, the Singapore Eye Research Institute, the Singapore National Eye Centre, and Duke-NUS </a>  a model-based cost-effectiveness analysis was conducted to evaluate AI-driven mobile clinics for diabetic retinopathy screening. Findings demonstrated the cost-effectiveness of these mobile clinics compared to traditional models, with savings of up to S$515 per patient and projected lifetime savings of S$15 billion. By empowering primary care providers to deliver preventive screenings, these mobile clinics help reduce hospital strain and align with Healthier SG’s objectives. 
 
-<p> These projects showcase the power of collaboration and innovation in advancing value-based care. Together, they reflect Singapore’s unwavering dedication to improving healthcare delivery, accessibility, and sustainability. Explore other inspiring advancements in the <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-homepage">CHILD collection </a> today!</p>	
+<em> These projects showcase the power of collaboration and innovation in advancing value-based care. Together, they reflect Singapore’s unwavering dedication to improving healthcare delivery, accessibility, and sustainability. Explore other inspiring advancements in the <a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-homepage">CHILD collection </a> today!</em>	
+		<p></p>
+</div>
+	</div>
+	</div>
+	</div>
 		
 ![](/images/CHILD_posts__13_.png)
 
@@ -1013,4 +1018,4 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 </div>
 	</div>
 		</div>
-		</div></div></div></div></div></div></div></div>
+		</div></div></div></div>
