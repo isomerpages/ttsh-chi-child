@@ -5,7 +5,93 @@ description: ""
 variant: markdown
 ---
 ![](/images/Value_Based_Care.png)
+<style>
+.button {
+  background-color: white;
+  cursor: pointer;
+  padding: 5px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 20px;
+  transition: 0.4s;
+}
 
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+
+.active,
+.button:hover {
+  background-color: white;
+}
+
+input {
+  display: none;
+}
+
+label {
+  position: relative;
+  display: block;
+  padding: 8px 22px;
+  margin: 0 0 5px 0;
+  cursor: pointer;
+  background: #484848;
+  border-radius: 3px;
+  width: 100%;
+  color: #484848;
+  transition: height 0.4s;
+  font-size: 1.25em;
+}
+
+label:hover {
+  background: #BD2D37;
+  color: #FFF;
+}
+
+.accordion-content {
+  padding: 10px 0px 30px 30px;
+  margin: 0 0 1px 0;
+  border-radius: 3px;
+	font-size: 1.25em;
+	line-height: 2.2rem;
+}
+
+input + label::before {
+  content: url("/images/chevron-down.svg");
+  font-weight: 400;
+  font-size: 1.25em;
+  line-height: 1.1rem;
+  padding: 0;
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: transform 0.4s ease-in-out;
+}
+
+input:checked + label::before {
+  content: url("/images/chevron-up.svg");
+  transform: translateY(-50%) rotateZ(180deg);
+}
+
+input + label + .accordion-content {
+  display: none;
+}
+
+input:checked + label + .accordion-content {
+  display: block;
+}
+
+th, td {
+  border-style: hidden;
+}
+</style>
 <div class="container">
 <div>
 	<input type="checkbox" id="title1"><label for="title1">	<b>Innovating for Impact – Value-Based Care in Action</b> <br>by <b> MOH ACE Value-Based Healthcare Conference 2024 </b>    </label>
@@ -123,7 +209,7 @@ th, td {
 </style>
 <div class="container">
 <div>
-	<input type="checkbox" id="title1"><label for="title1">	<b>Diabetes Care and Management</b> <br>by <b> SingHealth Polyclinics, Montfort Care, Ng Teng Fong General Hospital, Singapore Eye Research Institute, Singapore National Eye Centre, Duke-NUS Medical School, London School of Economics, Diabetes Singapore, National Healthcare Group Polyclinics &amp;   </b>    </label>
+	<input type="checkbox" id="title2"><label for="title2">	<b>Diabetes Care and Management</b> <br>by <b> SingHealth Polyclinics, Montfort Care, Ng Teng Fong General Hospital, Singapore Eye Research Institute, Singapore National Eye Centre, Duke-NUS Medical School, London School of Economics, Diabetes Singapore, National Healthcare Group Polyclinics &amp;   </b>    </label>
 	<div class="accordion-content">
 	<div class="para">
 		
@@ -238,7 +324,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title1"><label for="title1">	<b>Mental Health and Wellness</b> <br>by <b> Apex Harmony Lodge, SingHealth Duke-NUS Academic Medical Centre, Singapore General Hospital, Institute of Mental Health &amp; Healthy Mind Online Pte Ltd</b>    </label>
+	<input type="checkbox" id="title3"><label for="title3">	<b>Mental Health and Wellness</b> <br>by <b> Apex Harmony Lodge, SingHealth Duke-NUS Academic Medical Centre, Singapore General Hospital, Institute of Mental Health &amp; Healthy Mind Online Pte Ltd</b>    </label>
 	<div class="accordion-content">
 	<div class="para">
 		
@@ -357,7 +443,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title2"><label for="title2">	<b>Artificial Intelligence in Healthcare</b> <br>by <b> Woodlands Health, Tan Tock Seng Hospital, AITI Solutions, Nanyang Technological University, National University Hospital, Health Services Research Centre &amp; SingHealth Research</b>    </label>
+	<input type="checkbox" id="title4"><label for="title4">	<b>Artificial Intelligence in Healthcare</b> <br>by <b> Woodlands Health, Tan Tock Seng Hospital, AITI Solutions, Nanyang Technological University, National University Hospital, Health Services Research Centre &amp; SingHealth Research</b>    </label>
 	<div class="accordion-content">
 	<div class="para">
 
@@ -476,7 +562,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title3"><label for="title3">	<b>Outstanding Quality Improvement Initiatives in Action</b> <br>by <b> HCA Hospice, Econ Sunnyville Nursing Home &amp; NTUC Health </b>    </label>
+	<input type="checkbox" id="title5"><label for="title5">	<b>Outstanding Quality Improvement Initiatives in Action</b> <br>by <b> HCA Hospice, Econ Sunnyville Nursing Home &amp; NTUC Health </b>    </label>
 	<div class="accordion-content">
 	<div class="para">
 		
@@ -597,7 +683,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title4"><label for="title4">	<b>Sustainability in Healthcare</b> <br>by <b> JurongHealth Campus, Changi General Hospital &amp; Thye Hua Kwan </b>    </label>
+	<input type="checkbox" id="title6"><label for="title6">	<b>Sustainability in Healthcare</b> <br>by <b> JurongHealth Campus, Changi General Hospital &amp; Thye Hua Kwan </b>    </label>
 	<div class="accordion-content">
 	<div class="para">
 CHILD is thrilled to highlight three outstanding projects that demonstrate ongoing efforts towards environmental sustainability in healthcare. These initiatives are focused on reducing environmental footprints and show how sustainability is becoming an integral part of healthcare operations:
