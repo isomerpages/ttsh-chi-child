@@ -1270,7 +1270,7 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 </div>
 	</div>
 <br><img src="/images/proms%20n%20prems.jpg"><br>
-	<input type="checkbox" id="title12"><label for="title12"><b>Improving Patient Care with the Electronic Patient Reported Outcome Measures (PROMs) and&nbsp;Patient Reported&nbsp;Experience Measures (PREMs) Programme</b><br>by <b>Centre for Healthcare Innovation</b></label>
+	<input type="checkbox" id="title13"><label for="title13"><b>Improving Patient Care with the Electronic Patient Reported Outcome Measures (PROMs) and&nbsp;Patient Reported&nbsp;Experience Measures (PREMs) Programme</b><br>by <b>Centre for Healthcare Innovation</b></label>
 	<div class="accordion-content">
 	<div class="para">As healthcare institutions globally place greater emphasis on delivering patient-centred care, IHiS has partnered with The Clinician in rolling out ZEDOC, a digital health platform that enables healthcare providers across&nbsp;Singapore public healthcare to digitally capture PROMs and PREMs.
 
