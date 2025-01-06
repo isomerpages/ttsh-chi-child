@@ -20,7 +20,7 @@ variant: markdown
 
 <b><a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-sgh-nhip2024-918">Singapore General Hospital (SGH)</a> </b> redesigned workflows to improve stroke treatment timelines. The team reduced median door-to-puncture timings for Endovascular Thrombectomy (EVT) from 130 to 82 minutes, enhancing patient outcomes and reducing disability. Plans are underway to share these best practices nationwide.
 
-<b><a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-nhcs-nhip2024-919">National Heart Centre</a> </b> invented a Distal Perfusion Catheter (DPC) organizer to prevent kinking during ECMO procedures. The organizer eliminates kinks, reduces risks of dislodgement and injury, and improves patient safety.
+<b><a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-nhcs-nhip2024-919">National Heart Centre Singapore</a> </b> invented a Distal Perfusion Catheter (DPC) organizer to prevent kinking during ECMO procedures. The organizer eliminates kinks, reduces risks of dislodgement and injury, and improves patient safety.
 
 <b><a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-ttsh-nhip2024-605">Tan Tock Seng Hospital (TTSH)</a> </b> introduced an Emergency Department (ED) Advanced Practice Physiotherapist (APP) care model for musculoskeletal cases. This initiative reduced patient wait times by 75% and improved throughput by 28%, all while maintaining safety and boosting patient satisfaction.
 
