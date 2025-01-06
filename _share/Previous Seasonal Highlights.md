@@ -917,7 +917,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title6"><label for="title6">	<b>Flipping Healthcare Through a Population Health Stack</b> <br>by <b>Tan Tock Seng Hospital &amp; Central Health</b>   </label>
+	<input type="checkbox" id="title8"><label for="title8">	<b>Flipping Healthcare Through a Population Health Stack</b> <br>by <b>Tan Tock Seng Hospital &amp; Central Health</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 With a keen focus on&nbsp;Population Health Management, explore innovative strategies poised to redefine patient outcomes, operational efficiency and overall healthcare delivery.
@@ -1029,7 +1029,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title7"><label for="title7">	<b>Designing an Elder-Friendly and Dementia-Inclusive Environment</b> <br>by <b>Nanyang Polytechnic &amp; Dementia Singapore</b>   </label>
+	<input type="checkbox" id="title9"><label for="title7">	<b>Designing an Elder-Friendly and Dementia-Inclusive Environment</b> <br>by <b>Nanyang Polytechnic &amp; Dementia Singapore</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 Dive into the world of inclusive design with <a rel="noopene" target="blank" href="https://child.chi.sg/files/Sep%202023%20to%20Nov%202023/c%2025_nyp_guidebook_elderly-%20and%20dementia-inclusive%20environment.pdf">this Guidebook: Elderly-Friendly and Dementia-Inclusive Environment</a>, presented by Dementia Singapore (formerly ADA) in collaboration with Nanyang Polytechnic!  
