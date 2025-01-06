@@ -1029,7 +1029,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title9"><label for="title7">	<b>Designing an Elder-Friendly and Dementia-Inclusive Environment</b> <br>by <b>Nanyang Polytechnic &amp; Dementia Singapore</b>   </label>
+	<input type="checkbox" id="title9"><label for="title9">	<b>Designing an Elder-Friendly and Dementia-Inclusive Environment</b> <br>by <b>Nanyang Polytechnic &amp; Dementia Singapore</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 Dive into the world of inclusive design with <a rel="noopene" target="blank" href="https://child.chi.sg/files/Sep%202023%20to%20Nov%202023/c%2025_nyp_guidebook_elderly-%20and%20dementia-inclusive%20environment.pdf">this Guidebook: Elderly-Friendly and Dementia-Inclusive Environment</a>, presented by Dementia Singapore (formerly ADA) in collaboration with Nanyang Polytechnic!  
@@ -1140,7 +1140,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title8"><label for="title8">	<b>Virtual Reality competency training and assessment tool for processing of prescriptions and medication orders</b> <br>by <b>Singapore General Hospital &amp; Serious Games Association</b>   </label>
+	<input type="checkbox" id="title10"><label for="title10">	<b>Virtual Reality competency training and assessment tool for processing of prescriptions and medication orders</b> <br>by <b>Singapore General Hospital &amp; Serious Games Association</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 Where can learning meet fun? Pharmacy staff and trainees at the Singapore General Hospital can now undergo a high-fidelity VR Pharmacy Dispensing simulation training programme! Jointly developed and implemented by the Department of Pharmacy of Singapore General Hospital &amp; Serious Games Association, Project VRx&nbsp;allows users to be trained to process the prescriptions and medication orders safely and accurately.
@@ -1257,7 +1257,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title10"><label for="title10">	<b>Implementing the Next Generation Electronic Medical Record for  
+	<input type="checkbox" id="title11"><label for="title11">	<b>Implementing the Next Generation Electronic Medical Record for  
 National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innovation</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
@@ -1270,7 +1270,7 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 </div>
 	</div>
 <br><img src="/images/proms%20n%20prems.jpg"><br>
-	<input type="checkbox" id="title11"><label for="title11"><b>Improving Patient Care with the Electronic Patient Reported Outcome Measures (PROMs) and&nbsp;Patient Reported&nbsp;Experience Measures (PREMs) Programme</b><br>by <b>Centre for Healthcare Innovation</b></label>
+	<input type="checkbox" id="title12"><label for="title12"><b>Improving Patient Care with the Electronic Patient Reported Outcome Measures (PROMs) and&nbsp;Patient Reported&nbsp;Experience Measures (PREMs) Programme</b><br>by <b>Centre for Healthcare Innovation</b></label>
 	<div class="accordion-content">
 	<div class="para">As healthcare institutions globally place greater emphasis on delivering patient-centred care, IHiS has partnered with The Clinician in rolling out ZEDOC, a digital health platform that enables healthcare providers across&nbsp;Singapore public healthcare to digitally capture PROMs and PREMs.
 
