@@ -802,7 +802,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title5"><label for="title5">	<b>Robotic Process Automation (RPA)</b> <br>by <b> Digital &amp; Smart Health Office (DSHO) &amp; Tan Tock Seng Hospital </b>   </label>
+	<input type="checkbox" id="title7"><label for="title7">	<b>Robotic Process Automation (RPA)</b> <br>by <b> Digital &amp; Smart Health Office (DSHO) &amp; Tan Tock Seng Hospital </b>   </label>
 	<div class="accordion-content">
 	<div class="para">
 CHILD is proud to showcase three case studies as our "Pick of the Month", each a testament to the transformative power of RPA in distinct healthcare settings.
