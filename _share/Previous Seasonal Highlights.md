@@ -5,6 +5,7 @@ description: ""
 variant: markdown
 ---
 ![](/images/Value_Based_Care.png)
+
 <div class="container">
 <div>
 	<input type="checkbox" id="title1"><label for="title1">	<b>Innovating for Impact – Value-Based Care in Action</b> <br>by <b> MOH ACE Value-Based Healthcare Conference 2024 </b>    </label>
@@ -33,7 +34,93 @@ In a collaboration between Republic Polytechnic, the <a rel="noopene" target="bl
 	</div>
 		
 ![](/images/CHILD_posts__13_.png)
+<style>
+.button {
+  background-color: white;
+  cursor: pointer;
+  padding: 5px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 20px;
+  transition: 0.4s;
+}
 
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+
+.active,
+.button:hover {
+  background-color: white;
+}
+
+input {
+  display: none;
+}
+
+label {
+  position: relative;
+  display: block;
+  padding: 8px 22px;
+  margin: 0 0 5px 0;
+  cursor: pointer;
+  background: #484848;
+  border-radius: 3px;
+  width: 100%;
+  color: #484848;
+  transition: height 0.4s;
+  font-size: 1.25em;
+}
+
+label:hover {
+  background: #BD2D37;
+  color: #FFF;
+}
+
+.accordion-content {
+  padding: 10px 0px 30px 30px;
+  margin: 0 0 1px 0;
+  border-radius: 3px;
+	font-size: 1.25em;
+	line-height: 2.2rem;
+}
+
+input + label::before {
+  content: url("/images/chevron-down.svg");
+  font-weight: 400;
+  font-size: 1.25em;
+  line-height: 1.1rem;
+  padding: 0;
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: transform 0.4s ease-in-out;
+}
+
+input:checked + label::before {
+  content: url("/images/chevron-up.svg");
+  transform: translateY(-50%) rotateZ(180deg);
+}
+
+input + label + .accordion-content {
+  display: none;
+}
+
+input:checked + label + .accordion-content {
+  display: block;
+}
+
+th, td {
+  border-style: hidden;
+}
+</style>
 <div class="container">
 <div>
 	<input type="checkbox" id="title1"><label for="title1">	<b>Diabetes Care and Management</b> <br>by <b> SingHealth Polyclinics, Montfort Care, Ng Teng Fong General Hospital, Singapore Eye Research Institute, Singapore National Eye Centre, Duke-NUS Medical School, London School of Economics, Diabetes Singapore, National Healthcare Group Polyclinics &amp;   </b>    </label>
@@ -61,7 +148,93 @@ In alignment with World Diabetes Day this November, CHILD is proud to showcase f
 	</div>
 	
 ![](/images/CHILD_posts__10_.png)
+<style>
+.button {
+  background-color: white;
+  cursor: pointer;
+  padding: 5px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 20px;
+  transition: 0.4s;
+}
 
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+
+.active,
+.button:hover {
+  background-color: white;
+}
+
+input {
+  display: none;
+}
+
+label {
+  position: relative;
+  display: block;
+  padding: 8px 22px;
+  margin: 0 0 5px 0;
+  cursor: pointer;
+  background: #484848;
+  border-radius: 3px;
+  width: 100%;
+  color: #484848;
+  transition: height 0.4s;
+  font-size: 1.25em;
+}
+
+label:hover {
+  background: #BD2D37;
+  color: #FFF;
+}
+
+.accordion-content {
+  padding: 10px 0px 30px 30px;
+  margin: 0 0 1px 0;
+  border-radius: 3px;
+	font-size: 1.25em;
+	line-height: 2.2rem;
+}
+
+input + label::before {
+  content: url("/images/chevron-down.svg");
+  font-weight: 400;
+  font-size: 1.25em;
+  line-height: 1.1rem;
+  padding: 0;
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: transform 0.4s ease-in-out;
+}
+
+input:checked + label::before {
+  content: url("/images/chevron-up.svg");
+  transform: translateY(-50%) rotateZ(180deg);
+}
+
+input + label + .accordion-content {
+  display: none;
+}
+
+input:checked + label + .accordion-content {
+  display: block;
+}
+
+th, td {
+  border-style: hidden;
+}
+</style>
 <div class="container">
 
 <div>
@@ -86,6 +259,9 @@ These projects, drawn from public healthcare clusters and community institutions
 <em> The stories above represent just a glimpse of the inspiring advancements in making mental wellness and health care more inclusive and accessible for the population. Discover more inspiring projects like these in the CHILD Collection today! </em>
 <p></p>
 </div>
+	</div>
+	</div>
+	</div>
 
 		
 ![](/images/CHILD_posts__7_.png)
@@ -1018,4 +1194,4 @@ National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innova
 </div>
 	</div>
 		</div>
-		</div></div></div></div>
+		</div>
