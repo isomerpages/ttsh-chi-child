@@ -1153,7 +1153,7 @@ Where can learning meet fun? Pharmacy staff and trainees at the Singapore Genera
 </div>	
 	</div>
 <br><img src="/images/screenshot%202023-06-25%20104125.png"><br>
-<input type="checkbox" id="title9"><label for="title9"><b>OneNUHS Mobile Application - A Digital Front Door to NUHS Service Transformation</b><br>by <b>National University Health System</b></label>
+<input type="checkbox" id="title11"><label for="title11"><b>OneNUHS Mobile Application - A Digital Front Door to NUHS Service Transformation</b><br>by <b>National University Health System</b></label>
 	<div class="accordion-content">
 	<div class="para">Recognised as one of the top four most popular healthcare and fitness app in Singapore (source: Similarweb), we present to you&nbsp;the making of the OneNUHS mobile app&nbsp;- a Digital Front Door to a slew of services aim at transforming and improving both patient and provider’s experience.
 
@@ -1257,7 +1257,7 @@ th, td {
 <div class="container">
 
 <div>
-	<input type="checkbox" id="title11"><label for="title11">	<b>Implementing the Next Generation Electronic Medical Record for  
+	<input type="checkbox" id="title12"><label for="title12">	<b>Implementing the Next Generation Electronic Medical Record for  
 National Healthcare Group Polyclinics</b> <br>by <b>Centre for Healthcare Innovation</b>   </label>
 	<div class="accordion-content">
 	<div class="para">
