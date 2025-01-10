@@ -16,6 +16,8 @@ variant: markdown
 
 <b><a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-nuh-nhip2024-400">National University Health System</a> </b> developed a code-based solution on the Endeavor AI platform to identify redundant CT scan requests, reducing clarification effort by 90%. Similar solutions for MRI and ultrasound (US) are in development, aiming to mitigate unnecessary examinations across modalities.
 
+<b><a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-ntfgh-nhip2024-399">Ng Teng Fong General Hospital</a> </b> piloted the Automated Code Red Alert (ACRA) triggering and upskilling of ICU nurses to&nbsp;&nbsp;ICU Outreach Nursing Service (ICUORN)s. Results show 100% compliance in escalating care to the right clinicians, reduction in incidence of in-hospital cardiac arrest, and ICU/HD admissions.
+
 <b><em>Best Practice: Care Redesign&nbsp;</em></b>
 
 <b><a rel="noopene" target="blank" href="https://for.sg/child-chi-sg-child-collection-sgh-nhip2024-918">Singapore General Hospital (SGH)</a> </b> redesigned workflows to improve stroke treatment timelines. The team reduced median door-to-puncture timings for Endovascular Thrombectomy (EVT) from 130 to 82 minutes, enhancing patient outcomes and reducing disability. Plans are underway to share these best practices nationwide.
