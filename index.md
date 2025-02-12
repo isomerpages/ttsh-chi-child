@@ -39,6 +39,7 @@ sections:
       title: CHILD is Getting a MAKEOVER
       description: Stay tuned for our NEW site end March 2025!
       image: /images/As_CHILD_transitions_from_our_interim_space_to_our_future_home__we_will_be_taking_a_PAUSE_in_our_content_upload_to_the_current_site__But_do_keep_your_submissions_coming_in_as_our_team_is_still_wor__4_.png
+      alt: CHILD transition
   - resources:
       title: What's Trending Now
       button: More in CHILD's Collection
