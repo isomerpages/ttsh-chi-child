@@ -36,13 +36,9 @@ sections:
           - title: Workforce Transformation
             url: https://child.chi.sg/child-collection/workforce-transformation/
   - infopic:
-      title: Editor's Pick
-      description: "Don't know where to start? The CHILD team has curated some
-        outstanding best practice projects from our archives:"
-      button: Find out more
-      image: /images/editorpick.png
-      url: https://child.chi.sg/share/pickofthemonth/
-      alt: CHI Innovation Cycle
+      title: CHILD is Getting a MAKEOVER
+      description: Stay tuned for our NEW site end March 2025!
+      image: /images/As_CHILD_transitions_from_our_interim_space_to_our_future_home__we_will_be_taking_a_PAUSE_in_our_content_upload_to_the_current_site__But_do_keep_your_submissions_coming_in_as_our_team_is_still_wor__4_.png
   - resources:
       title: What's Trending Now
       button: More in CHILD's Collection
