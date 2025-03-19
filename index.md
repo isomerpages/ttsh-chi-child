@@ -44,7 +44,7 @@ sections:
       title: What's Trending Now
       button: More in CHILD's Collection
   - infopic:
-      title: Akan Datang in 2024
+      title: Akan Datang in 2025
       subtitle: This is a Preview of CHILD
       description: While we're working hard to put together a robust knowledge
         management (KM) platform for you, we want you to have a taste of the
