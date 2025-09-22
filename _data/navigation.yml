@@ -10,5 +10,14 @@ links:
     collection: about-child
   - title: Contact Us
     url: /contact-us/
-  - title: ChatGPT
-    url: https://child-serverless.streamlit.app/
+  - title: Chatbots
+    url: /permalink
+    sublinks:
+      - title: CHILD ChatGPT
+        url: https://child-serverless.streamlit.app/
+      - title: CHILD Collection
+        url: https://list-child.streamlit.app/
+      - title: CHILD Toolkits
+        url: https://list-toolkit.streamlit.app/
+      - title: Problem Statement Mkt Solution
+        url: https://child-matchmaker.streamlit.app/
