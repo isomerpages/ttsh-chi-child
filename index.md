@@ -52,5 +52,5 @@ sections:
       button: Make CHILD Your 1st Step
       alt: Image alt text
       image: /images/qrcodee.png
-      url: https://staging.d33f4rx9vjypzg.amplifyapp.com/do-connect-collaborate/
+      url: /do-connect-collaborate/
 ---
